@@ -43,13 +43,13 @@ ______
 
 ### 🏆三等奖：
     📃 分享文章
-    
+    [在牛市让基金申赎预测“开挂”？一文读懂多源融合与注意力增强 LSTM 实践](https://mp.weixin.qq.com/s/AvtMceirFcBnJIOZx-N9kQ)
     🎬答辩视频
     
     💻分享代码
-    
+    https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
     📝 方案分享
-
+    
 
 ### 🏆三等奖：
     📃 分享文章

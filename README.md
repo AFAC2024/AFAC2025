@@ -43,12 +43,14 @@ ______
 
 ### 🏆三等奖：
     📃 分享文章
-    [在牛市让基金申赎预测“开挂”？一文读懂多源融合与注意力增强 LSTM 实践](https://mp.weixin.qq.com/s/AvtMceirFcBnJIOZx-N9kQ)
+    [在牛市让基金申赎预测“开挂”？一文读懂多源融合与注意力增强 LSTM 实践](https://mp.weixin.qq.com/s/AvtMceirFcBnJIOZx-N9kQ) 
     🎬答辩视频
     
     💻分享代码
     https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
     📝 方案分享
+      [AFAC-2025晨曦队.pdf](https://github.com/user-attachments/files/22398513/AFAC-2025.pdf) 
+
     
 
 ### 🏆三等奖：
@@ -137,10 +139,14 @@ ______
 
 ### 🏆一等奖：
     📃 分享文章
-    
+    [AFAC2025冠军方案解析：金融领域中的长思维链压缩](https://mp.weixin.qq.com/s/ROKX039W0TVicoynDhmtrQ) 
     🎬答辩视频
-    
+
+    💻分享代码
+    https://github.com/liuliAI/AFAC2025-Challenge-Compression-of-Long-Thinking-Chains-in-the-Financial-Field-Gold-Medal-Solution
     📝方案分享
+    [AFAC2025金融智能创新大赛挑战组答辩ppt-ljq13317046284-刘吉强  - 脱敏.pdf](https://github.com/user-attachments/files/22398588/AFAC2025.ppt-ljq13317046284-.-.pdf)
+
 
 
 ### 🏆 二等奖：

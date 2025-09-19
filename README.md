@@ -106,13 +106,19 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 
 
 ### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
+
+📃 分享文章 
+
+https://mp.weixin.qq.com/s/PEKT5cRj4BVk33BFnOd8tw
+
+🎬答辩视频 
+
+💻分享代码 
+
+
+📝 方案分享 
+
+[赛题二_蛋木.pdf](https://github.com/user-attachments/files/22418898/_.pdf)
 
 
 ### 🏆三等奖：

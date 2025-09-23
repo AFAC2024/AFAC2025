@@ -87,31 +87,42 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 
 本赛题聚焦长文本、多素材一致性智能核验技术，要求通过自然语言处理、知识图谱等技术，构建覆盖文本语义对齐等自动化比对引擎，支持动态规则库（如免责条款定义、监管要求）的实时适配。解决该问题将显著提升合规效率、降低运营风险，助力保险业智能化转型。推动保险业从“人工合规”迈向“智能合规”，助力企业规避风险，加速电子投保、智能核赔等场景的规模化落地。
 
-### 🏆一等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻 分享代码
-    📝 方案分享
+### 🏆一等奖：feiyun
+📃 分享文章
+
+🎬答辩视频
+
+💻 分享代码
 
 
-### 🏆二等奖：
-    📃 分享文章
-    
-    📝 方案分享
+📝 方案分享
 
-
-### 🏆二等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    📝 方案分享
+[赛题二-feiyun队.pdf](https://github.com/user-attachments/files/22490491/-feiyun.pdf) 
 
 
 
-### 🏆三等奖：
+### 🏆二等奖：ths
+📃 分享文章
+
+📝 方案分享
+
+[赛题二-ths-答辩ppt.pdf](https://github.com/user-attachments/files/22490544/-ths-.ppt.pdf)
+
+
+
+### 🏆二等奖：clife
+📃 分享文章
+
+🎬答辩视频
+
+📝 方案分享
+
+[赛题二-clife-V3.pdf](https://github.com/user-attachments/files/22490595/-clife-V3.pdf)
+
+
+
+
+### 🏆三等奖：蛋木
 
 📃 分享文章 
 
@@ -127,24 +138,13 @@ https://mp.weixin.qq.com/s/PEKT5cRj4BVk33BFnOd8tw
 [赛题二_蛋木.pdf](https://github.com/user-attachments/files/22418898/_.pdf)
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
+### 🏆三等奖：番禺彭于晏
+
+ 📝 方案分享
+ 
+[赛题二-番禺彭于晏-陈键.pdf](https://github.com/user-attachments/files/22490619/-.-.pdf) 
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
 
 
 

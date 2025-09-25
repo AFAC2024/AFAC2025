@@ -37,7 +37,9 @@ ______
 
 ### 🏆 二等奖：allin
 📃 分享文章
+
 https://mp.weixin.qq.com/s/gXwTECrrRn-98EJ0cM6u5g
+
 💻分享代码
 
 📝方案分享
@@ -89,6 +91,8 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 
 ### 🏆一等奖：feiyun
 📃 分享文章
+
+[feiyun组斩获冠军！RAG多步精细化比对策略，破解金融长文本矛盾检测难题](https://mp.weixin.qq.com/s/uWN9uHL0nll57oZK2CXy6Q) 
 
 🎬答辩视频
 
@@ -282,9 +286,12 @@ https://mp.weixin.qq.com/s/PEKT5cRj4BVk33BFnOd8tw
 初创组旨在发掘、培育并赋能具有颠覆性创新理念与前沿技术实力的创业团队及种子企业，以推动社会和产业的持续革新与健康发展。参赛者可聚焦于金融科技、数字生活等众多领域拓展新方向、新技术及新产品的发展与应用，推动产业转型升级，催生出一批具有高成长性和市场竞争力的项目。
 
 ### 🏆二等奖：
-    📃 分享文章
+📃 分享文章
+
+[初创组二等奖！图计算赋能金融风控，北理教授秦宏超的「反内卷」创业样本](https://mp.weixin.qq.com/s?__biz=MzI1MTc0NTk2Mw==&mid=2247497059&idx=1&sn=71aeca2f72f636d30e0efb246dd189d1&chksm=e8ea1ebd9880763a1095c7a369b743eb051e080eaa594c8dac0ecea03f19231881a837624fd3&xtrack=1&scene=0&subscene=126&sessionid=1758708154&clicktime=1758708158&enterid=1758708158&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7923354-zh_CN-zip&fasttmpl_flag=0&realreporttime=1758708158993&devicetype=android-34&version=28003f37&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_fffe9335040d&countrycode=GL&exportkey=n_ChQIAhIQvcSte64MyER6SK5fF6RN2hLxAQIE97dBBAEAAAAAAJp1I%2FZNiDUAAAAOpnltbLcz9gKNyK89dVj0KZyr1nEtg40tpNXyrsk3FECs%2FKyioS8PBXnOWd7ZCuztPMqnmrMbxlBfajWXNQaX8GQlOKXDR4OCIUvHG52JrgUs6AWX9vtlO7F6JYvRQmR5g1j%2BLexTbCtTO9E0ol5mkSQvRPWSLnEmtbKjJJ9Sb9Im0cu3%2B3BdFDNFlDTGf5Dak1V4zpcYHX31CN4604rmCqRxM0bc0EAw5m0g7T6RABiAhdBHdgzQi2JcWt3HxfPC3ZXi20aXTr8mRauefrHCzDZ6nguhat8lqVs%3D&pass_ticket=7w4g63rWq68phkRqcbItcL%2BAa%2Bm8mu7ZGGY3apJPOHF0BnvAk4WnyQ5IHa1P4k37&wx_header=3) 
+
     
-    💻项目介绍视频
+💻项目介绍视频
 
 
 ### 🏆三等奖：

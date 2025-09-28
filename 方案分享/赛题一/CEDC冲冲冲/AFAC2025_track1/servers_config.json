@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "fetch": {
+            "type": "sse",
+            "url": "https://mcp.api-inference.modelscope.net/4131a7a124ea4d/sse"
+        }
+    }
+}

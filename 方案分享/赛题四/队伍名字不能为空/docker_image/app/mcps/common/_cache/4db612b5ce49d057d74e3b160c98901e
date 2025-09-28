@@ -1,0 +1,1489 @@
+<!DOCTYPE html>
+<html class="news-hkex" xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt2">
+    <title>上市公司信息標題搜尋</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no" />
+    <link href="/ncms/images/favicon.ico" rel="icon" />
+    <link href="/ncms/css/main.css" rel="stylesheet" />
+    <link href="/ncms/css/titlesearch.css" rel="stylesheet" />
+	
+    <script type="text/javascript" src="/ncms/script/hkex_app.js"></script>
+    <script type="text/javascript" src="/ncms/script/hkex_settings.js"></script>
+    <script type="text/javascript" src="/ncms/script/hkex_widget.js"></script>  
+    
+    <script type="text/javascript">
+			document.documentElement.setAttribute("lang","zh-HK");
+		 	
+	</script></head><body>
+<form id="j_idt10" name="j_idt10" method="post" action="/search/titlesearch.xhtml;jsessionid=pnBrjP_vjg3CLWTTYrqi4ar8hD0N9hfrciHq57I_.s107" enctype="application/x-www-form-urlencoded" style="display: none;">
+<input type="hidden" name="j_idt10" value="j_idt10" />
+<input id="j_idt10:loadMoreRange" type="hidden" name="j_idt10:loadMoreRange" value="100" />
+<input id="startDate" type="hidden" value="2024-07-23" />
+<input id="endDate" type="hidden" value="2025-07-23" />
+<input id="stockId" type="hidden" value="1000203178" />
+<input id="stockCode" type="hidden" value="06682 第四範式" />
+<input id="searchType" type="hidden" value="rbAfter2006" />
+<input id="searchTypeInt" type="hidden" value="1" />
+<input id="newsTitle" type="hidden" />
+<input id="tierOneId" type="hidden" value="-2" />
+<input id="tierTwoId" type="hidden" value="-2" />
+<input id="tierTwoGpId" type="hidden" value="-2" />
+<input id="selectedDocType" type="hidden" value="-1" />
+<input id="selectedSecurities" type="hidden" value="0" />
+<input id="displayResultTable" type="hidden" /><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-5998234246386839534:-5131214480482418626" autocomplete="off" />
+</form>
+	<input type="hidden" name="titleSearchResultControl.searchByIndex" value="0" />
+	<input type="hidden" name="titleSearchByAllResult.dateFromUi" />
+	<input type="hidden" name="titleSearchByAllResult.dateToUi" />
+
+	<script type="text/javascript" src="/ncms/script/vendor.js"></script>
+		 <script type="text/javascript" src="/ncms/script/hkex_head_c.js"></script>
+    
+    
+    <div id="skip-to-content"></div>
+	
+    
+	<div id="hkex_news_topbanner">
+        <section class="banner banner__mobile_breadcrumb banner__head">
+            <div class="tab-content">
+		    	<div data-include-html="titleSearchSearchPanel_c.html" role="tabpanel" class="tab-pane active" id="tab-panel-title-search"></div>
+		    </div>
+        </section>
+    </div>
+	
+	
+	
+	<script type="text/javascript">
+	    var displayResultTable = $('input#displayResultTable').val();
+		if(displayResultTable == ''){
+			// JS variables, please set before hkex_pagebanner.js
+		   var pageDefaultTitle = "上市公司公告搜尋結果";	
+		    var pageDefaultSubTitle = ""; // TO override page subtitle
+		    var pageDefaultBanner = "/ncms/media/HKEXnews/top_banner_bg.png"; // TO override page banner for desktop
+		    var pageDefaultTabletBanner = "/ncms/media/HKEXnews/top_banner_bg_tablet.png"; // TO override page banner for tablet
+		}
+	</script>
+		    <script type="text/javascript" src="/ncms/script/hkex_pagebanner_c.js"></script>
+    
+
+    
+    <div class="container content-container title-search-container content-container-reset table-mobile-list-container" style="display:  ">
+        <input id="LISTING_CAT_LINK" type="hidden" value="https://www.hkex.com.hk/eng/rulesreg/listrules/listsptop/listoc/co_inf.htm" style="display: none;" />
+        <input id="lang" type="hidden" value="C" style="display: none;" />
+        <main class="title-search"><div id="categoryPanel"> 
+            <div class="title-search-topbar">
+                <div class="title-search-info">
+                    <div class="quick-links">
+                        <ul>
+                        
+						   <li><a href="https://di.hkex.com.hk/di/NSSrchCorpQW.aspx?src=MAIN&amp;lang=ZH&amp;in=1&amp;sc=06682" title="披露權益">披露權益</a></li>
+                                	<li>上市類別: 主要上市</li>
+                        </ul>
+                    </div><div id="recordCountPanel">
+                    <div class="title-search-info-footer clearfix">
+                        <div class="total-records">共有 67 紀錄</div>
+                    	<div class="disclaimer">
+                            <a href="https://www2.hkexnews.hk/-/media/HKEXnews/Homepage/Listed-Company-Publications/Search-Guide/SearchDisclaimer_c.pdf" class="fancy-note-label" data-toggle="popup" data-target="#cms-lci-disclaimer">免責聲明</a>
+                        </div>
+                    </div></div>
+                </div>
+            </div></div><div id="titleSearchResultPanel"> 
+            <div class="title-search-content">            
+                <div class="title-search-result search-page-container">
+                    <div class="title-search-result-toolbar result-toolbar">
+                        <div class="hideHeadline">
+                            <a tabindex="0" class="hideShow showing"><span class="hide-headline">隱藏標題</span><span class="show-headline">顯示標題</span></a>
+                        </div>
+                        <div class="mobileSort">
+                            <a tabindex="0" data-toggle="nav-popover" class="sort__dropdown">排序</a>
+                            <div class="popover result-toolbar-popover">
+                                <div class="popover__content">
+                                    <ul class="popover__content-list">
+                                        <li class="popover__list-item" onclick="javascript:sortByReleaseTimeDesc()"><a tabindex="0" data-sort-by="0" data-sort-dir="1">最新 資訊</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByReleaseTimeAsc()"><a tabindex="0" data-sort-by="0" data-sort-dir="0">最舊 資訊</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockCodeAsc()"><a tabindex="0" data-sort-by="1" data-sort-dir="0">代號 升序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockCodeDesc()"><a tabindex="0" data-sort-by="1" data-sort-dir="1">代號 降序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockNameAsc()"><a tabindex="0" data-sort-by="2" data-sort-dir="0">股份名稱 升序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockNameDesc()"><a tabindex="0" data-sort-by="2" data-sort-dir="1">股份名稱 降序排列</a></li> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="title-search-result-mobile desktop-hidden tablet-hidden">
+                    </div>
+                    
+                    <table class="table sticky-header-table table-scroll table-mobile-list" role="grid" data-sortlist="[[0,1]]">
+                        <thead>
+                            <tr>
+                                <th class="release-date" data-column-class="release-date" data-sorter="extractDDMMYYYY" data-date-format="ddmmyyyy" onclick="javascript:sortTable('DateTime')">發放時間</th>
+                                <th class="stock-code" data-column-class="stock-code" data-sorter="text" onclick="javascript:sortTable('StockCode')">股份代號</th>
+                                <th class="stock-code-name" data-column-class="stock-code-name" onclick="javascript:sortTable('StockName')">股份簡稱</th>
+                                <th class="sorter-false document-details headline-toggle" data-column-class="document-details">文件</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>17/07/2025 07:07</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [配售 &#x2f; 根據一般性授權發行股份]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0717/2025071700038_c.pdf" rel="noopener noreferrer" target="_blank">根據一般授權發行H股
+										</a>
+						            	  (<span class="attachment_filesize">338KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/07/2025 10:45</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0707/2025070700156_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年六月三十日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 21:58</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [審核委員會的職權範圍]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601877_c.pdf" rel="noopener noreferrer" target="_blank">董事會審計委員會職責和議事規則
+										</a>
+						            	  (<span class="attachment_filesize">235KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 21:58</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [薪酬委員會的職權範圍]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601875_c.pdf" rel="noopener noreferrer" target="_blank">董事會薪酬委員會職責和議事規則
+										</a>
+						            	  (<span class="attachment_filesize">189KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 21:57</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [提名委員會的職權範圍]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601869_c.pdf" rel="noopener noreferrer" target="_blank">董事會提名委員會職責和議事規則
+										</a>
+						            	  (<span class="attachment_filesize">198KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 21:57</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">憲章文件<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601867_c.pdf" rel="noopener noreferrer" target="_blank">章程
+										</a>
+						            	  (<span class="attachment_filesize">401KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 21:56</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事名單和他們的地位和作用]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601865_c.pdf" rel="noopener noreferrer" target="_blank">董事名單及其角色及職能
+										</a>
+						            	  (<span class="attachment_filesize">111KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 21:56</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股東周年大會的結果 &#x2f; 更換董事或重要行政職能或職責的變更 &#x2f; 修訂憲章文件 &#x2f; 更換核數師]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601863_c.pdf" rel="noopener noreferrer" target="_blank">(1) 於二零二五年六月二十六日（星期四）舉行之
+年度股東大會之投票表決結果；
+(2) 選舉職工代表董事；
+(3) 委任獨立非執行董事；
+(4) 更換核數師；及
+(5) 修訂公司章程
+										</a>
+						            	  (<span class="attachment_filesize">199KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>16/06/2025 22:29</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0616/2025061601554_c.pdf" rel="noopener noreferrer" target="_blank">公告
+選舉職工代表董事
+										</a>
+						            	  (<span class="attachment_filesize">181KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>05/06/2025 14:56</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0605/2025060500398_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年五月三十一日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/05/2025 22:38</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">委任代表表格<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0527/2025052701554_c.pdf" rel="noopener noreferrer" target="_blank">將於二零二五年六月二十六日（星期四）舉行之年度股東大會之代表委任表格
+										</a>
+						            	  (<span class="attachment_filesize">849KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/05/2025 22:37</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股東周年大會通告 &#x2f; 暫停辦理過戶登記手續或更改暫停辦理過戶日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0527/2025052701552_c.pdf" rel="noopener noreferrer" target="_blank">年度股東大會通告
+										</a>
+						            	  (<span class="attachment_filesize">184KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/05/2025 22:35</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">通函 - [一般性授權 &#x2f; 回購股份的說明函件 &#x2f; 在股東批准的情況下重選或委任董事 &#x2f; 修訂憲章文件 &#x2f; 在股東批准的情...<div class='fancy-note-tooltip-hover' data-tooltip-position='nextsibling'>  <a href='javascript:void(0)' class='fancy-note-label tooltip' >更多</a></div><div class='fancy-note-hover bottom mobile-hidden'>通函 - [一般性授權 &#x2f; 回購股份的說明函件 &#x2f; 在股東批准的情況下重選或委任董事 &#x2f; 修訂憲章文件 &#x2f; 在股東批准的情況下更換核數師 &#x2f; 其他]</div>]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0527/2025052701548_c.pdf" rel="noopener noreferrer" target="_blank">年度股東大會通函
+										</a>
+						            	  (<span class="attachment_filesize">1MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/05/2025 20:14</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更改註冊地址或辦事處、香港業務的註冊地或香港接收法律程序文件代表]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0527/2025052701226_c.pdf" rel="noopener noreferrer" target="_blank">更改註冊地址
+										</a>
+						            	  (<span class="attachment_filesize">126KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/05/2025 20:14</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換核數師]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0527/2025052701224_c.pdf" rel="noopener noreferrer" target="_blank">建議更換核數師
+										</a>
+						            	  (<span class="attachment_filesize">233KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/05/2025 20:14</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0527/2025052701222_c.pdf" rel="noopener noreferrer" target="_blank">建議委任獨立非執行董事
+										</a>
+						            	  (<span class="attachment_filesize">182KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/05/2025 20:13</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [修訂憲章文件]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0527/2025052701220_c.pdf" rel="noopener noreferrer" target="_blank">(1)建議修訂本公司公司章程
+及
+(2)建議修訂股東會議事規則及董事會議事規則
+										</a>
+						            	  (<span class="attachment_filesize">139KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>15/05/2025 17:51</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [其他-業務發展最新情況]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0515/2025051500840_c.pdf" rel="noopener noreferrer" target="_blank">截止2025年3月31日第一季度業務表現
+										</a>
+						            	  (<span class="attachment_filesize">312KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>08/05/2025 18:06</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0508/2025050801415_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年四月三十日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>25/04/2025 16:39</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [環境、社會及管治資料&#x2f;報告]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0425/2025042500794_c.pdf" rel="noopener noreferrer" target="_blank">2024年環境、社會及管治報告
+										</a>
+						            	  (<span class="attachment_filesize">20MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>25/04/2025 16:32</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [年報]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0425/2025042500582_c.pdf" rel="noopener noreferrer" target="_blank">2024年年報
+										</a>
+						            	  (<span class="attachment_filesize">1MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>17/04/2025 21:23</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [股份購回]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0417/2025041701764_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">121KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>16/04/2025 20:14</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [股份購回]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0416/2025041601668_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">121KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>15/04/2025 22:06</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [股份購回]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0415/2025041501990_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">121KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>14/04/2025 21:06</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [股份購回]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0414/2025041401235_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">121KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>11/04/2025 22:02</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [股份購回]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0411/2025041101654_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">121KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>10/04/2025 19:54</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [股份購回]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0410/2025041001240_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">121KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>09/04/2025 22:14</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [股份購回]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0409/2025040901220_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">121KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>08/04/2025 12:27</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [其他-雜項]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0408/2025040800356_c.pdf" rel="noopener noreferrer" target="_blank">自願性公告
+回購股份
+										</a>
+						            	  (<span class="attachment_filesize">161KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/04/2025 16:35</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0407/2025040700768_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年三月三十一日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>31/03/2025 20:27</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事名單和他們的地位和作用]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0331/2025033101838_c.pdf" rel="noopener noreferrer" target="_blank">董事名單及其角色及職能
+										</a>
+						            	  (<span class="attachment_filesize">109KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>31/03/2025 20:26</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0331/2025033101830_c.pdf" rel="noopener noreferrer" target="_blank">提名委員會組成變動
+										</a>
+						            	  (<span class="attachment_filesize">140KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>31/03/2025 20:25</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [提名委員會的職權範圍]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0331/2025033101822_c.pdf" rel="noopener noreferrer" target="_blank">董事會提名委員會職責和議事規則
+										</a>
+						            	  (<span class="attachment_filesize">198KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>31/03/2025 16:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [末期業績]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0331/2025033100450_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年十二月三十一日止年度
+全年業績公告
+										</a>
+						            	  (<span class="attachment_filesize">497KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>19/03/2025 16:34</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0319/2025031900397_c.pdf" rel="noopener noreferrer" target="_blank">董事會會議召開日期
+										</a>
+						            	  (<span class="attachment_filesize">123KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>06/03/2025 20:03</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0306/2025030601646_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年二月二十八日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">144KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>13/02/2025 19:41</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0213/2025021300962_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">127KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>13/02/2025 19:41</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [配售 &#x2f; 根據一般性授權發行股份]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0213/2025021300960_c.pdf" rel="noopener noreferrer" target="_blank">完成根據一般授權配售新H股
+										</a>
+						            	  (<span class="attachment_filesize">297KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/02/2025 07:53</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [配售 &#x2f; 根據一般性授權發行股份]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0207/2025020700028_c.pdf" rel="noopener noreferrer" target="_blank">根據一般授權配售新H股
+										</a>
+						            	  (<span class="attachment_filesize">393KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>06/02/2025 16:41</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0206/2025020600826_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年一月三十一日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>21/01/2025 19:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換公司秘書]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0121/2025012100725_c.pdf" rel="noopener noreferrer" target="_blank">變更聯席公司秘書
+										</a>
+						            	  (<span class="attachment_filesize">172KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>10/01/2025 17:50</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更改註冊地址或辦事處、香港業務的註冊地或香港接收法律程序文件代表]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0110/2025011000730_c.pdf" rel="noopener noreferrer" target="_blank">更改香港主要營業地點的地址
+										</a>
+						            	  (<span class="attachment_filesize">126KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/01/2025 17:53</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0107/2025010701141_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年十二月三十一日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>05/12/2024 12:44</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1205/2024120500369_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年十一月三十日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>19/11/2024 17:15</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股份計劃]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1119/2024111900564_c.pdf" rel="noopener noreferrer" target="_blank">根據購股權計劃授出購股權
+										</a>
+						            	  (<span class="attachment_filesize">166KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>19/11/2024 16:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [其他-業務發展最新情況]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1119/2024111900284_c.pdf" rel="noopener noreferrer" target="_blank">截止2024年9月30日第三季度
+業務進展
+										</a>
+						            	  (<span class="attachment_filesize">287KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>05/11/2024 17:29</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1105/2024110501279_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年十月三十一日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">140KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/10/2024 18:41</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1007/2024100701448_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年九月三十日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">144KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/09/2024 17:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [其他-雜項]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0927/2024092701532_c.pdf" rel="noopener noreferrer" target="_blank">自願性公告 - 控股股東作出自願禁售承諾
+										</a>
+						            	  (<span class="attachment_filesize">130KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/09/2024 20:29</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [中期&#x2f;半年度報告]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0926/2024092602123_c.pdf" rel="noopener noreferrer" target="_blank">中期報告 2024
+										</a>
+						            	  (<span class="attachment_filesize">4MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>19/09/2024 22:49</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股東特別大會的結果]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0919/2024091901665_c.pdf" rel="noopener noreferrer" target="_blank">於2024年9月19日（星期四）舉行之臨時股東大會之投票表決結果
+										</a>
+						            	  (<span class="attachment_filesize">166KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>19/09/2024 22:39</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0919/2024091901651_c.pdf" rel="noopener noreferrer" target="_blank">行政職位變更
+										</a>
+						            	  (<span class="attachment_filesize">149KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>13/09/2024 06:05</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0913/2024091300008_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">129KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>12/09/2024 22:50</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [內幕消息]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0912/2024091201715_c.pdf" rel="noopener noreferrer" target="_blank">公告
+完成H股全流通
+										</a>
+						            	  (<span class="attachment_filesize">155KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>12/09/2024 22:49</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [其他-雜項]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0912/2024091201713_c.pdf" rel="noopener noreferrer" target="_blank">有關日期為二零二四年八月三十日的通函的更新公告
+										</a>
+						            	  (<span class="attachment_filesize">144KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>09/09/2024 21:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">展示文件<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/dod/tc.html" rel="noopener noreferrer" target="_blank">展示文件
+										</a>
+						            	  (<span class="attachment_filesize">多檔案</span>)<span></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>05/09/2024 22:34</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [內幕消息]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0905/2024090502009_c.pdf" rel="noopener noreferrer" target="_blank">公告
+本公司H股全流通獲聯交所授出上市批准
+										</a>
+						            	  (<span class="attachment_filesize">217KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>05/09/2024 10:52</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0905/2024090500238_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年八月三十一日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">140KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/08/2024 22:57</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [內幕消息]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0830/2024083003709_c.pdf" rel="noopener noreferrer" target="_blank">公告
+本公司H股全流通申請完成中國證監會備案
+										</a>
+						            	  (<span class="attachment_filesize">156KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/08/2024 22:54</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">展示文件<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/dod/tc.html" rel="noopener noreferrer" target="_blank">展示文件
+										</a>
+						            	  (<span class="attachment_filesize">多檔案</span>)<span></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/08/2024 22:52</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">委任代表表格<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0830/2024083003631_c.pdf" rel="noopener noreferrer" target="_blank">將於二零二四年九月十九日（星期四）舉行之臨時股東大會之代表委任表格
+										</a>
+						            	  (<span class="attachment_filesize">395KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/08/2024 22:52</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股東特別大會通告 &#x2f; 暫停辦理過戶登記手續或更改暫停辦理過戶日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0830/2024083003629_c.pdf" rel="noopener noreferrer" target="_blank">臨時股東大會通告
+										</a>
+						            	  (<span class="attachment_filesize">178KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/08/2024 22:51</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">通函 - [股份計劃]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0830/2024083003623_c.pdf" rel="noopener noreferrer" target="_blank">(1) 建議採納購股權計劃
+(2) 建議採納股權激勵計劃
+(3) 建議授權董事會及╱或計劃管理人
+處理購股權計劃相關事宜
+(4) 建議授權董事會及╱或授權人士
+處理股權激勵計劃相關事宜
+及
+(5) 臨時股東大會通告
+										</a>
+						            	  (<span class="attachment_filesize">734KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/08/2024 22:50</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股份計劃]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0830/2024083003617_c.pdf" rel="noopener noreferrer" target="_blank">建議採納股權激勵計劃
+及
+建議採納購股權計劃
+										</a>
+						            	  (<span class="attachment_filesize">208KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>15/08/2024 16:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [中期業績]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0815/2024081500327_c.pdf" rel="noopener noreferrer" target="_blank">截至2024年6月30日止六個月之中期業績公告
+										</a>
+						            	  (<span class="attachment_filesize">458KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>06/08/2024 17:10</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0806/2024080601055_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年七月三十一日止月份之股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">140KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>02/08/2024 19:04</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>06682</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>第四範式</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0802/2024080201919_c.pdf" rel="noopener noreferrer" target="_blank">董事會會議召開日期
+										</a>
+						            	  (<span class="attachment_filesize">124KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>                      
+                       </tbody>
+                   </table>
+                  
+                </div><div id="recordCountPanel2">
+                <div class="search-results__content-loadmore component-loadmore component-loadmore-no-options">
+                    <div class="component-loadmore__container">
+                        <div class="component-loadmore-leftPart__container">
+                        		顯示 67 紀錄，共有 67 紀錄
+                        </div>
+                    </div>
+                </div>
+                <div class="component-loadmore-leftPart__container-Mobile">
+                        	顯示 67 紀錄，共有 67 紀錄
+                </div></div>
+            </div></div>
+        </main>
+    </div>     
+    
+    <div class="fancy-popup-wrap fancy-note">
+        <div>
+            
+            <div class="fancy-note-popup" id="cms-lci-disclaimer">
+                <a class="fancy-note-close" href="#"></a>
+                <div class="fancy-note-detail">
+                    <div class="fancy-note-title">免責聲明</div>
+                    <div class="fancy-note-desc">
+                        <p>載有本免責聲明的超連結的網頁所顯示的文件及資料在本網站上登載，目的是向香港公眾人士提供資料；其中的內容並非投資建議，不應倚賴其作為投資建議。在香港以外地區的人士在瀏覽及使用該等文件及資料前，須自行查閱及遵守所有適用法例及規定。                            
+                        </p>
+                        <p>請注意：該網頁載有由上市發行人、新上市申請人及有關人士以電子方式 (包括以電子格式提供的資料) 向香港交易所提供的文件及資料，而香港交易所與上述人士之間並無任何代理、僱員或合夥關係。香港交易所並不負責審查、編輯或監察該等文件及當中所載資料，有關文件內的資料全部未經香港交易所核實。
+                        </p>
+                        <p>香港交易所及/或其附屬公司對通過該網頁而取得的該等文件及資料的內容概不負責，對其準確性、可靠性、完整性或擁有權亦不發表任何聲明，並明確表示概不對任何因該等資料全部或任何部分內容而產生或因倚賴該等內容而引致的損失承擔任何責任。另外，有些文件及資料可能包含有連接到外部網站或網頁的超連結，香港交易所及/或其附屬公司對可否成功連接到有關網站或網頁及其所載內容亦概不負責。(見香港交易所「<a href="http://www2.hkexnews.hk/Global/Exchange/Hyperlink-Policy?sc_lang=zh-HK" target="_blank">超連結政策</a>」)。
+                        </p>
+                        <p>本聲明的內容概不構成或被視為香港交易所及其附屬公司放棄其專有的特權及豁免權又或對上述權力構成任何限制。
+                        </p>
+                        <p>通過該網頁而取得的資料及文件均具有版權，可能屬香港交易所、作者或任何其他人士所有，視乎刊物的情況而定。未經有關當事人同意，任何人士不得轉載、發布、使用及／或連結該等內容。
+                        </p>
+                        <p>如得悉或相信該等文件所載的任何資料不準確、錯誤、不合法、淫褻、誹謗或侵犯第三者的知識產權，請聯絡【香港交易所電子呈交小組】(HKEX e-Submission)，電郵地址： <a href="mailto:ESSHotline@hkex.com.hk">ESSHotline@hkex.com.hk</a>。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="fancy-note-shade"></div>
+        </div>
+    </div>
+    
+    
+    <div class="overlay"></div>
+    	<script type="text/javascript" src="/ncms/script/hkex_foot_c.js"></script>
+    
+    
+	<script type="text/javascript">
+    (function($) {
+		includeHTML();
+	})(window.hkexCMS);
+    
+    </script>
+    <script type="text/javascript" src="/ncms/script/main.js"></script>
+    <script type="text/javascript" src="/ncms/eds/titlesearch/config_c.js"></script>
+    <script type="text/javascript" src="/ncms/js/titlesearch.js"></script>
+    <script type="text/javascript" src="/ncms/js/titlesearch_research.js"></script>
+  	<script type="text/javascript" src="/ncms/js/search.js"></script>
+  	<script type="text/javascript"> 
+    TitlseSearchConfig();
+    </script></body>
+
+</html>

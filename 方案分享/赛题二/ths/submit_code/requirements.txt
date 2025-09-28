@@ -1,0 +1,9 @@
+torch==2.5.1
+ms-swift==3.5.0
+accelerate==1.6.0
+liger_kernel==0.5.10
+numpy==1.26.4
+opencv-python-headless==4.11
+transformers==4.51.3
+vllm==0.7.3
+vllm-flash-attn==2.6.1

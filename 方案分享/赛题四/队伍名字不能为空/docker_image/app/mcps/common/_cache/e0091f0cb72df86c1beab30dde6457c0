@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="搜索,中国新闻网" />
+    <meta name="author" content="redhacker(beanor#gmail.com)" />
+    <title>中新搜索</title>
+    <script src="../js/jquery-2.1.4.min.js"></script>
+    <link href="../startbootstrap/vendor/bootstrap/css/bootstrap.min.css"
+          rel="stylesheet">
+    <script src="../My97DatePicker/WdatePicker.js"></script>
+    <link href="../css/list.css" rel="stylesheet">
+    <script src="../js/moment/moment.js"></script>
+    <!-- 预加载图片 -->
+    <link rel="preload" as="image" href="../img/s_bg2.jpg">
+    <link rel="preload" as="image" href="../img/s_logo2.png">
+    <link rel="preload" as="image" href="../img/d2.png">
+    <link rel="preload" as="image" href="../img/load.gif">
+	<script type="text/javascript" src="../js/page.js"></script>
+    <style>
+
+    </style>
+    <script type="text/javascript">
+        var q = "\u5730\u5E73\u7EBF";
+        var sortType = "time";
+        var searchField = "all";
+        var channel = "all";
+        var dateType = "";
+        var startDate = "2025-04-24" == null ? '' : "2025-04-24";
+        var endDate = "2025-07-24"== null ? '' : "2025-07-24";
+        var editor = "";
+        var shouQiFlag = "show";
+        var pageNum = 1;
+        var totalNum = 28;
+        var docArr = [{"createtime":"2025-07-19 12:53:02","unique_id":"4-8-10450515","content_without_tag":"\u7ECF\u8FC7\u56DB\u5929\u53CC\u5FAA\u73AF\u8D5B\u53CA\u4E24\u5929\u51B3\u8D5B\u3001\u9644\u52A0\u8D5B\u7684\u6BD4\u62FC\uFF0C\u9752\u5C9B\u8D5B\u8F6E\u9884\u59072\u961F\u548C\u4E0A\u6D77<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u961F\u6210\u529F\u83B7\u5F97\u53C2\u52A0A\u7C7B\u4FF1\u4E50\u90E8\u8054\u8D5B\u8D44\u683C\u8D5B\u7684\u8D44\u683C\u3002\u503C\u5F97\u4E00\u63D0\u7684\u662F\uFF0C\u8054\u8D5B\u603B\u51A0\u519B\u4E0A\u6D77<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u961F\u8FD8\u5C06\u4EE3\u8868\u4E2D\u56FD\u6865\u724C\u9752\u5E74\u961F\u51FA\u62182026\u5E74\u4E9A\u592A\u53CA\u4E16\u754C\u9752\u5E74\u6865\u724C\u6BD4\u8D5B\uFF0C\u5411\u4E16\u754C\u5C55\u793A\u4E2D\u56FD\u6865\u724C\u7684\u84EC\u52C3\u53D1\u5C55\u6001\u52BF\u3002(\u5B8C)","primary_channel":"ty","pubtime":"2025-07-19 12:53:12","title":"2025\u5E74\u5168\u56FD\u6865\u724CA\u7C7B\u4FF1\u4E50\u90E8\u8054\u8D5B\uFF08\u7B2C\u4E8C\u7AD9\uFF09\u5728\u4E0A\u6D77\u843D\u5E55","url":"http:\/\/www.chinanews.com.cn\/ty\/2025\/07-19\/10450515.shtml","thumbnail_file":""},{"createtime":"2025-07-15 14:22:50","unique_id":"4-8-10448061","content_without_tag":"\u5728AI\u884C\u4E1A\uFF0CDeepSeek\u548C\u56FD\u4EA7AI\u5927\u6A21\u578B\u201C\u516D\u5C0F\u864E\u201D\uFF0C\u5168\u90E8\u90FD\u5728\u4F7F\u7528\u98DE\u4E66\uFF0C\u6B64\u5916\uFF0C\u8FD8\u6709\u5927\u91CF\u7684AI\u5E94\u7528\u516C\u53F8\uFF0C\u4EE5\u53CA\u505A\u82AF\u7247\u7684\u50CF<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\uFF0C\u505A\u673A\u5668\u4EBA\u7684\u50CF\u667A\u5143\uFF0C\u8FD8\u6709\u65E0\u4EBA\u9A7E\u9A76\u7B49\u516C\u53F8\uFF0C\u53EF\u4EE5\u8BF4\u56FD\u5185\u7684AI\u521B\u4E1A\u516C\u53F8\u7EDD\u5927\u90E8\u5206\u90FD\u5728\u7528\u98DE\u4E66\u3002\u8C22\u6B23\u8868\u793A\uFF0C AI\u65F6\u4EE3\u6311\u9009\u8F6F\u4EF6\u7684\u65B9\u6CD5\u5E94\u8BE5\u6539\u53D8\u3002","primary_channel":"cj","pubtime":"2025-07-15 14:23:11","title":"\u98DE\u4E66\u53D1\u5E03\u5E76\u5347\u7EA7\u591A\u6B3EAI\u4EA7\u54C1 \u8C22\u6B23\uFF1A\u9009\u62E9\u98DE\u4E66\uFF0C\u5C31\u662F\u9009\u62E9\u4F01\u4E1A\u957F\u671F\u503C\u5F97\u4FE1\u8D56\u7684AI\u4F19\u4F34","url":"http:\/\/www.chinanews.com.cn\/cj\/2025\/07-15\/10448061.shtml","thumbnail_file":""},{"createtime":"2025-07-14 09:23:50","unique_id":"4-8-10447352","content_without_tag":"\u628A\u76EE\u5149\u805A\u7126\u4E2D\u56FD\u54C1\u724C\u51FA\u6D77\u4E1A\u52A1\uFF0C\u643A\u624B\u6D77\u5916\u5408\u4F5C\u4F19\u4F34\u4E3A\u56FD\u9645\u5BA2\u6237\u63D0\u4F9B\u667A\u80FD\u8F85\u52A9\u9A7E\u9A76\u7CFB\u7EDF\u670D\u52A1\uFF0C\u540C\u6837\u662F\u5317\u4EAC<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u4FE1\u606F\u6280\u672F\u6709\u9650\u516C\u53F8\u91CD\u8981\u6218\u7565\u65B9\u5411\u3002\u201C\u6211\u4EEC\u4E0D\u4EC5\u4E0E\u5927\u4F17\u6C7D\u8F66\u3001\u5927\u9646\u96C6\u56E2\u6210\u7ACB\u4E86\u5408\u8D44\u4F01\u4E1A\uFF0C\u4ECA\u5E74\u4E0A\u6D77\u8F66\u5C55\u671F\u95F4\uFF0C\u8FD8\u5BA3\u5E03\u4E86\u4E0E\u535A\u4E16\u548C\u7535\u88C5\u4E24\u5927\u56FD\u9645\u96F6\u90E8\u4EF6\u9F99\u5934\u4F01\u4E1A\u8FDB\u884C\u6218\u7565\u5408\u4F5C\u3002\u201D<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u603B\u88C1\u9648\u9ECE\u660E\u8BF4\u3002","primary_channel":"cj","pubtime":"2025-07-14 09:23:54","title":"\u4ECE\u4EAE\u773C\u6570\u636E\u770B\u6C7D\u8F66\u4EA7\u4E1A\u6D3B\u529B\u91CA\u653E","url":"http:\/\/www.chinanews.com.cn\/cj\/2025\/07-14\/10447352.shtml","thumbnail_file":""},{"createtime":"2025-07-07 20:41:53","unique_id":"4-8-10444104","content_without_tag":"\u56FD\u9645\u6DF1\u7A7A\u63A2\u6D4B\u5B66\u4F1A\u7531\u6DF1\u7A7A\u63A2\u6D4B\u5B9E\u9A8C\u5BA4\u3001\u4E2D\u56FD\u56FD\u5BB6\u822A\u5929\u5C40\u63A2\u6708\u4E0E\u822A\u5929\u5DE5\u7A0B\u4E2D\u5FC3\u3001\u4E2D\u56FD\u5B87\u822A\u5B66\u4F1A\u3001\u4E2D\u56FD\u7A7A\u95F4\u79D1\u5B66\u5B66\u4F1A\u53CA\u6CD5\u56FD\u884C\u661F\u63A2\u6D4B<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>2061\u4E94\u5BB6\u5355\u4F4D\u8054\u5408\u5021\u8BAE\uFF0C\u4E2D\u5916\u79D1\u5B66\u5BB6\u5171\u540C\u53D1\u8D77\u6210\u7ACB\u3002\u4E2D\u56FD\u63A2\u6708\u5DE5\u7A0B\u603B\u8BBE\u8BA1\u5E08\u3001\u4E2D\u56FD\u5DE5\u7A0B\u9662\u9662\u58EB\u5434\u4F1F\u4EC1\u5F53\u9009\u5B66\u4F1A\u9996\u4EFB\u7406\u4E8B\u957F\u30027\u67087\u65E5\uFF0C\u56FD\u9645\u6DF1\u7A7A\u63A2\u6D4B\u5B66\u4F1A\u5728\u5B89\u5FBD\u7701\u5408\u80A5\u5E02\u63ED\u724C\u6210\u7ACB\u3002","primary_channel":"sh","pubtime":"2025-07-07 20:42:17","title":"\u4E2D\u56FD\u9996\u4E2A\u6DF1\u7A7A\u63A2\u6D4B\u9886\u57DF\u56FD\u9645\u79D1\u6280\u7EC4\u7EC7\u5728\u5B89\u5FBD\u6210\u7ACB","url":"http:\/\/www.chinanews.com.cn\/sh\/2025\/07-07\/10444104.shtml","thumbnail_file":""},{"createtime":"2025-07-07 15:57:21","unique_id":"4-8-10443945","content_without_tag":"\u56FD\u9645\u6DF1\u7A7A\u63A2\u6D4B\u5B66\u4F1A\u7531\u6DF1\u7A7A\u63A2\u6D4B\u5B9E\u9A8C\u5BA4\u3001\u4E2D\u56FD\u56FD\u5BB6\u822A\u5929\u5C40\u63A2\u6708\u4E0E\u822A\u5929\u5DE5\u7A0B\u4E2D\u5FC3\u3001\u4E2D\u56FD\u5B87\u822A\u5B66\u4F1A\u3001\u4E2D\u56FD\u7A7A\u95F4\u79D1\u5B66\u5B66\u4F1A\u53CA\u6CD5\u56FD\u884C\u661F\u63A2\u6D4B<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>2061\u4E94\u5BB6\u5355\u4F4D\u8054\u5408\u5021\u8BAE\uFF0C\u6C47\u805A20\u4F4D\u56FD\u5185\u9662\u58EB\u4E0E31\u540D\u56FD\u5916\u79D1\u5B66\u5BB6\u5171\u540C\u53D1\u8D77\u7533\u8BF7\uFF0C\u5386\u7ECF\u4E24\u5E74\u591A\u7B79\u5907\uFF0C\u4E8E\u4ECA\u5E744\u6708\u7ECF\u56FD\u52A1\u9662\u6279\u51C6\uFF0C\u6210\u4E3A\u5728\u6C11\u653F\u90E8\u6CE8\u518C\u5177\u6709\u72EC\u7ACB\u6CD5\u4EBA\u8D44\u683C\u7684\u975E\u8425\u5229\u6027\u56FD\u9645\u79D1\u6280\u7EC4\u7EC7\u3002","primary_channel":"gn","pubtime":"2025-07-07 15:58:15","title":"\u6211\u56FD\u6210\u7ACB\u9996\u4E2A\u6DF1\u7A7A\u63A2\u6D4B\u9886\u57DF\u56FD\u9645\u79D1\u6280\u7EC4\u7EC7","url":"http:\/\/www.chinanews.com.cn\/gn\/2025\/07-07\/10443945.shtml","thumbnail_file":""},{"createtime":"2025-07-07 09:58:42","unique_id":"4-8-10443764","content_without_tag":"\u201C\u6E05\u98CE\u5F90\u6765\uFF0C\u5439\u6563\u4E86\u5348\u540E\u7684\u6691\u6C14\uFF0C\u522E\u5F97\u7389\u7C73\u53F6\u5B50\u5530\u5530\u4F5C\u54CD\uFF0C\u5915\u9633\u7167\u8000\u5728<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u4E0A\uFF0C\u7F15\u7F15\u708A\u70DF\u56DB\u8D77\uFF0C\u886C\u6258\u6EE1\u5929\u5F69\u4E91\u3002\u773C\u524D\u4E00\u5E45\u591A\u4E48\u7F8E\u597D\u7684\u5927\u81EA\u7136\u98CE\u5149\uFF01\u201D1937\u5E747\u67087\u65E5\u9EC4\u660F\uFF0C\u65F6\u4EFB\u5B9B\u5E73\u53BF\u653F\u5E9C\u79D8\u4E66\u7684\u6D2A\u5927\u4E2D\u671B\u7740\u57CE\u5916\u7684\u7389\u7C73\u5730\uFF0C\u5FC3\u751F\u611F\u6168\u3002\u5982\u679C\u6CA1\u6709\u6218\u4E89\uFF0C\u5728\u4EBA\u4EEC\u7684\u8BB0\u5FC6\u91CC\uFF0C\u8FD9\u5C06\u662F\u4E00\u4E2A\u5B81\u9759\u7684\u590F\u5929\u3002\u4E0D\u8FC7\u5F88\u5FEB\uFF0C\u8FD9\u865A\u5E7B\u7684\u5E73\u9759\u5C31\u88AB\u5F7B\u5E95\u6253\u7834\u4E86\u3002","primary_channel":"gn","pubtime":"2025-07-07 10:02:33","title":"\u5386\u53F2\u8F6C\u6298\u5904\u7684\u90A3\u201C\u4E00\u591C\u4E4B\u95F4\u201D\uFF08\u94ED\u8BB0\u5386\u53F2 \u7F05\u6000\u5148\u70C8\uFF09","url":"http:\/\/www.chinanews.com.cn\/gn\/2025\/07-07\/10443764.shtml","thumbnail_file":""},{"createtime":"2025-07-06 23:53:46","unique_id":"4-8-10443697","content_without_tag":"\u6B64\u5916\uFF0C\u5DF4\u57FA\u65AF\u5766\u5F71\u7247\u300A\u767D\u8681\u300B\u8363\u83B7\u6700\u4F73\u526A\u8F91\u5956\uFF0C\u8499\u53E4\u56FD\u5F71\u7247\u300A\u91D1\u8272<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u300B\u8363\u83B7\u6700\u4F73\u6444\u5F71\u5956\uFF0C\u4E2D\u56FD\u5F71\u7247\u300A\u5DF4\u624E\u559C\u4E8B\u300B\u8363\u83B7\u6700\u4F73\u97F3\u4E50\u5956\uFF0C\u767D\u4FC4\u7F57\u65AF\u5F71\u7247\u300A\u9ED1\u8272\u57CE\u5821\u300B\u8363\u83B7\u6700\u4F73\u7F8E\u672F\u8BBE\u8BA1\u5956\uFF0C\u8BC4\u59D4\u4F1A\u7279\u522B\u5956\u5219\u7531\u5854\u5409\u514B\u65AF\u5766\u5F71\u7247\u300A\u5BFB\u6C42\u771F\u76F8\u300B\u3001\u5DF4\u57FA\u65AF\u5766\u5F71\u7247\u300A\u7EB3\u4E9A\u5E03\u300B\u3001\u4F0A\u6717\u5F71\u7247\u300A\u6700\u540E\u7684\u9CB8\u9CA8\u300B\u83B7\u5F97\u3002","primary_channel":"cul","pubtime":"2025-07-06 23:54:08","title":"2025\u4E0A\u5408\u7EC4\u7EC7\u56FD\u5BB6\u7535\u5F71\u8282\u5728\u91CD\u5E86\u95ED\u5E55","url":"http:\/\/www.chinanews.com.cn\/cul\/2025\/07-06\/10443697.shtml","thumbnail_file":""},{"createtime":"2025-06-27 10:42:11","unique_id":"4-8-10438911","content_without_tag":"\u5317\u4EAC\u5E02<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u5F8B\u5E08\u4E8B\u52A1\u6240\u5F8B\u5E08\u80E1\u6C38\u5E73\u8868\u793A\uFF0C\u5916\u5356\u5E73\u53F0\u5E94\u627F\u62C5\u8D77\u9996\u8981\u8D23\u4EFB\uFF0C\u4ECE\u6E90\u5934\u4F18\u5316\u4FDD\u9669\u914D\u7F6E\u548C\u7BA1\u7406\u6A21\u5F0F\u3002\u4E00\u65B9\u9762\uFF0C\u5728\u9009\u62E9\u4FDD\u9669\u4EA7\u54C1\u65F6\uFF0C\u6452\u5F03\u7247\u9762\u8FFD\u6C42\u4F4E\u4EF7\u7684\u601D\u7EF4\uFF0C\u4E0E\u5177\u5907\u826F\u597D\u4FE1\u8A89\u548C\u507F\u4ED8\u80FD\u529B\u7684\u4FDD\u9669\u516C\u53F8\u5408\u4F5C\uFF0C\u5B9A\u5236\u4E13\u5C5E\u4FDD\u9669\u65B9\u6848\u3002\u786E\u4FDD\u4FDD\u9669\u8986\u76D6\u8303\u56F4\u6DB5\u76D6\u5916\u5356\u914D\u9001\u573A\u666F\u4E0B\u7684\u5404\u7C7B\u98CE\u9669\uFF0C\u5982\u8F66\u8F86\u78B0\u649E\u3001\u7B2C\u4E09\u8005\u4EBA\u8EAB\u4F24\u4EA1\u4E0E\u8D22\u4EA7\u635F\u5931\u3001\u8D27\u7269\u635F\u6BC1\u7B49\u3002","primary_channel":"sh","pubtime":"2025-06-27 10:45:58","title":"\u4E00\u8DEF\u72C2\u98D9\u7684\u201C\u5916\u5356\u7535\u52A8\u8F66\u201D \u51FA\u4E8B\u4E4B\u540E\u8C01\u62C5\u8D23\uFF1F","url":"http:\/\/www.chinanews.com.cn\/sh\/2025\/06-27\/10438911.shtml","thumbnail_file":""},{"createtime":"2025-06-26 14:08:59","unique_id":"4-8-10438354","content_without_tag":"\u4E2D\u65B0\u7F51\u91CD\u5E866\u670826\u65E5\u7535 \u9898\uFF1A\u91CD\u5E86\u4E24\u6C5F\u65B0\u533A\uFF1A\u56ED\u533A\u653F\u52A1\u670D\u52A1\u6301\u7EED\u8FED\u4EE3 \u4F01\u4E1A\u7545\u4EAB\u201C\u4FDD\u59C6\u5F0F\u201D\u670D\u52A1\u4F5C\u8005 \u9EC4\u7EF4\u6B63<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u6CFC\u5F00\u6A58\u7EA2\u67D3\u6599\uFF0C\u8F66\u8F86\u5728\u7167\u6BCD\u5C71\u4E0B\u7EC7\u6210\u6D41\u52A8\u7EBF\u8C31\uFF0C\u201C\u4E0A\u73ED\u65CF\u201D\u8E29\u7740\u971E\u5149\u7684\u788E\u91D1\uFF0C\u53E9\u54CD\u594B\u6597\u8282\u62CD\u2026\u2026\u6E05\u6668\u7684\u91CD\u5E86\u4E24\u6C5F\u6570\u5B57\u7ECF\u6D4E\u4EA7\u4E1A\u56ED\uFF0C\u603B\u662F\u4E00\u6D3E\u7E41\u5FD9\u666F\u8C61\u3002","primary_channel":"sh","pubtime":"2025-06-26 15:02:34","title":"\u91CD\u5E86\u4E24\u6C5F\u65B0\u533A\uFF1A\u56ED\u533A\u653F\u52A1\u670D\u52A1\u6301\u7EED\u8FED\u4EE3 \u4F01\u4E1A\u7545\u4EAB\u201C\u4FDD\u59C6\u5F0F\u201D\u670D\u52A1","url":"http:\/\/www.chinanews.com.cn\/sh\/2025\/06-26\/10438354.shtml","thumbnail_file":""},{"createtime":"2025-06-24 21:39:13","unique_id":"4-8-10437380","content_without_tag":"\u5728\u201C\u9752\u6625\u52A0\u6CB9\u7AD9\u201D\u540D\u4F01\u4EBA\u624D\u62DB\u8058\u6D3B\u52A8\u4E2D\uFF0C\u4E2D\u6838\u5DE5\u7A0B\u3001\u4E2D\u94C1\u5EFA\u5DE5\u3001\u534E\u4E3A\u3001\u5B57\u8282\u8DF3\u52A8\u3001\u7F8E\u56E2\u3001\u667A\u8C31\u3001<em>\u5730<\/em><em>\u5E73<\/em><em>\u7EBF<\/em>\u7B4920\u4F59\u5BB6\u6D77\u6DC0\u533A\u592E\u4F01\u3001\u201C\u5927\u5382\u201D\u7B49\u5B9E\u4E60\u5B9E\u8DF5\u57FA\u5730\u5355\u4F4D\u63D0\u4F9B\u4E864600\u4F59\u4E2A\u5B9E\u4E60\u3001\u5C31\u4E1A\u5C97\u4F4D\uFF0C\u5305\u62EC\u7CFB\u7EDF\u5F00\u53D1\u3001\u4EA4\u4E92\u8BBE\u8BA1\u3001\u5927\u6A21\u578B\u7B97\u6CD5\u7B49\u591A\u79CD\u5C97\u4F4D\u7C7B\u578B\u3002","primary_channel":"sh","pubtime":"2025-06-24 21:39:21","title":"\u52A9\u529B\u6BD5\u4E1A\u5B63 \u6D77\u6DC0\u4F01\u4E1A\u91CA\u51FA4600\u4F59\u5B9E\u4E60\u5C31\u4E1A\u5C97\u4F4D","url":"http:\/\/www.chinanews.com.cn\/sh\/2025\/06-24\/10437380.shtml","thumbnail_file":""}];
+        var fieldParam = [{"code":"all","name":"\u6807\u9898\u6216\u6B63\u6587"},{"code":"title","name":"\u4EC5\u6807\u9898"},{"code":"content","name":"\u4EC5\u6B63\u6587"}];
+        var sortParam = [{"code":"time","name":"\u6309\u65F6\u95F4\u5012\u5E8F"},{"code":"timeasc","name":"\u6309\u65F6\u95F4\u6B63\u5E8F"},{"code":"_score","name":"\u6309\u76F8\u5173\u5EA6"}];
+        var timeParam = [{"code":"all","name":"\u5168\u90E8"},{"code":"today","name":"\u4ECA\u65E5"},{"code":"3day","name":"\u8FD1\u4E09\u65E5"},{"code":"1week","name":"\u8FD11\u5468"},{"code":"1month","name":"\u8FD1\u4E00\u6708"},{"code":"3month","name":"\u8FD1\u4E09\u6708"},{"code":"6month","name":"\u8FD1\u534A\u5E74"},{"code":"1year","name":"\u8FD1\u4E00\u5E74"}];
+        var channelParam = [{"code":"all","name":"\u5168\u90E8"},{"code":"gj","name":"\u56FD\u9645"},{"code":"gn","name":"\u65F6\u653F"},{"code":"dxw","name":"\u4E1C\u897F\u95EE"},{"code":"comment","name":"\u8BC4\u8BBA"},{"code":"ty","name":"\u4F53\u80B2"},{"code":"hr","name":"\u534E\u4EBA"},{"code":"sh","name":"\u793E\u4F1A"},{"code":"tp","name":"\u56FE\u7247"},{"code":"cul","name":"\u6587\u5A31"},{"code":"cj","name":"\u8D22\u7ECF"},{"code":"life","name":"\u5065\u5EB7\u00B7\u751F\u6D3B"},{"code":"auto","name":"\u6C7D\u8F66"},{"code":"sp","name":"\u89C6\u9891"},{"code":"zhibo","name":"\u76F4\u64AD"},{"code":"mil","name":"\u519B\u4E8B"},{"code":"chuangyi","name":"\u521B\u610F"},{"code":"gsztc","name":"\u56FD\u662F\u76F4\u901A\u8F66"},{"code":"dwq","name":"\u5927\u6E7E\u533A"}];
+        var pageSize = 10;
+    </script>
+    <script>
+        $(document).ready(function() {
+        	
+        	console.log(docArr);
+        	
+            $("#q").val(q);
+            $("#formQ").val(q);
+            $("#formField").val(searchField);
+            $("#formSort").val(sortType);
+            $("#formDateType").val(dateType);
+            $("#formStartDate").val(startDate);
+            $("#formEndDate").val(endDate);
+            $("#formEditor").val(editor);
+            $("#editor").val(editor);
+            $("#formPageNum").val(pageNum);
+            $("#formShouQiFlag").val(shouQiFlag);
+            $("#formChannel").val(channel);
+
+            if(dateType || dateType!=''){
+            	 formatDate(dateType);
+            }
+           
+            //左侧查询条件
+            var fieldParamHtml = '<table class="paramTable">';
+            var sortParamHtml = '<table class="paramTable">';
+            var timeParamHtml = '<table class="paramTable">';
+            var channelParamHtml = '<table class="paramTable">';
+            $.each(fieldParam,function (key,val) {
+                if(key%3 == 0){
+                    fieldParamHtml +="<tr>"
+                }
+                if(searchField == val.code){
+                    fieldParamHtml+='<td><span class="normalParam activeParam" onclick="changeField(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }else{
+                    fieldParamHtml+='<td><span class="normalParam" onclick="changeField(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }
+                if(key%3 == 2 || key == (fieldParam.length-1)){
+                    fieldParamHtml +="</tr>"
+                }
+            })
+            fieldParamHtml += '</table>'
+            $("#fieldParam").html(fieldParamHtml);
+
+            $.each(sortParam,function (key,val) {
+                if(key%3 == 0){
+                    sortParamHtml +="<tr>"
+                }
+                if(sortType == val.code){
+                    sortParamHtml+='<td><span class="normalParam activeParam" onclick="changeSort(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }else{
+                    sortParamHtml+='<td><span class="normalParam" onclick="changeSort(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }
+                if(key%3 == 2 || key == (sortParam.length-1)){
+                    sortParamHtml +="</tr>"
+                }
+            })
+            sortParamHtml += '</table>'
+            $("#sortParam").html(sortParamHtml);
+
+            $.each(timeParam,function (key,val) {
+                if(key%3 == 0){
+                    timeParamHtml +="<tr>"
+                }
+                if(dateType == val.code){
+                    timeParamHtml+='<td><span class="normalParam activeParam" onclick="changeDateType(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }else{
+                    timeParamHtml+='<td><span class="normalParam" onclick="changeDateType(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }
+                if(key%3 == 2 || key == (timeParam.length-1)){
+                    timeParamHtml +="</tr>"
+                }
+            })
+            timeParamHtml += '</table>'
+            //增加自定义范围
+            timeParamHtml += '<div style="color:#747474;" id="timeRangeDiv"><div class="myDateText">自定义：</div><input type="text" name="start_time" id="countTimestart" onfocus="selectDate(1)" onchange="changeDate(1)" value="'+startDate+'" size="8" class="date myDateInput" readonly> - <input type="text" name="end_time" id="countTimeend" onfocus="selectDate(2)" onchange="changeDate(2)" value="'+endDate+'" size="8"  class="date myDateInput" readonly> </div>';
+            $("#timeParam").html(timeParamHtml);
+
+            $.each(channelParam,function (key,val) {
+                if(key%3 == 0){
+                    channelParamHtml +="<tr>"
+                }
+                if(channel == val.code){
+                    channelParamHtml+='<td><span class="normalParam activeParam" onclick="changeChannel(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }else{
+                    channelParamHtml+='<td><span class="normalParam" onclick="changeChannel(\''+ key + '\',\'' + val.code+'\')">'+val.name+'</span></td>'
+                }
+                if(key%3 == 2 || key == (channelParam.length-1)){
+                    channelParamHtml +="</tr>"
+                }
+            })
+            channelParamHtml += '</table>'
+            $("#channelParam").html(channelParamHtml);
+            //新闻列表
+            var docListHtml = '';
+            var re1 = /<em>/gi;
+            var re2 = /<\/em>/gi;
+            
+            //console.log(docArr);
+            if (docArr.length > 0) {
+                $.each(docArr, function (key, val) {
+                    var content = val.content_without_tag;
+                    var news_id = val.unique_id;
+                    var title = val.title;
+                    var url = val.url;
+                    if(content && content.length>200){
+	                    var chinese = content.replace(re1,"").replace(re2,"");
+	                    if (chinese.length > 200) {
+	                        content = content.toString().substring(0, 200) + "......";
+	                    }
+                    }
+                    docListHtml += '<table cellpadding="0" cellspacing="0">';
+                    docListHtml += '<tr>';
+                    docListHtml += '<div class="news_title"><a href="' + url + '" target="_blank">' + title + '</a></div>';
+                    docListHtml += '</tr>';
+                    docListHtml += '<tr>';
+                    docListHtml += '<td  valign="top">';
+                    if (val.thumbnail_file) {
+//                        docListHtml += '<img src="../img/load.gif" data-src="' + val.thumbnail_file + '"  loading="lazy" alt="缩略图">';
+//                        docListHtml += '<img src="' + val.thumbnail_file + '">';
+//                    docListHtml+='<img src="../img/temp.jpeg">';
+                        docListHtml += '</td>';
+                        docListHtml += '<td valign="top" style="padding-left: 15px;">';
+                    } else {
+                        docListHtml += '</td>';
+                        docListHtml += '<td valign="top">';
+                    }
+                    docListHtml += '<ul class="news_item">';
+                    docListHtml += '<li class="news_id">' + news_id + '</li>';
+                    docListHtml += '<li class="news_content">' + content + '</li><li class="news_space"></li>';
+                    docListHtml += '<li><a href="' + url + '" target="_blank"><span class="news_other">' + url + '</span></a><span class="news_other" style="margin-left: 10px;font-size: 11px;">' + val.createtime + '</span></li>';
+                    docListHtml += '</ul>';
+                    docListHtml += '</td>';
+                    docListHtml += '</tr>';
+                    docListHtml += '</table>';
+                    docListHtml += '<hr />';
+                })
+                $("#rightList").html(docListHtml);
+            }else{
+                docListHtml += '<div class="noResImg"><img src="../img/s_n2.png"></div>';
+                docListHtml += '<div class="noRes"><span>没有找到相关内容，请更换关键字后重试！</span></div>';
+                $("#rightList").html(docListHtml);
+            }
+            //页码
+            if (docArr.length > 0) {
+               
+            	var pagestr=getPages(totalNum,pageSize,pageNum);
+            	var pageDIV = $("#pageDiv");
+                pageDIV.append(pagestr);
+            }
+
+            if(shouQiFlag == 'hide'){
+                hideMoreParam();
+            }else {
+                showMoreParam();
+            }
+
+            //输入框清空按钮
+            $('#input-wrapper').hover(function() { // 鼠标悬浮时触发
+                if($.trim($('#q').val()) != ''){ // input框中有值
+                    $('#clear-input-value').css('display', 'block')
+                }else {
+                    $('#clear-input-value').css('display', 'none') // input框中没有值
+                }
+            }, function() { // 鼠标离开时触发
+                $('#clear-input-value').css('display', 'none')
+            })
+
+            // input change
+            $("#input-wrapper input").bind("input propertychange",function () {
+                if($.trim($('#q').val()) != ''){ // input框中有值
+                    $('#clear-input-value').css('display', 'block')
+                }else {
+                    $('#clear-input-value').css('display', 'none') // input框中没有值
+                }
+            })
+
+            // 初始化的时候执行一下加载图片的函数
+            lazyLoad();
+        });
+
+    </script>
+    <script type="text/javascript">
+        function throttle(fn, delay = 200) {
+            let timer = null;
+            return function () {
+                if (timer) return;
+                timer = setTimeout(() => {
+                    fn.apply(this, arguments);
+                timer = null;
+            }, delay);
+            };
+        }
+        // 懒加载-回调函数
+        function lazyLoad() {
+            const imgs = document.querySelectorAll('img[data-src]');
+            if (!imgs.length) return;
+            imgs.forEach(img => {
+                const rect = img.getBoundingClientRect();
+                if (rect.top < window.innerHeight) {
+                    img.src = img.dataset.src;
+                    img.removeAttribute('data-src'); // 我们是通过img[data-src]查找所有img标签的，渲染后就删除data-src可减少forEach循环的计算成本
+                }
+            })
+        }
+        // 全局监听scroll滚动事件
+        window.addEventListener('scroll', throttle(() => {
+            lazyLoad();
+        }, 100));
+
+        function ongetkey(page){
+            document.submitForm.pageNum.value=page;
+            document.submitForm.submit();
+        }
+        function handleKeyPress(event) {
+            // 检查按下的键是否是回车键 (key code 13)
+            if (event.keyCode === 13) {
+                submitFun();
+            }
+        }
+        function submitFun(){
+            if ($("#q").val() == "") {
+                alert("请输入搜索关键字");
+                return false;
+            }
+            var key = $("#q").val();
+            //if(key.length>30){
+                //alert("输入的关键字长度不能超过30");
+                //return false;
+            //}
+            $("#formQ").val($("#q").val());
+            $("#formPageNum").val(1);
+            document.submitForm.submit();
+        }
+        function searchEditor() {
+            $("#formEditor").val($("#editor").val());
+            console.log($("#formEditor").val());
+            $("#formPageNum").val(1);
+            document.submitForm.submit();
+        }
+        function clearEditor() {
+            $("#editor").val('');
+            $("#formEditor").val('');
+            $("#formPageNum").val(1);
+            document.submitForm.submit();
+        }
+        function changeField(index,val) {
+            $("#formField").val(val);
+            var allSpan = $("#fieldParam").children('span');
+            allSpan.removeClass("activeParam");
+            allSpan.eq(index).addClass("activeParam");
+            $("#formPageNum").val(1);
+            document.submitForm.submit();
+        }
+        function changeSort(index,val) {
+            $("#formSort").val(val);
+            var allSpan = $("#sortParam").children('span');
+            allSpan.removeClass("activeParam");
+            allSpan.eq(index).addClass("activeParam");
+            $("#formPageNum").val(1);
+            document.submitForm.submit();
+        }
+        function changeDateType(index,val) {
+            $("#formDateType").val(val);
+            var allSpan = $("#timeParam").children('span');
+            allSpan.removeClass("activeParam");
+            allSpan.eq(index).addClass("activeParam");
+            formatDate(val);
+            $("#formPageNum").val(1);
+            
+            document.submitForm.submit();
+        }
+        function changeChannel(index,val) {
+            $("#formChannel").val(val);
+            var allSpan = $("#channelParam").children('span');
+            allSpan.removeClass("activeParam");
+            allSpan.eq(index).addClass("activeParam");
+            $("#formPageNum").val(1);
+            document.submitForm.submit();
+        }
+        function selectDate(flag){
+            if(flag==1){
+                var startTime = $("#countTimestart").val();
+                if(startTime != ""){
+                    WdatePicker({dateFmt:'yyyy-MM-dd',minDate:startTime});
+                }else{
+                    WdatePicker({dateFmt:'yyyy-MM-dd'});
+                }
+            }else{
+                var endTime = $("#countTimeend").val();
+                if(endTime != ""){
+                    WdatePicker({dateFmt:'yyyy-MM-dd',maxDate:endTime});
+                }else{
+                    WdatePicker({dateFmt:'yyyy-MM-dd'});
+                }
+            }
+        }
+        function changeDate(flag){
+            var allSpan = $("#timeParam").children('span');
+            allSpan.removeClass("activeParam").addClass("normalParam");
+            $("#formDateType").val('');
+            var startDate = "";
+            var endDate = "";
+            if(flag==1){
+                startDate = $("#countTimestart").val();
+                console.log("start",startDate)
+                $("#formStartDate").val(startDate);
+            }else{
+                endDate = $("#countTimeend").val();
+                console.log("end",endDate)
+                $("#formEndDate").val(endDate);
+            }
+            if(startDate != '' && endDate != ''){
+                $("#formPageNum").val(1);
+                document.submitForm.submit();
+            }
+        }
+        function formatDate(dateType) {
+            const date = new Date()
+            const year = date.getFullYear()
+            const month = ("0" + (date.getMonth() + 1)).slice(-2)
+            const day = ("0" + date.getDate()).slice(-2)
+            var today = year+'-'+month+'-'+day;
+            var startStr = "";
+            var endStr = "";
+            if(dateType != 'all'){
+                var offset = parseInt(dateType.replace("year", "").replace("month", "").replace("week", "").replace("day", ""));
+                if(dateType == 'today'){
+                    startStr = today;
+                }else if(dateType.indexOf('day') != -1){
+                    startStr = moment(new Date()).subtract(offset, "days").format("YYYY-MM-DD");
+                }else if(dateType.indexOf('week') != -1){
+                    startStr = moment(new Date()).subtract(offset*7, "days").format("YYYY-MM-DD");
+                }else if(dateType.indexOf('month') != -1){
+                    startStr = moment(new Date()).subtract(offset, "months").format("YYYY-MM-DD");
+                }else if(dateType.indexOf('year') != -1){
+                    startStr = moment(new Date()).subtract(offset, "years").format("YYYY-MM-DD");
+                }
+                endStr = today;
+            }else{
+                startStr = '';
+                endStr = '';
+            }
+            $("#countTimestart").val(startStr);
+            $("#countTimeend").val(endStr);
+            $("#formStartDate").val(startStr);
+            $("#formEndDate").val(endStr);
+
+        }
+        function hideMoreParam() {
+            $("#shouqi").hide();
+            $("#timeRangeDiv").hide();
+            $("#editorDiv").hide();
+            $("#editor").val('');
+            $("#formEditor").val('');
+            $("#formShouQiFlag").val('hide');
+            $("#more").show();
+
+        }
+        function showMoreParam() {
+            $("#more").hide();
+            $("#shouqi").show();
+            $("#timeRangeDiv").show();
+            $("#editorDiv").show();
+            $("#formShouQiFlag").val('show');
+        }
+
+        function openEnSearch() {
+            window.location.href="/search/en?q=" + $("#q").val();
+        }
+        function openAiSearch() {
+            window.location.href="/search/ai?q=" + $("#q").val();
+        }
+        function openPicSearch() {
+            window.location.href="/search/pic?q=" + $("#q").val();
+        }
+        function openVideoSearch() {
+            window.location.href="/search/video?q=" + $("#q").val();
+        }
+        function openLiveSearch() {
+            window.location.href="/search/live?q=" + $("#q").val();
+        }
+        function openTopicSearch() {
+            window.location.href="/search/topic?q=" + $("#q").val();
+        }
+
+        /**
+         * 清空input框中的值
+         * @returns
+         */
+        function clearInputValue() {
+            $('#q').val('')
+            $('#clear-input-value').css('display', 'none')
+        }
+
+    </script>
+</head>
+<body class="bg">
+<div style="margin:60px auto 30px auto;">
+    <div id="input-wrapper" style="text-align: center;">
+    <a href="/index"><img src="../img/s_logo2.png" alt="中新搜索" border="0" style="margin-right: 5px;width: 8%;" /></a>
+    <span class="form-group" style="position: relative">
+        <input type="text" class="q" name="q" id="q" autocomplete="on" onkeydown="handleKeyPress(event)">
+        <span class="glyphicon glyphicon-remove-circle" id="clear-input-value" onclick="clearInputValue()"></span>
+        <button class="searchBtn" type="button" onclick="submitFun()">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-search" viewBox="0 0 16 16" style="position: absolute;left: 4px;top: 11px;">
+                    <path d="M11.742 10.344a6.5 6.5 0 1 0-1.397 1.398h-.001c.03.04.062.078.098.115l3.85 3.85a1 1 0 0 0 1.415-1.414l-3.85-3.85a1.007 1.007 0 0 0-.115-.1zM12 6.5a5.5 5.5 0 1 1-11 0 5.5 5.5 0 0 1 11 0z"></path>
+                </svg>
+                <span class="souSuo">搜索</span>
+        </button>
+    </span>
+    </div>
+</div>
+<div class="tabDiv">
+    <ul class="tabUl" id="tabUl">
+        <li class="normalTab" onclick="openNewsSearch()"><span class="activeTab">新闻<img class="tip" src="../img/d2.png"></span></li>
+        <li class="normalTab" onclick="openAiSearch()">
+            <img class="ailogo" src="/image/zs.png"/>
+            <span>智搜</span>
+        </li>
+        <li class="normalTab" onclick="openPicSearch()"><span>图片</span></li>
+        <li class="normalTab" onclick="openVideoSearch()"><span>视频</span></li>
+        <li class="normalTab" onclick="openLiveSearch()"><span>直播</span></li>
+        <li class="normalTab" onclick="openTopicSearch()"><span>专题</span></li>
+        <li class="normalTab" onclick="openEnSearch()"><span>English</span></li>
+    </ul>
+</div>
+<div class="content">
+    <table>
+        <tr>
+            <td class="left">
+                <div class="leftParam">
+                    <div class="paramText" id="fieldParamText">搜索位置</div>
+                    <div id="fieldParam" class="paramDetail"></div>
+                    <div class="paramText" id="sortParamText">排序方式</div>
+                    <div id="sortParam" class="paramDetail"></div>
+                    <div class="paramText" id="timeParamText">时间</div>
+                    <div id="timeParam" class="paramDetail"></div>
+                    <div class="paramText" id="channelParamText">频道</div>
+                    <div id="channelParam" class="paramDetail"></div>
+                    <div id="editorDiv">
+                        <div class="paramText" id="editorParamText">编辑</div>
+                        <div id="editorParam" class="paramDetail">
+                            <input id="editor" placeholder="请输入编辑姓名" class="paramInput"/>
+                        </div>
+                        <div style="text-align: center;">
+                            <button class="submitBtn" type="button" onclick="searchEditor()"><img src="../img/submit.png" style="width: 60px;"></button>
+                            <button class="resetBtn" type="button" onclick="clearEditor()"><img src="../img/reset.png" style="width: 60px;"></button>
+                        </div>
+                    </div>
+                    <div id="shouqi" style="text-align: center;margin-top: 30px;color:#81a1e5;">
+                        <div onclick="hideMoreParam()">收起<img src="../img/up.png" style="width: 10px;  margin-top: -5px;  margin-left: 5px;"/></div>
+                    </div>
+                    <div id="more" style="text-align: center;margin-top: 20px;color:#81a1e5;display: none;">
+                        <div onclick="showMoreParam()">展开<img src="../img/down.png" style="width: 10px;  margin-top: -5px;  margin-left: 5px;"/></div>
+                    </div>
+                </div>
+            </td>
+            <td class="mid">
+
+            </td>
+            <td class="right">
+                <div class="rightList">
+                    <div id="rightList">
+
+                    </div>
+                    <div id="pageDiv">
+
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <div class="copyRight">
+        [网上传播视听节目许可证(0106168)][京ICP证040655号]
+        [京公网安备 11010202009201号][京ICP备05004340号-1]
+        [互联网宗教信息服务许可证：京(2022)0000118；京(2022)0000119]<br/>
+    </div>
+    <form name="submitForm" method="post" action="/search/news">
+        <div class="form-group">
+            <input type="hidden" id="formQ" name="q">
+            <input type="hidden" id="formField" name="searchField">
+            <input type="hidden" id="formSort" name="sortType">
+            <input type="hidden" id="formDateType" name="dateType">
+            <input type="hidden" id="formStartDate" name="startDate">
+            <input type="hidden" id="formEndDate" name="endDate">
+            <input type="hidden" id="formChannel" name="channel">
+            <input type="hidden" id="formEditor" name="editor">
+            <input type="hidden" id="formShouQiFlag" name="shouQiFlag">
+            <input type="hidden" id="formPageNum" name="pageNum">
+        </div>
+    </form>
+</div>
+
+
+</body>
+</html>

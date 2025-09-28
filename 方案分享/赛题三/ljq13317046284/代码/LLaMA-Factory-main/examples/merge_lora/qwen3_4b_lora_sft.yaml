@@ -1,0 +1,13 @@
+### Note: DO NOT use quantized model or quantization_bit when merging lora adapters
+
+### model
+model_name_or_path: /workspace/user_code/afac2025/Qwen3-4B-Chat
+adapter_name_or_path: saves/qwen3-4b/lora/sft3
+template: qwen3
+trust_remote_code: true
+
+### export
+export_dir: output/qwen3_4b_lora_sft3
+export_size: 5
+export_device: auto  # choices: [cpu, auto]
+export_legacy_format: false

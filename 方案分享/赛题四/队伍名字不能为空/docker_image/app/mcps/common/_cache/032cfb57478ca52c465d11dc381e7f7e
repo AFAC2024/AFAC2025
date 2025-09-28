@@ -1,0 +1,1 @@
+{"title": "消费者物价指数", "url": "https://data.eastmoney.com/cjsj/foreign_8_0.html", "source": "东方财富网", "file_type": "csv", "key": "macro_china_hk_cpi|时间", "handler": "macro_akshare", "date": "", "summary": "时间,前值,现值,发布日期\n2022年04月,103.3,103.1,2022-05-23\n2022年03月,103.1,103.3,2022-04-22\n2022年02月,102.3,103.1,2022-03-21\n2022年01月,102.2,102.3,2022-02-22\n"}

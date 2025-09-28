@@ -1,0 +1,53 @@
+# Global LLM configuration
+# 模型越好，生成的效果越好，建议使用最好的模型。
+[llm]
+api_type = "openai"  # 添加API类型，使用OpenAI兼容的API
+model = "deepseek-r1"        # The LLM model to use, better use tool supported model
+base_url = "https://dashscope.aliyuncs.com/compatible-mode/v1"  # API endpoint URL
+api_key = "Bearer sk-3HBpGkNspl"                    # Your API key
+max_tokens = 10240                           # Maximum number of tokens in the response
+temperature = 0.6                           # Controls randomness
+
+# [llm] #AZURE OPENAI:
+# api_type= 'azure'
+# model = "YOUR_MODEL_NAME" #"gpt-4o-mini"
+# base_url = "{YOUR_AZURE_ENDPOINT.rstrip('/')}/openai/deployments/{AZURE_DEPOLYMENT_ID}"
+# api_key = "AZURE API KEY"
+# max_tokens = 10240
+# temperature = 0.0
+# api_version="AZURE API VERSION" #"2024-08-01-preview"
+
+
+# [llm] #OLLAMA:
+# api_type = 'ollama'
+# model = "llama3.2"
+# base_url = "http://localhost:11434/v1"
+# api_key = "ollama"
+# max_tokens = 4096
+# temperature = 0.0
+
+# Optional configuration for specific LLM models
+[llm.vision]
+model = "deepseek-r1"        # The vision model to use
+base_url = "https://dashscope.aliyuncs.com/compatible-mode/v1"  # API endpoint URL for vision model
+api_key = "Bearer sk-3HBpGkNspl"                    # Your API key for vision model
+max_tokens = 10240                           # Maximum number of tokens in the response
+temperature = 0.6                           # Controls randomness for vision model
+
+# [llm.vision] #OLLAMA VISION:
+# api_type = 'ollama'
+# model = "llama3.2-vision"
+# base_url = "http://localhost:11434/v1"
+# api_key = "ollama"
+# max_tokens = 4096
+# temperature = 0.0
+
+# Optional configuration, Search settings.
+[search]
+# Search engine for agent to use. Default is "Google", can be set to "Baidu" or "DuckDuckGo" or "Bing"
+# 对于国内用户，建议使用以下搜索引擎优先级：
+# Baidu（百度）- 国内访问最稳定
+# Bing（必应）- 国际化且国内可用
+# Google - 作为备选（需要良好的国际网络）
+# DuckDuckGo - 作为备选（需要良好的国际网络）
+engine = "Bing"

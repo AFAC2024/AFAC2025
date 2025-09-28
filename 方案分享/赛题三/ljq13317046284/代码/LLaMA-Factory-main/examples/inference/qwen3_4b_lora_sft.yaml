@@ -1,0 +1,5 @@
+model_name_or_path: /workspace/user_code/LLaMA-Factory-main/output/qwen3_4b_lora_sft3
+#adapter_name_or_path: saves/llama3-8b/lora/sft
+template: qwen3
+infer_backend: huggingface  # choices: [huggingface, vllm, sglang]
+trust_remote_code: true

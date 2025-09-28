@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html class="news-hkex" xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt2">
+    <title>上市公司信息標題搜尋</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no" />
+    <link href="/ncms/images/favicon.ico" rel="icon" />
+    <link href="/ncms/css/main.css" rel="stylesheet" />
+    <link href="/ncms/css/titlesearch.css" rel="stylesheet" />
+	
+    <script type="text/javascript" src="/ncms/script/hkex_app.js"></script>
+    <script type="text/javascript" src="/ncms/script/hkex_settings.js"></script>
+    <script type="text/javascript" src="/ncms/script/hkex_widget.js"></script>  
+    
+    <script type="text/javascript">
+			document.documentElement.setAttribute("lang","zh-HK");
+		 	
+	</script></head><body>
+<form id="j_idt10" name="j_idt10" method="post" action="/search/titlesearch.xhtml;jsessionid=bxm8dy5GxZL-yRLvgQ4hnk8AlOQebG1pN8_nL_tz.p107" enctype="application/x-www-form-urlencoded" style="display: none;">
+<input type="hidden" name="j_idt10" value="j_idt10" />
+<input id="j_idt10:loadMoreRange" type="hidden" name="j_idt10:loadMoreRange" value="100" />
+<input id="startDate" type="hidden" value="2024-07-24" />
+<input id="endDate" type="hidden" value="2025-07-24" />
+<input id="stockId" type="hidden" value="1000086901" />
+<input id="stockCode" type="hidden" value="09888 百度集團－ＳＷ" />
+<input id="searchType" type="hidden" value="rbAfter2006" />
+<input id="searchTypeInt" type="hidden" value="1" />
+<input id="newsTitle" type="hidden" />
+<input id="tierOneId" type="hidden" value="-2" />
+<input id="tierTwoId" type="hidden" value="-2" />
+<input id="tierTwoGpId" type="hidden" value="-2" />
+<input id="selectedDocType" type="hidden" value="-1" />
+<input id="selectedSecurities" type="hidden" value="0" />
+<input id="displayResultTable" type="hidden" /><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="4709511496517261853:-2051638830069805488" autocomplete="off" />
+</form>
+	<input type="hidden" name="titleSearchResultControl.searchByIndex" value="0" />
+	<input type="hidden" name="titleSearchByAllResult.dateFromUi" />
+	<input type="hidden" name="titleSearchByAllResult.dateToUi" />
+
+	<script type="text/javascript" src="/ncms/script/vendor.js"></script>
+		 <script type="text/javascript" src="/ncms/script/hkex_head_c.js"></script>
+    
+    
+    <div id="skip-to-content"></div>
+	
+    
+	<div id="hkex_news_topbanner">
+        <section class="banner banner__mobile_breadcrumb banner__head">
+            <div class="tab-content">
+		    	<div data-include-html="titleSearchSearchPanel_c.html" role="tabpanel" class="tab-pane active" id="tab-panel-title-search"></div>
+		    </div>
+        </section>
+    </div>
+	
+	
+	
+	<script type="text/javascript">
+	    var displayResultTable = $('input#displayResultTable').val();
+		if(displayResultTable == ''){
+			// JS variables, please set before hkex_pagebanner.js
+		   var pageDefaultTitle = "上市公司公告搜尋結果";	
+		    var pageDefaultSubTitle = ""; // TO override page subtitle
+		    var pageDefaultBanner = "/ncms/media/HKEXnews/top_banner_bg.png"; // TO override page banner for desktop
+		    var pageDefaultTabletBanner = "/ncms/media/HKEXnews/top_banner_bg_tablet.png"; // TO override page banner for tablet
+		}
+	</script>
+		    <script type="text/javascript" src="/ncms/script/hkex_pagebanner_c.js"></script>
+    
+
+    
+    <div class="container content-container title-search-container content-container-reset table-mobile-list-container" style="display:  ">
+        <input id="LISTING_CAT_LINK" type="hidden" value="https://www.hkex.com.hk/eng/rulesreg/listrules/listsptop/listoc/co_inf.htm" style="display: none;" />
+        <input id="lang" type="hidden" value="C" style="display: none;" />
+        <main class="title-search"><div id="categoryPanel"> 
+            <div class="title-search-topbar">
+                <div class="title-search-info">
+                    <div class="quick-links">
+                        <ul>
+                        
+						   <li><a href="https://di.hkex.com.hk/di/NSSrchCorpQW.aspx?src=MAIN&amp;lang=ZH&amp;in=1&amp;sc=09888" title="披露權益">披露權益</a></li>
+                                	<li>上市類別: <a href="https://www.hkex.com.hk/listing/rules-and-guidance/other-resources/listing-of-overseas-companies/company-information-sheets?sc_lang=zh-hk" rel="noopener noreferrer" target="_blank" title="第二上市">第二上市</a></li>
+                        </ul>
+                    </div><div id="recordCountPanel">
+                    <div class="title-search-info-footer clearfix">
+                        <div class="total-records">共有 24 紀錄</div>
+                    	<div class="disclaimer">
+                            <a href="https://www2.hkexnews.hk/-/media/HKEXnews/Homepage/Listed-Company-Publications/Search-Guide/SearchDisclaimer_c.pdf" class="fancy-note-label" data-toggle="popup" data-target="#cms-lci-disclaimer">免責聲明</a>
+                        </div>
+                    </div></div>
+                </div>
+            </div></div><div id="titleSearchResultPanel"> 
+            <div class="title-search-content">            
+                <div class="title-search-result search-page-container">
+                    <div class="title-search-result-toolbar result-toolbar">
+                        <div class="hideHeadline">
+                            <a tabindex="0" class="hideShow showing"><span class="hide-headline">隱藏標題</span><span class="show-headline">顯示標題</span></a>
+                        </div>
+                        <div class="mobileSort">
+                            <a tabindex="0" data-toggle="nav-popover" class="sort__dropdown">排序</a>
+                            <div class="popover result-toolbar-popover">
+                                <div class="popover__content">
+                                    <ul class="popover__content-list">
+                                        <li class="popover__list-item" onclick="javascript:sortByReleaseTimeDesc()"><a tabindex="0" data-sort-by="0" data-sort-dir="1">最新 資訊</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByReleaseTimeAsc()"><a tabindex="0" data-sort-by="0" data-sort-dir="0">最舊 資訊</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockCodeAsc()"><a tabindex="0" data-sort-by="1" data-sort-dir="0">代號 升序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockCodeDesc()"><a tabindex="0" data-sort-by="1" data-sort-dir="1">代號 降序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockNameAsc()"><a tabindex="0" data-sort-by="2" data-sort-dir="0">股份名稱 升序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockNameDesc()"><a tabindex="0" data-sort-by="2" data-sort-dir="1">股份名稱 降序排列</a></li> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="title-search-result-mobile desktop-hidden tablet-hidden">
+                    </div>
+                    
+                    <table class="table sticky-header-table table-scroll table-mobile-list" role="grid" data-sortlist="[[0,1]]">
+                        <thead>
+                            <tr>
+                                <th class="release-date" data-column-class="release-date" data-sorter="extractDDMMYYYY" data-date-format="ddmmyyyy" onclick="javascript:sortTable('DateTime')">發放時間</th>
+                                <th class="stock-code" data-column-class="stock-code" data-sorter="text" onclick="javascript:sortTable('StockCode')">股份代號</th>
+                                <th class="stock-code-name" data-column-class="stock-code-name" onclick="javascript:sortTable('StockName')">股份簡稱</th>
+                                <th class="sorter-false document-details headline-toggle" data-column-class="document-details">文件</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>22/07/2025 17:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0722/2025072200415_c.pdf" rel="noopener noreferrer" target="_blank">董事會會議召開日期
+										</a>
+						            	  (<span class="attachment_filesize">535KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>01/07/2025 18:09</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更 &#x2f; 內幕消息]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0701/2025070100061_c.pdf" rel="noopener noreferrer" target="_blank">內幕消息-有關百度集團股份有限公司的管理層變動
+										</a>
+						            	  (<span class="attachment_filesize">561KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>21/05/2025 17:02</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [季度業績]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0521/2025052100467_c.pdf" rel="noopener noreferrer" target="_blank">2025 年第一季度業績公告
+										</a>
+						            	  (<span class="attachment_filesize">754KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>08/05/2025 17:03</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股東周年大會通告 &#x2f; 暫停辦理過戶登記手續或更改暫停辦理過戶日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0508/2025050801026_c.pdf" rel="noopener noreferrer" target="_blank">股東週年大會通告
+										</a>
+						            	  (<span class="attachment_filesize">558KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>22/04/2025 17:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0422/2025042200670_c.pdf" rel="noopener noreferrer" target="_blank">董事會會議召開日期
+										</a>
+						            	  (<span class="attachment_filesize">535KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>28/03/2025 20:56</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [年報]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0328/2025032802705_c.pdf" rel="noopener noreferrer" target="_blank">2024 年度報告
+										</a>
+						            	  (<span class="attachment_filesize">4MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>18/03/2025 06:04</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [海外監管公告-其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0318/2025031800004_c.htm" rel="noopener noreferrer" target="_blank">發行人剛在本網站英文版面發布一項公告，相應中文版本或會／或不會在本版面發布。
+										</a>
+						            	   (<span class="attachment_filesize">1KB</span>, HTM)
+						            	  
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>13/03/2025 12:13</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">債券及結構性產品 - [發行通函或定價補充文件 － 債務證券]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0313/2025031300212_c.pdf" rel="noopener noreferrer" target="_blank">刊發發售備忘錄 &ndash; 百度集團股份有限公司 - 人民幣7,500,000,000 元於2030 年到期的2.70%優先票據及人民幣2,500,000,000 元於2035 年到期的3.00%優先票據
+										</a>
+						            	  (<span class="attachment_filesize">940KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>12/03/2025 21:04</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">債券及結構性產品 - [上市通告 － 債務證券]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0312/2025031201066_c.pdf" rel="noopener noreferrer" target="_blank">於香港聯合交易所有限公司上市的通告 &ndash; 百度集團股份有限公司- 人民幣7 ,500,000,000 元於2030 年到期的2 .70%優先票據及人民幣2 ,500,000,000 元於2035 年到期的3 .00%優先票據
+										</a>
+						            	  (<span class="attachment_filesize">525KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>12/03/2025 20:43</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [發行債務證券 &#x2f; 海外監管公告-證券發行及相關事宜]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0312/2025031201044_c.pdf" rel="noopener noreferrer" target="_blank">完成發行人民幣100億元以人民幣計值的優先票據
+										</a>
+						            	  (<span class="attachment_filesize">575KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>12/03/2025 19:20</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [發行債務證券 &#x2f; 海外監管公告-證券發行及相關事宜]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0312/2025031200948_c.pdf" rel="noopener noreferrer" target="_blank">完成發行20億美元零息可交換債券
+										</a>
+						            	  (<span class="attachment_filesize">588KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/03/2025 22:05</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [發行債務證券 &#x2f; 海外監管公告-證券發行及相關事宜]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0307/2025030701428_c.pdf" rel="noopener noreferrer" target="_blank">發行20 億美元零息可交換債券的定價
+										</a>
+						            	  (<span class="attachment_filesize">607KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/03/2025 16:40</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [發行債務證券 &#x2f; 海外監管公告-證券發行及相關事宜]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0307/2025030700516_c.pdf" rel="noopener noreferrer" target="_blank">計劃發行可交換債券
+										</a>
+						            	  (<span class="attachment_filesize">592KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>06/03/2025 07:40</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [發行債務證券 &#x2f; 海外監管公告-證券發行及相關事宜]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0306/2025030600055_c.pdf" rel="noopener noreferrer" target="_blank">人民幣100 億元以人民幣計值的優先票據的定價
+										</a>
+						            	  (<span class="attachment_filesize">577KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>05/03/2025 07:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [發行債務證券 &#x2f; 海外監管公告-證券發行及相關事宜]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0305/2025030500062_c.pdf" rel="noopener noreferrer" target="_blank">計劃發行以人民幣計值的優先票據
+										</a>
+						            	  (<span class="attachment_filesize">575KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>25/02/2025 19:15</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [內幕消息 &#x2f; 其他-業務發展最新情況]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0225/2025022500877_c.pdf" rel="noopener noreferrer" target="_blank">內幕消息 - 收購JOYY在中國的直播業務
+										</a>
+						            	  (<span class="attachment_filesize">531KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>24/02/2025 07:42</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更 &#x2f; 更換審核委員會成員 &#x2f; 內幕消息]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0224/2025022400016_c.pdf" rel="noopener noreferrer" target="_blank">內幕消息 - 董事會及委員會組成的變更
+										</a>
+						            	  (<span class="attachment_filesize">550KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>18/02/2025 17:04</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0218/2025021800386_c.pdf" rel="noopener noreferrer" target="_blank">2024年第四季度及全年業績公告
+										</a>
+						            	  (<span class="attachment_filesize">771KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>17/01/2025 17:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0117/2025011700415_c.pdf" rel="noopener noreferrer" target="_blank">董事會會議召開日期
+										</a>
+						            	  (<span class="attachment_filesize">535KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>21/11/2024 17:03</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [季度業績]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1121/2024112100548_c.pdf" rel="noopener noreferrer" target="_blank">2024 年第三季度業績公告
+										</a>
+						            	  (<span class="attachment_filesize">735KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>28/10/2024 17:04</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1028/2024102800495_c.pdf" rel="noopener noreferrer" target="_blank">董事會會議召開日期
+										</a>
+						            	  (<span class="attachment_filesize">535KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>08/10/2024 16:45</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更 &#x2f; 內幕消息]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1008/2024100800406_c.pdf" rel="noopener noreferrer" target="_blank">內幕消息 - 有關百度集團股份有限公司的管理層輪崗
+										</a>
+						            	  (<span class="attachment_filesize">555KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/09/2024 20:10</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [海外監管公告-其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0927/2024092702272_c.htm" rel="noopener noreferrer" target="_blank">發行人剛在本網站英文版面發布一項公告，相應中文版本或會／或不會在本版面發布。
+										</a>
+						            	   (<span class="attachment_filesize">1KB</span>, HTM)
+						            	  
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>22/08/2024 17:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>09888<br/>89888</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>百度集團－ＳＷ<br/>百度集團－ＳＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [中期&#x2f;半年度報告]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0822/2024082200496_c.pdf" rel="noopener noreferrer" target="_blank">2024年第二季度業績公告
+										</a>
+						            	  (<span class="attachment_filesize">799KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>                      
+                       </tbody>
+                   </table>
+                  
+                </div><div id="recordCountPanel2">
+                <div class="search-results__content-loadmore component-loadmore component-loadmore-no-options">
+                    <div class="component-loadmore__container">
+                        <div class="component-loadmore-leftPart__container">
+                        		顯示 24 紀錄，共有 24 紀錄
+                        </div>
+                    </div>
+                </div>
+                <div class="component-loadmore-leftPart__container-Mobile">
+                        	顯示 24 紀錄，共有 24 紀錄
+                </div></div>
+            </div></div>
+        </main>
+    </div>     
+    
+    <div class="fancy-popup-wrap fancy-note">
+        <div>
+            
+            <div class="fancy-note-popup" id="cms-lci-disclaimer">
+                <a class="fancy-note-close" href="#"></a>
+                <div class="fancy-note-detail">
+                    <div class="fancy-note-title">免責聲明</div>
+                    <div class="fancy-note-desc">
+                        <p>載有本免責聲明的超連結的網頁所顯示的文件及資料在本網站上登載，目的是向香港公眾人士提供資料；其中的內容並非投資建議，不應倚賴其作為投資建議。在香港以外地區的人士在瀏覽及使用該等文件及資料前，須自行查閱及遵守所有適用法例及規定。                            
+                        </p>
+                        <p>請注意：該網頁載有由上市發行人、新上市申請人及有關人士以電子方式 (包括以電子格式提供的資料) 向香港交易所提供的文件及資料，而香港交易所與上述人士之間並無任何代理、僱員或合夥關係。香港交易所並不負責審查、編輯或監察該等文件及當中所載資料，有關文件內的資料全部未經香港交易所核實。
+                        </p>
+                        <p>香港交易所及/或其附屬公司對通過該網頁而取得的該等文件及資料的內容概不負責，對其準確性、可靠性、完整性或擁有權亦不發表任何聲明，並明確表示概不對任何因該等資料全部或任何部分內容而產生或因倚賴該等內容而引致的損失承擔任何責任。另外，有些文件及資料可能包含有連接到外部網站或網頁的超連結，香港交易所及/或其附屬公司對可否成功連接到有關網站或網頁及其所載內容亦概不負責。(見香港交易所「<a href="http://www2.hkexnews.hk/Global/Exchange/Hyperlink-Policy?sc_lang=zh-HK" target="_blank">超連結政策</a>」)。
+                        </p>
+                        <p>本聲明的內容概不構成或被視為香港交易所及其附屬公司放棄其專有的特權及豁免權又或對上述權力構成任何限制。
+                        </p>
+                        <p>通過該網頁而取得的資料及文件均具有版權，可能屬香港交易所、作者或任何其他人士所有，視乎刊物的情況而定。未經有關當事人同意，任何人士不得轉載、發布、使用及／或連結該等內容。
+                        </p>
+                        <p>如得悉或相信該等文件所載的任何資料不準確、錯誤、不合法、淫褻、誹謗或侵犯第三者的知識產權，請聯絡【香港交易所電子呈交小組】(HKEX e-Submission)，電郵地址： <a href="mailto:ESSHotline@hkex.com.hk">ESSHotline@hkex.com.hk</a>。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="fancy-note-shade"></div>
+        </div>
+    </div>
+    
+    
+    <div class="overlay"></div>
+    	<script type="text/javascript" src="/ncms/script/hkex_foot_c.js"></script>
+    
+    
+	<script type="text/javascript">
+    (function($) {
+		includeHTML();
+	})(window.hkexCMS);
+    
+    </script>
+    <script type="text/javascript" src="/ncms/script/main.js"></script>
+    <script type="text/javascript" src="/ncms/eds/titlesearch/config_c.js"></script>
+    <script type="text/javascript" src="/ncms/js/titlesearch.js"></script>
+    <script type="text/javascript" src="/ncms/js/titlesearch_research.js"></script>
+  	<script type="text/javascript" src="/ncms/js/search.js"></script>
+  	<script type="text/javascript"> 
+    TitlseSearchConfig();
+    </script></body>
+
+</html>

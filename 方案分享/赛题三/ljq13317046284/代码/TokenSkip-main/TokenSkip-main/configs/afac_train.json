@@ -1,0 +1,10 @@
+{
+    "afac-train": {
+        "test_path": "datasets/afac/fineval-train-ds-cot.json",
+        "language": "zh",
+        "tasks": ["cot"],
+        "process_fn": "process_afac_cot",
+        "answer_extraction_fn": "extract_afac_answer",
+        "eval_fn": "eval_afac_answer"
+    }
+}

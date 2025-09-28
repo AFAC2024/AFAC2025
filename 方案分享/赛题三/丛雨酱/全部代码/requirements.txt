@@ -1,0 +1,10 @@
+pandas>=1.5.0
+requests>=2.28.0
+openai>=1.0.0
+openpyxl>=3.1.0
+# 如果需要进行DPO训练，添加以下依赖
+ms-swift  # 用于DPO训练
+torch>=1.13.0  # 深度学习框架
+transformers>=4.21.0  # Transformer模型
+datasets>=2.0.0  # 数据集处理
+accelerate>=0.20.0  # 训练加速

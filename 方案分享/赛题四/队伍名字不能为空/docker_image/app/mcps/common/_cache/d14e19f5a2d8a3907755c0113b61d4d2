@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome" />
+  <script>
+    var isToContent = "";
+  </script>
+  <!--pc和手机适配代码开始-->
+  <script>
+    document.write('<scr' + 'ipt src="/part/utf8pro/21/2020/1202/36_utf8.js?t=' + new Date().getFullYear() + '_' + new Date().getMonth() + '"></scr' + 'ipt>');
+  </script>
+
+  <!--pc和手机适配代码结束-->
+  <meta name="author" content="chinanews" />
+  <meta name="copyright" content="www.chinanews.com.cn,版权所有" />
+  <meta name="keywords" content="" />
+  <meta name="description" content="黄仁勋：人工智能的下个浪潮是“物理AI”" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <title>黄仁勋：人工智能的下个浪潮是“物理AI”-中新网视频</title>
+  <base href="//www.chinanews.com.cn/">
+  <!--[883,4,1025488] published at 2025-07-17 16:21:12 from #10 by 王祎--> 
+
+  <link href="//image.cns.com.cn/2022homepage/images/base.css" rel="stylesheet" type="text/css" />
+
+  <link rel="stylesheet" href="/part/shipin/6/127.css">
+
+    <link rel="stylesheet" href="/part/shipin/6/92/video-js2020.css?v=20250119"/> 
+    <link rel="stylesheet" href="/m/part/shipin/6/74/videojs-overlay.css">
+    <link rel="stylesheet" href="/part/shipin/6/105/videojs_self_test.css">
+    <style>
+           /*播放广告时禁用播放条*/
+          .vjs-ad-playing .video-js.vjs-has-started .clarity,.vjs-ad-playing .video-js.vjs-has-started .vjs-playback-rate{visibility: hidden;}   
+          .vjs-ad-playing  .video-js.vjs-has-started .vjs-icon-previous-item,.vjs-ad-playing .video-js.vjs-has-started .vjs-icon-next-item{display: none;}
+          .vjs-ad-playing .video-js .vjs-progress-control{visibility: hidden;}
+           /*.vjs-ad-playing .video-js .vjs-time-control{visibility: hidden;} */
+
+           .dgqlayer{overflow: hidden;background:#000;margin:0 auto;}
+           .fixedVideo{
+              position: fixed;
+              right:5px;
+              bottom:5px;
+              width:480px;
+              height: 310px;
+              z-index:9999;
+        }
+         .vjs-ad-playing .video-js.vjs-has-started .vjs-overlay-bottom-right {
+    display: block;    width: 12%;
+    bottom: 10px;
+    cursor:pointer;}
+        .ad{margin:0 auto 20px;}
+        .vjs-ad-playing .video-js .vjs-overlay-background{background:rgba(0,0,0,.5)}
+        .vjs-sublime-skin2 .vjs-volume-panel .vjs-volume-control{bottom:80px;}
+        .vjs-slider-vertical .vjs-volume-level:before{left:-0.60em;}
+.multipleColumn .bd{ padding:0 30px; overflow:hidden;width:690px\9\0;}
+                         .multipleColumn .bd ul{ overflow:hidden; zoom:1; width:690px;float:left; _display:inline;}
+                         .multipleColumn .bd ul li:nth-child(3n){margin-right:0;}
+                         .multipleColumn .bd ul li{ margin:0 30px 16px 0; float:left; _display:inline; overflow:hidden;width:210px;}
+              </style>
+  <script src="/js/jquery1.4.js"></script>
+  <script src="/part/shipin/6/58/jquery.SuperSlide.2.1.1.js"></script>
+<style>
+#SOHUCS #SOHU_MAIN .module-cmt-list .cmt-list-type .cmt-list-number .comment-number{display:none;}
+</style>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+</head>
+
+<body>
+  <!--20170905PV-->
+  <input id="creator" type="hidden" name="creator" value="zhouchi" />
+  <input id="tgid" type="hidden" name="tgid" value="6878af5a0e0f4f1a5a82bb75" />
+  <input id="type" type="hidden" name="type" value="duan" />
+  <input id="did" type="hidden" name="did" value="1025488" />
+  <input id="zhengwenid" type="hidden" name="zhengwenid" value="" />
+  <script type="text/javascript" src="/pv/js/videopv.js"></script>
+  <!--20170905PV-->
+<style type="text/css">
+.logo{width:20px;height:20px;}
+.logo img{padding: 10px 0;}
+#navbar{position:relative;height:102px;border-bottom:4px solid #cd131c;background:#fff}
+.nav_navcon{width:1280px}
+.nav_navcon li{float:left;margin-right:31px;height:42px;font-size:18px;line-height:42px;word-break:keep-all}
+.nav_navcon li.mr{margin-right: 37px;}
+.nav_navcon li.area{margin-right: 17px;}
+.nav_navcon li.ss{margin-right: 0px;}
+.nav_navcon li img.dxw{padding-top:11px;width:90px;height:31px}
+.nav_navcon li a{height:66px;color:#2d2d2d}
+.navmenu {
+    width: 14px;
+    float: left;
+    margin-top: 14px;
+    margin-right: 0px;
+    background: url(//image.cns.com.cn/default/5ddb9ec3/20210721/11.jpg);
+    border-top: 0px solid #ea3440;
+    border-bottom: 0px solid #ea3440;
+    padding: 0;
+    height: 12px;
+    background-color: transparent;
+    cursor: pointer;
+}
+.nav_navcon_more{position:absolute;top:-3px;left:0;z-index:999;display:none;width:100%;height:615px;border-bottom:3px solid #f42e3e;background:#fff}
+.nav_navcon_more .w1280{position:relative;overflow:hidden;padding-top:10px;height:inherit;border-top:1px solid #f3f3f3}
+.nav_navcon_more .con{float:left;width:50%}
+.nav_navcon_more .navlist{width:100%;color:#666;font-size:16px;line-height:42px}
+.nav_navcon_more .navlist a{color:#666;font-size:14px}
+.nav_navcon_more .navlist a:hover{color:#e01b2b}
+.nav_navcon_more .navlist strong{margin-right:28px;color:#333}
+.nav_navcon_more .navlist strong a{color:#333;font-size:16px}
+.nav_navcon_more .navlist em{padding:0 8px}
+.nav_navcon_more .navlist .left{width:100px;text-align:right}
+.nav_navcon_more .navlist .left1{float:left;width:530px}
+.nav_navcon_more .otherlogo{margin-top:10px;padding-top:15px;border-top:1px solid #f3f3f3}
+.nav_navcon_more .otherlogo a{float:left;margin-right:40px}
+.nav_navcon_more .otherlogo img{
+height:45px;
+vertical-align:middle;
+}
+.nav_close{position:absolute;right:0;bottom:33px;display:block;width:36px;height:36px;background:url(//image.cns.com.cn/default/5ddb9ec3/20210728/close.jpg) no-repeat top;cursor:pointer;-webkit-transition:All .4s ease-in-out;-moz-transition:All .4s ease-in-out;-o-transition:All .4s ease-in-out;transition:All .4s ease-in-out}
+.nav_close:hover{background:url(//image.cns.com.cn/default/5ddb9ec3/20210728/2334.png) no-repeat top;-webkit-transform:rotate(1turn);-moz-transform:rotate(1turn);-o-transform:rotate(1turn);transform:rotate(1turn);-ms-transform:rotate(1turn)}
+.nav_navcon .caijing,.nav_navcon .shizheng,.nav_navcon .wenyu{position:relative}
+.nav_navcon li img.arr{margin-left:4px;vertical-align:middle}
+.nav_navcon li .arrowDown{transform:rotate(0);transform-origin:center center}
+.nav_navcon li .arrowDown,.nav_navcon li .arrowUp{-webkit-transition:-webkit-transform .4s ease-out;-moz-transition:-webkit-transform .4s ease-out;transition:-webkit-transform .4s ease-out}
+.nav_navcon li .arrowUp{transform:rotate(180deg);transform-origin:center center}
+.caijing_add,.shizheng_add,.wenyu_add{position:absolute;bottom:-18px;left:-21px;display:none;width:700px;height:30px;line-height:30px;text-align:left;font-size:16px;z-index:2;}
+.caijing_add a,.shizheng_add a,.wenyu_add a{padding:0 20px; }
+.nav_navcon li .caijing_add a,.nav_navcon li .shizheng_add a,.nav_navcon li .wenyu_add a{height: 30px; line-height: 30px;}
+#navbar{-webkit-transition:all .1s ease-out;transition:all .1s ease-out}
+.substation{position:absolute;bottom:8px;left:0;display:none;width:100%;height:50px;color:#d1d1d1;text-align:center;font-size:14px}
+.substation a,.substation a:hover{padding:0 4px;color:#2d2d2d;font-size:14px}
+
+.searchinput{padding:9px 0 0 0;width:182px;float:right; margin-top: 8px;}
+.searchinput .search_input{border:#aaa 1px solid;border-right:none;width:138px;padding:0 0 0 10px;background:#fff;color:#666;line-height:30px;height:30px;float:left;border-radius:10px 0 0 10px}
+.searchinput .search_a{line-height:30px;text-align:center;color:#fff;background:url(//www.chinanews.com.cn/fileftp/2022/05/2022-05-09/U435P4T47D50136F24533DT20220510101956.png) no-repeat left center;float:left;display:block;width:32px;height:30px;text-decoration:none;font-size:0;border:#aaa 1px solid;border-left:none;border-radius:0 10px 10px 0}
+
+#navbar{height:107px;}
+.navmenu{margin-top:19px;}
+.nav_navcon li img.arr{margin-left:10px;}
+.nav_navcon li{margin-right:22px;margin-top:5px;}
+.nav_navcon li.mr{margin-right:40px;}
+.nav_navcon li.nomr{margin-right:16px;}
+.searchinput{margin-top:0;}
+.substation{bottom:0;}
+</style>
+
+<script type="text/javascript">
+  $(document).ready(function(){
+     //navmore
+  $(".navmenu").click(function(){
+  //$(".nav_navcon_more").show("slow");
+  $(".nav_navcon_more").slideDown(1000);
+  $(".nav_close").delay(1000).show(0);
+  });
+  $(".nav_close").click(function(){
+  //$(".nav_navcon_more").hide("slow");
+  $(".nav_navcon_more").slideUp(1000);
+  $(this).hide();
+  });
+});
+    function showNavMenu(index) {
+            $(".navmenu").click(function() {
+                //$(".nav_navcon_more").show("slow");
+                $(".nav_navcon_more").slideDown(1000);
+                $(".nav_close").delay(1000).show(0);
+            });
+            $(".nav_close").click(function() {
+                //$(".nav_navcon_more").hide("slow");
+                $(".nav_navcon_more").slideUp(1000);
+                $(this).hide();
+            });
+        }
+
+function showArea(index) {
+    $(".substation").show();
+    $("#navbar").css("height", "132px")
+    $(".area").find("img").removeClass("arrowDown").addClass("arrowUp");
+}
+
+function hideArea(index) {
+    $(".area").find("img").removeClass("arrowUp").addClass("arrowDown");
+    $("#navbar").css("height", "102px")
+    $(".substation").hide();
+}
+//search            
+ function quickQueryCust(evt) {
+            evt = (evt) ? evt : ((window.event) ? window.event : "") //兼容IE和Firefox获得keyBoardEvent对象
+            var key = evt.keyCode ? evt.keyCode : evt.which; //兼容IE和Firefox获得keyBoardEvent对象的键值
+            if (key == 13) { //判断是否是回车事件。
+                submitFun();
+            }
+        }
+function submitFun() {
+            var hotword = document.getElementsByName('q')[0].value;
+            if (hotword == '') {
+                alert('请输入关键字!');
+                return false;
+            } else {
+
+                window.open("//sou.chinanews.com.cn/search.do?q=" + encodeURIComponent(hotword));
+            }
+        }
+
+          </script>
+
+ <!--nav start-->
+    <div id="navbar">
+        <div class="w1280">
+
+            <ul class="nav_navcon">
+                <li class="logo mr"><a href="/"><img src="/fileftp/2022/05/2022-05-09/U435P4T47D50136F24532DT20220510092934.png" width="20" height="20" alt="中国新闻网"></a></li>
+                <li class="mr"><a href="/scroll-news/news1.html">即时</a></li>
+                <li class="mr"><a href="/china/">时政</a></li>
+                <li class="mr"><a href="/finance/">财经</a></li>
+                <li class="mr"><a href="/dxw/">东西问</a></li>
+                <li class="mr"><a href="/world/">国际</a></li>
+                <li class="mr"><a href="/society/">社会</a></li>
+                <li class="mr"><a href="/theory.shtml">理论·评论</a></li>
+                <li class="mr"><a href="/dwq/">大湾区</a></li>
+                <li class="mr"><a href="//www.chinaqw.com/">华人</a></li>
+                <li class="mr"><a href="/wy/">文娱</a></li>
+                <li class="mr"><a href="/sports/">体育</a></li>
+                <li class="mr"><a href="/edu/">教育</a></li>
+                <li class="mr"><a href="/health/">健康</a></li>
+                <li class="mr"><a href="/fazhi/">法治</a></li>
+                <li class="nomr"><a href="/life/">生活</a></li>
+                <div class="navmenu"></div>
+                <br>
+                 <li class=""><a href="/txy/">同心圆</a></li>
+                <li class=""><a href="/zlgtt/">铸牢中华民族共同体意识</a></li>
+                <li class=""><a href="/ydyl/index.shtml">一带一路</a></li>
+                <li class=""><a href="//www.chinaqw.com/">中国侨网</a></li>
+                <li class=""><a href="//www.inewsweek.cn/">中国新闻周刊</a></li>
+                <li class=""><a href="/gsztc/">国是直通车</a></li>
+                <li class=""><a href="/shipin/">视频</a></li>
+                <li class=""><a href="/live.shtml">直播</a></li>
+                <li class=""><a href="/chuangyi/">创意</a></li>
+                <li class=""><a href="/photo/">图片</a></li>
+                <li class=""><a href="/zhuanlan/">专栏</a></li>
+                <li class="area" onMouseOver="showArea('9')" onMouseOut="hideArea('9')">各地<img src="//image.cns.com.cn/2022homepage/images/toparr.png" class="arr arrowDown">
+                    <div class="substation">
+                       <a href="//www.ah.chinanews.com.cn/">安徽</a>|<a href="//www.bj.chinanews.com.cn/">北京</a>|<a href="//www.cq.chinanews.com.cn/">重庆</a>|<a href="//www.fj.chinanews.com.cn/">福建</a>|<a href="//www.gs.chinanews.com.cn/">甘肃</a>|
+                        <a href="//www.gz.chinanews.com.cn/">贵州</a>|<a href="//www.gd.chinanews.com.cn/">广东</a>|<a href="//www.gx.chinanews.com.cn/">广西</a>|<a href="//www.hi.chinanews.com.cn/">海南</a>|<a href="//www.heb.chinanews.com.cn/">河北</a>|
+                        <a href="//www.ha.chinanews.com.cn/">河南</a>|
+                        <a href="//www.hb.chinanews.com.cn/">湖北</a>|<a href="//www.hn.chinanews.com.cn/">湖南</a>|<a href="//www.hlj.chinanews.com.cn/">黑龙江</a>|<a href="//www.js.chinanews.com.cn/">江苏</a>|<a href="//www.jx.chinanews.com.cn/">江西</a>|
+                        <a href="//www.jl.chinanews.com.cn/">吉林</a>|
+                        <a href="//www.ln.chinanews.com.cn/">辽宁</a>|<a href="//www.nmg.chinanews.com.cn/">内蒙古</a>|<a href="//www.nx.chinanews.com.cn/">宁夏</a>|<a href="//www.qh.chinanews.com.cn/">青海</a>|<a href="//www.sd.chinanews.com.cn/">山东</a>|
+                        <a href="//www.sx.chinanews.com.cn/">山西</a>|
+                        <a href="//www.shx.chinanews.com.cn/">陕西</a>|<a href="//www.sh.chinanews.com.cn/">上海</a>|<a href="//www.sc.chinanews.com.cn/">四川</a>|<a href="//www.tj.chinanews.com.cn/">天津</a>|<a href="//www.xj.chinanews.com.cn/">新疆</a>|
+                        <a href="//www.bt.chinanews.com.cn/">兵团</a>|
+                        <a href="//www.yn.chinanews.com.cn/">云南</a>|<a href="//www.zj.chinanews.com.cn/">浙江</a>
+
+<!--<meta name="chinanews_site_verification" content="0a602693397eaa369c25c347f38105c8"/>-->
+<!--4,34,1807 published at 2025-03-20 13:36:41 by 719-->
+
+                    </div>
+                </li>
+                <div class="searchinput" id="zxss">
+                     <input type="text" value="请输入关键字" onClick="this.value='',this.style.color='#000'" name="q" class="search_input" onKeyDown="return quickQueryCust(event)">
+                     <a class="search_a" onClick="submitFun()">搜 索</a>
+                     <div class="clear"></div>
+                </div>
+
+            </ul>
+            <!--nav more-->
+                  
+            <!--nav more-->
+            <div class="nav_navcon_more">
+                <div class="w1280">
+                    <div class="con">
+                        <div class="navlist">
+                            <strong><a style="margin-left: 40px;" href="/scroll-news/news1.html">即时</a></strong>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/china/">时政</a></strong></div>
+                            <div class="left1">
+                                <a href="//channel.chinanews.com.cn/cns/cl/gn-gcdt.shtml">高层</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/cns/cl/gn-rsbd.shtml">人事</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/cns/cl/fz-ffcl.shtml">反腐</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/u/sdbd.shtml">深度</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/u/gn-la.shtml">两岸</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/cns/cl/gn-kjww.shtml">科教</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/cns/cl/gn-js.shtml">军事</a>
+                                <!--<em>|</em><a href="//channel.chinanews.com.cn/u/ll.shtml">理论</a>-->
+                                </div>
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/dxw/">东西问</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/u/dxw-wetalk.shtml">中外对话</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-sjg.shtml">世界观</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-gjj.shtml">广角镜</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-wszsd.shtml">Z世代</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-yqd.shtml">洋腔队</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-ylc.shtml">舆论场</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-xmp.shtml">新漫评</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-sxj.shtml">思享家</a><em>|</em><br><a href="//channel.chinanews.com.cn/u/dxw-hkt.shtml">会客厅</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-yjy.shtml">研究院</a><em>|</em><a href="//channel.chinanews.com.cn/u/dxw-wxd.shtml">问西东</a></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+        <div class="left"><strong><a href="/finance/">财经</a></strong></div>
+        <div class="left1"><a href="//channel.chinanews.com.cn/u/cj/cj-hongguan.shtml">宏观</a><em>|</em><a href="//channel.chinanews.com.cn/u/cj/cj-chanjing.shtml">产经</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cj-hgds.shtml">中国新观察</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cj-slh.shtml">三里河</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cj-msrd.shtml">民生调查局</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cj-zxcp.shtml">中新财评</a><em>|</em><br><a href="//channel.chinanews.com.cn/cns/cl/cj-fyrw.shtml">商业风云录</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cj-zk.shtml">智库</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cj-gy.shtml">公益</a></div>
+        <div class="clear"></div>
+    </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/world/">国际</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/cns/cl/gj-sjg.shtml">世界观</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/gj-zxsjg.shtml">国际识局</a><em>|</em><a href="//channel.chinanews.com.cn/u/gj-rw.shtml">国际人物</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/gj-gjrp.shtml">国际热评</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/gj-xmp.shtml">新漫评</a><em>|</em><a href="//www.chinanews.com.cn/shipin/m/gj/views.shtml">国际视野</a></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/society/">社会</a></strong></div>
+                            <div class="left1">
+          <a href="//channel.chinanews.com.cn/u/rdzz.shtml">热点追踪</a><em>|</em>
+<a href="//channel.chinanews.com.cn/cns/cl/sh-zxzt.shtml">中新真探</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/u/fsh.shtml">新闻浮世绘</a><em>|</em>
+
+                                <a href="//channel.chinanews.com.cn/cns/cl/fz-jdrw.shtml">中新法治</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/u/gn-dyxc.shtml">第一现场</a></div>
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/dwq/">大湾区</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/u/dwq-ga.shtml">港澳</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/dwq-fxb.shtml">风向标</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/dwq-kcd.shtml">快车道</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/dwq-qns.shtml">青年说</a><em>|</em><a href="//channel.chinanews.com.cn/u/dwq-wqzjjy.shtml">专家建言</a><em>|</em><a href="//channel.chinanews.com.cn/u/dwq-wqwdf.shtml">湾得福</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/dwq-video.shtml">Video</a><em>|</em><a href="//www.chinanews.com.cn/dwq/#wqmap">湾区MAP</a></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/health/">健康</a></strong></div>
+                            <div class="left1"> <a href="//channel.chinanews.com.cn/cns/cl/life-doctoriscoming.shtml">大医生来了</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/life-temperatureofmedicine.shtml">医学的温度</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/life-observationsonmedicine.shtml">医药新观察</a></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/edu/">教育</a></strong></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/fazhi/">法治</a></strong></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/life/">生活</a></strong></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="//www.chinaqw.com/">华人</a></strong></div>
+                            <!--<div class="left1"><a href="//channel.chinanews.com.cn/cns/cl/hr-lszs.shtml">领事之声</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/hr-hwbz.shtml">华媒报摘</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/hr-hrshq.shtml">华闻聚焦</a><em>|</em><a href="//channel.chinanews.com.cn/u/hr/cgfx.shtml">出国风向</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/hr-qjdt.shtml">侨界动态</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/hr-qxcz.shtml">侨乡传真</a><em>|</em>
+                                <a href="//channel.chinanews.com.cn/video/cns/splm/ga-hr.shtml">视频</a></div>-->
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+
+                    <div class="con">
+                      <div class="navlist">
+                            <div class="left"><strong><a href="/txy/">同心圆</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/cns/cl/txy-tzyw.shtml">统战要闻</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/txy-tzsx.shtml">统战时讯</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/txy-gdtz.shtml">各地统战</a></div>
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left" style="width:205px;"><strong><a href="/zlgtt/">铸牢中华民族共同体意识</a></strong></div>
+                            <div class="left1" style="width:420px;"><a href="//channel.chinanews.com.cn/cns/cl/mz-cc.shtml">民族传承</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/mz-fg.shtml">政策法规</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/mz-xs.shtml">学术动态</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/mz-df.shtml">地方实践</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/mz-gj.shtml">国际传播</a></div>
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/ydyl/">一带一路</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/cns/cl/ydyl-rdjj.shtml">热点聚焦</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/ydyl-sdft.shtml">深度访谈</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/ydyl-gfgz.shtml">各方关注</a><em>|</em><a href="//channel.chinanews.com.cn/u/ydyl-hwsj.shtml">海外视角</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/ydyl-xmdt.shtml">项目动态</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/ydyl-fscg.shtml">丰硕成果</a>
+                                </div>
+                            <div class="clear"></div>
+
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/wy/">文娱</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/cns/cl/cul-whmt.shtml">文化漫谈</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cul-xjgw.shtml">艺苑大观</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/cul-sckgd.shtml">收藏考古</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/yl-mxnd.shtml">星闻联播</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/yl-ypkb.shtml">影音综艺</a></div>
+                            <div class="clear"></div>
+
+                        </div>
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/sports/">体育</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/cns/cl/ty-bdjj.shtml">独家视角</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/ty-gnzq.shtml">绿茵赛场</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/ty-klsk.shtml">篮坛竞技</a><em>|</em><a href="//channel.chinanews.com.cn/cns/cl/ty-zhqt.shtml">综合其他</a><em>|</em><a href="/shipin/m/tt/views.shtml">视频播报</a></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/shipin/">视频</a></strong></div>
+                            <div class="left1"><a href="/shipin/m/rd/views.shtml">热点</a><em>|</em><a href="/shipin/m/gn/views.shtml">国内</a><em>|</em><a href="/shipin/m/sh/views.shtml">社会</a><em>|</em><a href="/shipin/m/gj/views.shtml">国际</a><em>|</em><a href="/shipin/m/jq/views.shtml">军事</a><em>|</em><a href="/shipin/m/wy/views.shtml">文娱</a><em>|</em><a href="/shipin/m/tt/views.shtml">体育</a><em>|</em><a href="/shipin/m/cj/views.shtml">财经</a><em>|</em><a href="/shipin/m/ga/views.shtml">港澳台侨</a><em>|</em><a href="/shipin/minidocu.shtml">微视界</a><em>|</em><br><a href="/shipin/yqd.shtml">洋腔队</a><em>|</em><a href="/shipin/zsd.shtml">Z世代</a><em>|</em><a href="/gn/z/lanmeiyinxiang/index.shtml">澜湄印象</a><em>|</em><a href="/shipin/AuthenticChina.shtml">中国风</a><em>|</em><a href="/shipin/chinarevealed.shtml">中国新视野</a></div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/photo/">图片</a></strong></div>
+                            <div class="left1"><a href="//channel.chinanews.com.cn/u/zxhb.shtml">中新画报</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/gn.shtml">国内</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/sh.shtml">社会</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/gj.shtml">国际</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/yl.shtml">娱乐</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/ty.shtml">体育</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/js.shtml">军事</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/kj.shtml">科技</a><em>|</em>
+                                <br/><a href="//channel.chinanews.com.cn/u/pic/gatq.shtml">港澳台侨</a><em>|</em><a href="//channel.chinanews.com.cn/u/pic/frg.shtml">凡人歌</a>
+                            </div>
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/chuangyi/">创意</a></strong></div>
+
+                            <div class="clear"></div>
+                        </div>
+                        <div class="navlist">
+                            <div class="left"><strong><a href="/theory.shtml">理论</a></strong></div>
+
+                            <div class="clear"></div>
+                        </div>
+
+                        <div class="navlist">
+                            <strong><a style="margin-left: 40px;" href="/live.shtml">直播</a></strong>
+                        </div>
+
+                        <div class="navlist">
+                            <strong><a style="margin-left: 40px;" href="/allspecial/">专题</a></strong>
+                        </div>
+                        <div class="navlist">
+                            <strong><a style="margin-left: 40px;" href="/zhuanlan/">专栏</a></strong>
+                        </div>
+
+                    </div>
+
+                    <div class="clear"></div>
+                    <div class="otherlogo">
+                        <a href="//www.chinaqw.com/"><img src="//image.cns.com.cn/default/5ddb9ec3/20210728/qw.jpg" alt=""></a>
+                        <a href="//www.jwview.com/"><img src="//image.cns.com.cn/default/5ddb9ec3/20210728/jw.jpg" alt=""></a>
+                        <a href="//www.ecns.cn/"><img src="//image.cns.com.cn/default/5ddb9ec3/20210728/ecns1.jpg" alt=""></a>
+                        <a href="/gsztc/"><img src="//www.chinanews.com.cn/fileftp/2021/11/2021-11-16/U947P4T47D49225F24534DT20211116135935.png" alt=""></a>
+                        <a href="//www.inewsweek.cn/"><img src="//www.inewsweek.cn/10/2018/1225/logo.png" alt="" /></a>
+<a href="http://epaper.chinanews.com/"><img src="//www.chinanews.com.cn/fileftp/2022/05/2022-05-10/U435P4T47D50141F24533DT20220511134121.png" alt=""></a>
+    <a href="http://www.cnsphoto.com/"><img src="//www.chinanews.com.cn/fileftp/2022/05/2022-05-10/U435P4T47D50141F24532DT20220511134121.png" alt=""></a>
+                    </div>
+
+                    <div class="nav_close"></div>
+                </div>
+
+            </div>
+
+<!--<meta name="chinanews_site_verification" content="193c2247065905667ef11389290d332e"/>-->
+<!--4,34,1794 published at 2024-11-07 13:53:29 by 435-->
+
+        </div>
+    </div>
+    <!--nav end-->
+              <div class="clear"></div>
+
+<!--<meta name="chinanews_site_verification" content="5ba4a4fb280227b87f9b9b76e199fe5f"/>-->
+<!--4,319,140 published at 2025-03-20 10:46:58 by 435-->
+<div class="w1280 mt20">
+  <div class="channel-nav">
+      <div class="channel-logo"><img src="/fileftp/2022/08/2022-08-02/U947P4T47D50660F24532DT20220802091548.png" alt=""></div>
+      <div class="column-list">
+        <ul>
+          <li><a href="/shipin/m/gd/views.shtml">最新</a></li>
+          <li><a href="/shipin/m/rd/views.shtml">热点</a></li>
+          <li><a href="/shipin/m/gn/views.shtml">国内</a></li>
+          <li><a href="/shipin/m/sh/views.shtml">社会</a></li>
+          <li><a href="/shipin/m/gj/views.shtml">国际</a></li>
+          <li><a href="/shipin/m/jq/views.shtml">军事</a></li>
+          <li><a href="/shipin/m/wy/views.shtml">文娱</a></li>
+          <li><a href="/shipin/m/tt/views.shtml">体育</a></li>
+          <li><a href="/shipin/m/cj/views.shtml">财经</a></li>
+          <li><a href="/shipin/m/ga/views.shtml">港澳台侨</a></li>
+          <li><a href="/shipin/minidocu.shtml">微视界</a></li>
+          <li><a href="/shipin/yqd.shtml">洋腔队</a></li>
+          <li><a href="/shipin/zsd.shtml">Z世代</a></li>
+          <li><a href="/gn/z/lanmeiyinxiang/index.shtml">澜湄印象</a></li>
+          <li><a href="/shipin/AuthenticChina.shtml">中国风</a></li>
+          <li><a href="/shipin/chinarevealed.shtml">中国新视野</a></li>        
+        </ul>
+      </div>
+    </div>
+</div>
+
+  <div class="clear"></div>
+  <div class="videoplay">
+    <div class="w1280" id="playerwrap">
+      <div class="content_title">
+        <div class="title">黄仁勋：人工智能的下个浪潮是“物理AI”</div>
+        <div class="left">
+          <p> 发布时间：2025年07月17日 16:14 &nbsp;&nbsp;&nbsp;&nbsp;来源：中国新闻网</p>
+        </div>
+        <div class="right">
+          <div class="bdsharebuttonbox left">
+            <div class="share-txt" id="share-1"><span>分享到</span></div>
+          </div>
+          <!-- <link rel="stylesheet" href="/test/fabu/2019-05-20/1293/share.min.css"> -->
+          <script src="/test/fabu/2019-05-20/1294/jquery.share.min.js"></script>
+          <script>
+            $(document).ready(function () {
+              $('#share-1').share({ sites: ['wechat','weibo','qzone'] });
+            });
+          </script>
+          <div id="copylink"><img src="/fileftp/2022/08/2022-08-03/U947P4T47D50670F24532DT20220803110409.png" alt=""></div>
+
+        </div>
+        <div class="clear"></div>
+      </div>
+
+      <div class="video-pic">
+        <div id="dgqlayer" class="dgqlayer">
+          <div class="close-btn"></div>
+        </div>
+
+          <div id="rel-news" style="display:none;">
+          <div class="rel">精彩视频</div>
+          <div class="rel-news-list">
+            <ul>
+              <!--[883,34,64] published at 2022-11-11 08:51:37 from #202 by 574-->
+<li>
+                <a href="/sh/shipin/cns/2025/07-17/news1025475.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://image.chinanews.com/cspimp/2025/07-17/d07e54d3-b5ec-4853-a824-f9f68f334d77_small.JPG" alt="">
+                  </div>
+                  <div class="rel-news-title">郑永年：中国民营企业如何更好出海？</div>
+                </a>
+              </li><li>
+                <a href="/ty/shipin/cns-d/2025/07-17/news1025470.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/A780B08C6F2840CF836A1EF6846956A3.jpg" alt="">
+                  </div>
+                  <div class="rel-news-title">大湾区（广州）田径训练营开营 短跑名将上阵指导</div>
+                </a>
+              </li><li>
+                <a href="/cul/shipin/cns-d/2025/07-17/news1025469.shtml">
+                  <div class="rel-news-pic">
+                    <img src="/cul/shipin/cns-d/2025/07-17/U574P883T4D1025469F158DT20250717151507.jpg" alt="">
+                  </div>
+                  <div class="rel-news-title">国家级非遗“高杆船技”亮相江西三百山</div>
+                </a>
+              </li><li>
+                <a href="/hr/shipin/cns/2025/07-17/news1025468.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/custom/f94b20c0516f447f88c144be87233f6f.jpg" alt="">
+                  </div>
+                  <div class="rel-news-title">华裔青少年广州“特训” “血脉”觉醒苦练醒狮</div>
+                </a>
+              </li><li>
+                <a href="/shipin/cns-d/2025/07-17/news1025467.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/uploadImage/2dd4f19ec1b1495091f3860f60f51430.png" alt="">
+                  </div>
+                  <div class="rel-news-title">黄仁勋谈今年三度来华：每次回来，我的心情都很好</div>
+                </a>
+              </li><li>
+                <a href="/cj/shipin/cns/2025/07-17/news1025466.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://image.chinanews.com/cspimp/2025/07-17/fc3c58ce-5963-4436-8ee7-b94a4f2778f7_big.JPG" alt="">
+                  </div>
+                  <div class="rel-news-title">60秒速看第三届中国国际供应链促进博览会开幕式</div>
+                </a>
+              </li><li>
+                <a href="/sh/shipin/cns-d/2025/07-17/news1025463.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/EC634F523842476C98D91212AF673D79.jpg" alt="">
+                  </div>
+                  <div class="rel-news-title">张燕生：四川要从“大西南”走向“全球坐标”</div>
+                </a>
+              </li><li>
+                <a href="/cj/shipin/cns/2025/07-17/news1025455.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://image.chinanews.com/cspimp/2025/07-17/c8b83a58-5d52-4f65-ba84-f59eed782409_big.JPG" alt="">
+                  </div>
+                  <div class="rel-news-title">中国贸促会：中国已建成全球最大、最完整的新能源产业链</div>
+                </a>
+              </li><li>
+                <a href="/cj/shipin/cns-d/2025/07-17/news1025446.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/custom/9c931af20d724fa5bcb137093e31ab1a.jpg" alt="">
+                  </div>
+                  <div class="rel-news-title">“刚柔并济”的碳纤维：女士单手“提车”显示硬核科技</div>
+                </a>
+              </li><li>
+                <a href="/sh/shipin/cns/2025/07-17/news1025444.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/custom/a1aabaf505684406bfca120cd4b5a248.jpg" alt="">
+                  </div>
+                  <div class="rel-news-title">台农扎根福建漳州：立足特色农业优势 先行先试</div>
+                </a>
+              </li><li>
+                <a href="/shipin/cns-d/2025/07-17/news1025443.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/uploadImage/34f13cfd915f46b8bacb8f0eb3b12fd4.png" alt="">
+                  </div>
+                  <div class="rel-news-title">“803反诈”“摇人” 真把胡歌“摇来”了！</div>
+                </a>
+              </li><li>
+                <a href="/shipin/cns/2025/07-16/news1025432.shtml">
+                  <div class="rel-news-pic">
+                    <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/16/chinanews/MEIZI_YUNSHI/onair/29C3BB205C8849F7B6775DDF331E8C6E.jpg" alt="">
+                  </div>
+                  <div class="rel-news-title">“低门槛休闲游”走红 文旅创新解锁惬意新体验</div>
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="content_desc">
+        <p>　　7月17日，在第三届链博会先进制造链主题活动现场，英伟达公司创始人兼首席执行官黄仁勋与之江实验室主任、阿里云创始人王坚进行炉边谈话。黄仁勋表示，如今，人工智能已经能够理解信息并生成信息，我们当前所处的这波浪潮确实令人惊叹，这就是所谓的“推理AI”。“推理AI”之所以如此高效、如此强大，是因为AI能够像人类一样，理解和解决它从未遇到过的问题。我们可以将问题一步步拆解，最终解决那些我们从未真正解决过的难题。他认为，人工智能的下个浪潮是“物理AI”——Physical AI。“过去12年左右，AI发展极为迅猛，基本上每3到5年就会出现一次重大突破。”黄仁勋说。(记者 郎佳慧 迟瀚宇 制作 徐妙巧）</p>
+
+        <p class="content_editor"><span>责任编辑：【周驰】</span></p>
+      </div>
+      <div class="clear"></div>
+
+<div class="banquan">版权声明：中新视频版权属中新社所有，未经书面许可的使用行为，本社将依法追究其法律责任。</div>
+
+    </div>
+
+    <div class="w1280" id="tbtj">
+      <!--特别推荐start-->
+          <div class="tbtj">
+      <div class="tbtj-title">特别推荐</div>
+      <div class="tbtj-list">
+        <ul>
+
+<li>
+  <a href="/shipin/cns/2025/07-17/news1025486.shtml">
+              <img src="https://image.chinanews.com/cspimp/2025/07-17/eebad742-a27a-41a0-af0e-3a36fe3972cc_small.JPG" alt="什么是基孔肯雅热？如何预防？">
+              <div class="play"></div>
+              <div class="title">什么是基孔肯雅热？如何预防？</div>
+            </a>
+          </li>
+
+<li>
+  <a href="/cj/shipin/cns/2025/07-17/news1025465.shtml">
+              <img src="https://image.chinanews.com/cspimp/2025/07-17/6ec61502-a741-4c5a-9698-56a854039894_big.JPG" alt="黄仁勋称赞DeepSeek：杭州是“中国硅谷”">
+              <div class="play"></div>
+              <div class="title">黄仁勋称赞DeepSeek：杭州是“中国硅谷”</div>
+            </a>
+          </li>
+
+<li>
+  <a href="/sh/shipin/cns/2025/07-17/news1025453.shtml">
+              <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/E8D2ABC9FA1C464A90F49A3E666A020C.jpg" alt="西藏民间藏戏团中的少儿身影">
+              <div class="play"></div>
+              <div class="title">西藏民间藏戏团中的少儿身影</div>
+            </a>
+          </li>
+
+<li>
+  <a href="/sh/shipin/cns-d/2025/07-17/news1025447.shtml">
+              <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/5FA8FC7BC4A8417D8646425873CD06EC.jpg" alt="这些“奇珍异果”你吃过吗？">
+              <div class="play"></div>
+              <div class="title">这些“奇珍异果”你吃过吗？</div>
+            </a>
+          </li>
+
+<li>
+  <a href="/sh/shipin/cns/2025/07-17/news1025444.shtml">
+              <img src="https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/custom/a1aabaf505684406bfca120cd4b5a248.jpg" alt="台农扎根福建漳州：立足特色农业优势 先行先试">
+              <div class="play"></div>
+              <div class="title">台农扎根福建漳州：立足特色农业优势 先行先试</div>
+            </a>
+          </li>
+
+        </ul>
+      </div>
+    </div>
+
+      <!--特别推荐end-->
+    </div>
+
+    
+
+    <div class="pinglun">
+
+<div class="pinglun-title-wrap">
+        <div class="pinglun-title">发表评论</div>
+        <div class="pinglun-tips">文明上网理性发言，请遵守新闻评论服务协议</div>
+      </div>
+
+<div id="SOHUCS" sid="video1025488"></div>
+<script charset="utf-8" type="text/javascript" src="//cy-cdn.kuaizhan.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+var _config = { categoryId : 'sp'};
+window.changyan.api.config({
+appid: 'cyqE875ep',
+conf: 'prod_5d616dd38211ebb5d6ec52986674b6e4'
+});
+</script>
+
+    </div>
+    <div class="rmsp">
+      <div class="lmtitle">
+        <a>热门视频</a>
+      </div>
+      <ul>
+        <li><a href="//www.chinanews.com.cn/shipin/cns/2025/07-21/news1025757.shtml" target="_blank" title="曝光10年仍在售！记者卧底揭秘高压电疗仪骗局">曝光10年仍在售！记者卧底揭秘高压电疗仪骗局</a></li><li><a href="//www.chinanews.com.cn/sh/shipin/cns-d/2025/07-21/news1025775.shtml" target="_blank" title="2025高校录取通知书大集合 你最中意哪一款？">2025高校录取通知书大集合 你最中意哪一款？</a></li><li><a href="//www.chinanews.com.cn/shipin/cns-d/2025/07-22/news1025834.shtml" target="_blank" title="直击福建连江红霞岭隧道溜方现场救援：隧道口被堵 各方正抓紧抢修">直击福建连江红霞岭隧道溜方现场救援：隧道口被堵 各方正抓紧抢修</a></li><li><a href="//www.chinanews.com.cn/sh/shipin/cns/2025/07-21/news1025754.shtml" target="_blank" title="中新健康丨如何预防热射病？注意这四点">中新健康丨如何预防热射病？注意这四点</a></li><li><a href="//www.chinanews.com.cn/sh/shipin/cns-d/2025/07-21/news1025777.shtml" target="_blank" title="【辉煌60载 魅力新西藏】西藏农村幸福驿站：托起“一老一小”幸福生活">【辉煌60载 魅力新西藏】西藏农村幸福驿站：托起“一老一小”幸福生活</a></li><li><a href="//www.chinanews.com.cn/sh/shipin/cns/2025/07-21/news1025778.shtml" target="_blank" title="一边教学习一边陪长大 大学生“伴读家教”成暑期热门">一边教学习一边陪长大 大学生“伴读家教”成暑期热门</a></li><li><a href="//www.chinanews.com.cn/sh/shipin/cns/2025/07-21/news1025780.shtml" target="_blank" title="中美青少年“同唱一首歌”：以歌载忆 共谱青春乐章">中美青少年“同唱一首歌”：以歌载忆 共谱青春乐章</a></li><li><a href="//www.chinanews.com.cn/shipin/cns-d/2025/07-22/news1025799.shtml" target="_blank" title="【活力中国调研行】青海数智化追踪“碳足迹”  助力企业“绿色出海”">【活力中国调研行】青海数智化追踪“碳足迹”  助力企业“绿色出海”</a></li><li><a href="//www.chinanews.com.cn/shipin/cns/2025/07-22/news1025824.shtml" target="_blank" title="【小新的Vlog】告别孕期焦虑 跟着小新拆解体重管理黄金法则">【小新的Vlog】告别孕期焦虑 跟着小新拆解体重管理黄金法则</a></li><li><a href="//www.chinanews.com.cn/shipin/cns/2025/07-22/news1025788.shtml" target="_blank" title="全球记者齐聚“一带一路”论坛 共议何为“新闻力量”">全球记者齐聚“一带一路”论坛 共议何为“新闻力量”</a></li>
+<!--<meta name="chinanews_site_verification" content="989e02dd1d1628c12aa584198a0ba9c4"/>-->
+<!--4,115,0 published at 2025-07-23 14:05:01 by 00-->
+      </ul>
+    </div>
+    <!-- <div class="w1280" style="margin-bottom:90px; overflow:hidden;">
+
+    </div> -->
+  </div>
+
+  <div class="clear"></div>
+
+  <div class="w1000 m_center">
+    <!-- 竞价广告开始 -->
+    <div class="cns_video_advert">
+
+    </div>
+    <!-- 竞价广告结束 -->
+    <!-- 视频广告开始 -->
+    <div class="cns_video_advert" id="sptc">
+
+
+    </div>
+    <!-- 视频广告结束 -->
+    <!-- 对联游标广告开始 -->
+    <div class="cns_video_advert">
+
+    </div>
+    <!-- 对联游标广告结束 -->
+  </div>
+
+  <style type="text/css">
+/*pagebottom*/    
+.pagebottom{color:#8d8d8d;margin:0 auto;padding-top:0px;width:100%;font-size:14px;background-color:#fff;border-top:2px solid #c72a2a;}
+.pagebottom a{color:#8d8d8d}
+.pagebottom_nav{width:1280px;margin:0 auto;height:76px;line-height:56px;text-align:center;font-size:18px;color:#666}
+.pagebottom_nav a{color:#666;text-decoration:none}
+.pagebottom_nav a:hover{color:#666;text-decoration:underline}
+.pagebottom_nav span{padding:0 10px}
+.pagebottom_nav li{float:left;padding:10px 40px}
+.pagebottom_nav li:hover{background-color:#c72a2a}
+.pagebottom_nav li:hover a{color:#fff;text-decoration: none;}
+.pagebottom_nav li a{color:#c72a2a}
+.pagebottom_nav .client{float:left;border-left:1px solid #f0f0f0;height:76px}
+.pagebottom_nav .client a{display:inline-block;text-decoration:none;padding:10px 20px 0}
+.pagebottom_nav .client a div{color:#c72a2a;font-size:12px;margin-top:-40px}
+.pagebottom_nr{color:#8d8d8d;background-color:#f9f9f9;padding-top:10px}
+.pagebottom_nr a{color:#8d8d8d;text-decoration:none}
+.pagebottom_nr a:hover{color:#8d8d8d;text-decoration:underline}
+.pagebottom .des{line-height:32px;text-align:center;font-size:14px;display: inline-block;width:100%;}
+</style>
+<script>
+function changeCurrent(thisli) {
+    if(thisli.className=="current"){return}
+    else{
+        $(thisli).siblings().removeClass("current");
+        $(thisli).addClass("current");
+    }
+}
+</script>
+
+<div class="clear"></div>
+            <!--底部-->
+            <div class="pagebottom">
+                <div class="pagebottom_nav">
+                    <ul>
+                        <li onMouseOver="changeCurrent(this)"><a href="/common/footer/intro.shtml">关于我们</a></li>
+                        <li onMouseOver="changeCurrent(this)"><a href="/common/footer/aboutus.shtml">About us</a></li>
+                        <li onMouseOver="changeCurrent(this)"><a href="/common/footer/contact.shtml">联系我们</a></li>
+                        <li onMouseOver="changeCurrent(this)"><a href="//ad.chinanews.com.cn/">广告服务</a></li>
+                        <li onMouseOver="changeCurrent(this)"><a href="/common/footer/news-service.shtml">供稿服务</a></li>
+                        <li onMouseOver="changeCurrent(this)"><a href="/common/footer/law.shtml">法律声明</a></li>
+                        <li onMouseOver="changeCurrent(this)"><a href="/hr/">招聘信息</a></li>
+                        <li onMouseOver="changeCurrent(this)"><a href="/common/footer/sitemap.shtml">网站地图</a></li>
+                    </ul>
+
+                </div>
+                <div class="pagebottom_nr">
+
+                    <div class="des">本网站所刊载信息，不代表中新社和中新网观点。 刊用本网站稿件，务经书面授权。</div>
+
+                    <div class="des">未经授权禁止转载、摘编、复制及建立镜像，违者将依法追究法律责任。</div>
+                </div>
+
+                <div class="pagebottom_nr" style="padding-bottom:20px">
+                    <div class="des">[<a href="/news/xuke.html">网上传播视听节目许可证(0106168)</a>] [<a href="//beian.miit.gov.cn">京ICP证040655号</a>] [
+                        <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202009201" style="display:inline-block;height:20px;line-height:20px;"><img src="//www.chinanews.com/fileftp/2016/02/2016-02-29/ghs.png
+                                   " style="float:left;">京公网安备 11010202009201号</a>] [<a href="//beian.miit.gov.cn">京ICP备2021034286号-7</a>] [<a href="/news/zjxuke.html">互联网宗教信息服务许可证：京(2022)0000118；京(2022)0000119</a>]<br>
+                                   [<a href="//image.cns.com.cn/default/113c4582/20240924/certificate01.jpg">互联网新闻信息服务许可证10120180010</a>]<br>违法和不良信息举报电话：15699788000 举报邮箱：jubao@chinanews.com.cn <a href="/kong/2018/01-17/8426100.shtml">举报受理和处置管理办法</a>  总机：86-10-87826688</div>
+                    <!--include virtual="/part/cns_public/75.html"-->
+                    <div class="des">Copyright &#169;1999-2025 chinanews.com. All Rights Reserved</div>
+                </div>
+
+            </div>
+
+        </div>
+
+        <!--页底end-->
+<!--<meta name="chinanews_site_verification" content="3dfd4204cd21805f7cf550daabf1ec34"/>-->
+<!--4,319,141 published at 2025-01-07 10:06:31 by 808-->
+
+  <script src="/part/shipin/6/93/video.js"></script>
+          <script src="/part/shipin/6/82/titleBarUrl.js"></script>
+          <script src="/m/part/shipin/6/73/videojs-overlay.min.js"></script>
+          <script src="/part/shipin/6/94/videoPlay_demo2020.js?v=0.2"></script>
+  <script src="/part/shipin/6/101/videocommon.js"></script>
+  <!–[if lt IE 9]>
+    <script src="//i5.chinanews.com.cn/shipin_live/replay/swfobject.js"></script>
+    <script src="//i2.chinanews.com.cn/js/getUrlVars.js"></script>
+    <![endif]–>
+<script type="text/javascript">
+  $(function () {
+    var mini_player_width = 960;
+    var mini_player_height = 540;
+      // $(".rel-news-list li").click(function(){
+      //   $(this).addClass("current").siblings("li").removeClass("current");
+      //   var rel_src=$(this).attr("rel_src");
+      //   vids.find("video").attr("src",rel_src);
+      //   vids.find("source").attr("src",rel_src);
+      //   vids.find("video").get(0).play();
+      // })
+
+      $("#copylink").click(function(){
+        var input = $("<input value =" + window.location.href + ">");
+        $("body").prepend(input);
+        $("body").find("input").eq(0).select();
+        document.execCommand("copy");
+        $("body").find("input").eq(0).remove();
+        alert("链接复制成功！");
+      })
+
+    topnav1();
+
+    var videoWrap = document.getElementById("dgqlayer");
+    //视频播放器使用
+    //if((window.navigator.userAgent.indexOf("compatible") > -1 && window.navigator.userAgent.indexOf("MSIE") > -1) || window.navigator.userAgent.indexOf("rv:11.0) like Gecko") > -1){ //ie内核使用flash
+    if ((window.navigator.userAgent.indexOf("compatible") > -1 && (window.navigator.userAgent.indexOf("MSIE 7.0") > -1 || window.navigator.userAgent.indexOf("MSIE 8.0") > -1))) { //只ie6 7 8使用flash
+      //addElement();
+      var vList = new Array();
+var vClass = new Array();
+vList.push('黄仁勋：人工智能的下个浪潮是“物理AI”|https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/uploadImage/68787999158db478cc060d6b_small.jpg|/cj/shipin/cns-d/2025/07-17/news1025488.shtml');
+<!-- 分类列表s -->
+<!--[910,1,17] published at 2019-04-09 17:22:20 from #10 by ��ǫ,designer:shijinshan  maker:lijian zhaoqian -->
+vClass.push('����1+1����ʷ�Ļ����ǣ�����������ժ��|http://i2.chinanews.com/simg/tvmimg/2019/04-08/1252132_sm.jpg|/sh/shipin/2019/04-09/news810760.shtml');vClass.push('�Ĵ������ؾ���ɭ�ֻ����˾ȹ������ڽ��Ž���|http://videoclips.chinanews.com/oss/onair/zxw/szuser/d2427989580a44749c3cb8100b7afa13.jpg|/sh/shipin/cns-d/2019/04-08/news810669.shtml');vClass.push('����������ɽ���亣��1050�����±���1��1ҹ ֱ������ͣ����|http://videoclips.chinanews.com/oss/onair/zxw/szuser/e7a8a2f1b76846c18c7998f73cf4e05d.jpg|/shipin/cns-d/2019/04-08/news810668.shtml');vClass.push('��Ѯ���˼���ȥ���� ����Աȫ������|http://i2.chinanews.com/simg/tvmimg/2019/04-08/1251639_sm.jpg|/shipin/2019/04-08/news810606.shtml');vClass.push('�����г����ѵ�·�ÿ�������ͯͻ�������������پ���|http://videoclips.chinanews.com/oss/onair/zxw/szuser/5d4f514a60574363b57a243bd6df06d7.jpg|/shipin/cns-d/2019/04-08/news810601.shtml');vClass.push('�Ĵ�һ����м������򲡷��ִ�������|http://videoclips.chinanews.com/oss/onair/zxw/szuser/0853ce6107724967b69addee6741e395.jpg|/shipin/cns-d/2019/04-07/news810600.shtml');vClass.push('̽�ô�����ǧ�괫ͳϰ�ף���������Ϊ���ŮӢʡ������|http://i2.chinanews.com/simg/reportmanuscript/2019/04-07/111130_sm.jpg|/shipin/cns/2019/04-07/news810599.shtml');vClass.push('С���ﳵ���б����������� ���ϻش����ԭ��|http://i2.chinanews.com/simg/tvmimg/2019/04-07/1251409_sm.jpg|/sh/shipin/2019/04-07/news810594.shtml');vClass.push('�Ĵ��������������˻������廨ɽ��|http://videoclips.chinanews.com/oss/onair/zxw/szuser/2ef61ee831c54fe4acd26dbab6a14a51.jpg|/sh/shipin/cns-d/2019/04-07/news810597.shtml');vClass.push('������Ӣ�� ��˼���һ�|http://i2.chinanews.com/simg/tvmimg/2019/04-07/1251216_sm.jpg|/sh/shipin/2019/04-07/news810596.shtml');
+
+<!-- 分类列表e -->
+var isExist=false;
+var inext=1;
+var current=new Date().getTime();
+//填充li
+for(var i=0;i<vClass.length;i++){
+	var vItem=vClass[i].split('|');
+	if(vItem.length>2){
+		//vList
+		if(isExist){
+			vList.push(vClass[i]+'%3fr='+current);
+			inext=i;
+		}
+	}
+}
+if(vList.length<2){
+	for(var i=0;i<4&&i<vClass.length;i++){
+			vList.push(vClass[i]+'%3fr='+current);
+		}
+}
+      vList.push('黄仁勋：人工智能的下个浪潮是“物理AI”|https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/uploadImage/68787999158db478cc060d6b_small.jpg|/cj/shipin/cns-d/2025/07-17/news1025488.shtml');
+/**需在head中引入才可，此处动态创建没作用***/
+/*var scriptObj = document.createElement("script");
+scriptObj.src="//i2.chinanews.com/js/getUrlVars.js";
+var headObj = document.getElementsByTagName("head")[0];
+headObj.appendChild(scriptObj);*/
+var r=$.getUrlVar('r');
+var current=new Date().getTime();
+var adhide=0;
+if(r&&Math.abs(current-r)<1800000){
+	adhide=1;
+}
+function Rand(){
+	var date = new Date();
+	var Num  = date.getFullYear() + "" + date.getMonth()+ "" + date.getDate()+"1";
+	return Num;
+}
+function getNextURL(url){
+	window.location.href=url;
+}
+videoWrap.innerHTML = '<div id="dgqlayerInner" style="width:960' + 'px;margin:0 auto;"></div>';
+	var rand=Rand();
+	var so = new SWFObject("//i2.chinanews.com/shipin/flv/video2012_hd.swf", "mymovie", "960", "540", "8", "#000000");	
+	so.addParam("quality", "high");
+	so.addParam("allowFullScreen", "true");
+	so.addParam("allowScriptAccess","always");
+	so.addParam("wmode", "transparent");
+	so.addVariable("vInfo", "http://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/891A96E95E694564B82BBF3B6D60F1F3.mp4");
+	so.addVariable("vsimg","https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/661AE597C7594EC59FF54DC7CD62CCCE.jpg");		
+	so.addVariable("auto", "1");
+	so.addVariable("tiaotime", "1");	
+	so.addVariable("vList", vList.toString());
+
+	so.write("dgqlayerInner");
+    } else {
+            //视频后弹出框
+var modal_content = '<div class="modalWrap_inner"><a href="javascript:void(0)" class="doitagain"><i class="iconfont icon-refresh"></i>重播</a></div>';
+var options = {
+            id:"mini_player",//创建video id
+            control:true,//视频支持  音频不支持
+            controlslist:"nodownload",
+            autoPlay:true,
+            width:mini_player_width,//视频音频的宽 最小宽度530
+            height:mini_player_height,//视频的高，需要多加+40，见js中 -40(control bar高度)
+            source:"https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/470768E3589040C59CE1A2AC8D8A8899.mp4",//播放源地址：默认高清视频地址
+            thumbnailUrl:"",//播放器缩略图
+            playType:"video",//可选值 视频：video 音频：audio
+            timeFlag:false,//只有为true时才会触发currentTime函数
+            flvAudio:false,
+            muted:false,
+            videoSkin:"vjs-controlbar-fixed",//播放器样式
+            //playbackRates:[], //0.5-2速率范围
+            currentTime:function(val){
+                console.log(val)
+            },
+            //downLoadFlag:true,//下载按钮
+            //clarityArr:[],//{name:"标清",url:""}
+            clarityArr:[{name:"流畅",url:"https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/891A96E95E694564B82BBF3B6D60F1F3.mp4"},{name:"高清",url:"https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/470768E3589040C59CE1A2AC8D8A8899.mp4"}],
+            adVideoUrl:"",//广告片头视频
+            countdown:5,//广告倒计时时长
+            isShowSkipBtn:"yes", //是否显示跳转广告按钮，此处为yes也可以，因为adVideoUrl为空
+            adLink:"no",//广告跳转链接
+	    modalContent:modal_content//弹出框数据
+};
+$.ajax({
+        url:'/ad2018/videojs/624.xml',
+        //url: '/part/shipin/6/20/xmlToJson.xml',
+        type: 'get',
+        dataType: 'xml',
+        timeout: 1000,
+        cache: false,
+        async:false,//同步
+        error: function(error) {//xml中内容为空
+                $("#dgqlayer").videoPlayer(options);
+        },
+        success: function(xml) {
+                if(xml && 0 == '0'){//  是否不显示播放器广告字段为0（否）时显示，可由编辑
+                        /******解析xml广告结束start******/
+                        var startAd={},pauseAd={},controlAd={},rightAd={};
+                        var scriptObjXml = document.createElement("script");
+                        scriptObjXml.setAttribute("src","/part/shipin/6/68/xmltojson.js");
+                        $("head").append(scriptObjXml);
+                        var jsonText = xmlToJson(xml);
+                        if(!!jsonText.root.startAD){//开始视频：贴片广告
+                                startAd.startVideoUrl = jsonText.root.startAD.videoUrl["#text"];
+                                startAd.startVideolink = jsonText.root.startAD.videoLink["#text"];
+                                options.isShowSkipBtn = jsonText.root.startAD.isShowSkipBtn["#text"];
+                                if(!!startAd.startVideoUrl){
+                                        options.adVideoUrl = startAd.startVideoUrl;
+                                } 
+                                if(!!startAd.startVideolink){
+                                        options.adLink = startAd.startVideolink;
+                                }
+                        }
+                        /*if(!!jsonText.root.rightAD){//视频右上角广告
+                                rightAd.width = jsonText.root.rightAD.width["#text"];
+                                rightAd.height = jsonText.root.rightAD.height["#text"];
+                                rightAd.x = jsonText.root.rightAD.x["#text"] + "px";*/
+                                /*if(!/%/g.test(rightAd.x)){//值为右分比，添加margin-left:-width
+                                rightAd.x = jsonText.root.rightAD.x["#text"] + "px";
+                                }*/
+                                /*rightAd.y = jsonText.root.rightAD.y["#text"] + "px";
+                                rightAd.imgPath = jsonText.root.rightAD.imgPath["#text"];
+                                rightAd.link = jsonText.root.rightAD.link["#text"];
+                        }*/
+                        /*if(!!jsonText.root.pauseAD){//视频暂停广告
+                                pauseAd.pauseAD = jsonText.root.pauseAD["#text"];
+                                pauseAd.width = jsonText.root.pauseADWHL.w["#text"];
+                                pauseAd.height = jsonText.root.pauseADWHL.h["#text"];
+                                pauseAd.link = jsonText.root.pauseADWHL.link["#text"];
+                        }*/
+                        /******解析xml广告结束end******/
+			console.log(options);
+			$("#dgqlayer").videoPlayer(options);
+                }else{
+                        console.log("xml文件中无内容");
+                        $("#dgqlayer").videoPlayer(options);
+                }
+      }
+})
+
+      $('#mini_player').bind('contextmenu', function () { return false; });
+    }
+    relnews();
+  });
+
+//document.addEventListener('DOMContentLoaded', function() {
+$(document).ready(function() {
+        var vids=$("#dgqlayer");
+    var isClose = false;
+    var videotype = 1;
+    if(!isClose){
+      if(videotype=='0'){
+        mini_player_width = 720;
+        mini_player_height = 540;
+      }else{
+        mini_player_width = 960;
+        mini_player_height = 540;
+      }
+    }else{
+      mini_player_width = 1280;
+      mini_player_height = 720;
+    }
+    $(".close-btn").click(function(){
+        $("#rel-news").animate({width:'toggle'},500);
+        if(!isClose){
+          if(videotype=='0'){
+            vids.animate({marginLeft:"0px",width:"1280px",height:"720px"},500);
+            $(".relativePar").animate({width:"1280px",height:"720px"},500);
+          }else{
+            vids.animate({width:"1280px",height:"720px"},500);
+            $(".relativePar").animate({width:"1280px",height:"720px"},500);
+          }
+          vids.find("video").animate({width:"1280px",height:"720px"});
+          vids.find("#mini_player").animate({width:"1280px",height:"720px"});
+          $(".close-btn").css("transform","rotate(180deg)");
+          $(".close-btn").css("border-radius","0px 5px 5px 0px");
+          $(".close-btn").animate({top:"330px"});
+          mini_player_width = 1280;
+          mini_player_height = 760;
+        }else{
+          if(videotype=='0'){
+            vids.animate({marginLeft:"120px",width:"720px",height:"540px"},300);
+            $(".relativePar").animate({width:"720px",height:"540px"},300);
+            vids.find("video").animate({width:"720px",height:"540px"});
+            vids.find("#mini_player").animate({width:"720px",height:"540px"});
+            $(".close-btn").css("transform","rotate(0deg)");
+            $(".close-btn").css("border-radius","5px 0px 0px 5px");
+            $(".close-btn").animate({top:"240px"});
+            mini_player_width = 720;
+            mini_player_height = 540;
+          }else{
+            vids.animate({width:"960px",height:"540px"});
+            $(".relativePar").animate({width:"960px",height:"540px"});
+            vids.find("video").animate({width:"960px",height:"540px"});
+            vids.find("#mini_player").animate({width:"960px",height:"540px"});
+            $(".close-btn").css("transform","rotate(0deg)");
+            $(".close-btn").css("border-radius","5px 0px 0px 5px");
+            $(".close-btn").animate({top:"240px"});
+            mini_player_width = 960;
+            mini_player_height = 540;
+          }
+        }
+        isClose = !isClose;
+      })
+
+      $(".vjs-fullscreen-control").click(function(){
+        $("#mini_player_html5_api").css("width","100%");
+        $("#mini_player_html5_api").css("height","100%");
+      })
+});
+
+  function relnews(){
+    if($("#rel-news")){
+      $("#rel-news").css("display","block");
+    }
+  }
+</script>
+
+<script>
+var aiCommentId;
+
+if('' != ''){
+  aiCommentId = '';
+}else{
+  aiCommentId = 'video1025488';
+}
+
+</script>
+<script src="//www.chinanews.com.cn/part/fabu/2024-04-10/aicommentid.js"></script>
+
+<!--cj--><!--https://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/onair/891A96E95E694564B82BBF3B6D60F1F3.mp4--><!--cj--><!--  ${更新正文-视频搜索测试} 883-4-1025488 /cns-dhttps://poss-videocloud.cns.com.cn/oss/2025/07/17/chinanews/MEIZI_YUNSHI/uploadImage/68787999158db478cc060d6b_small.jpg-->
+</body>
+</html>
+<!--<meta name="chinanews_site_verification" content="b8153a8d53a4e944dc52def59c34470e"/>-->
+<!--883,4,1025488 published at 2025-07-17 16:21:12 by 574-->

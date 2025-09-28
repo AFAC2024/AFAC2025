@@ -1,0 +1,935 @@
+<!DOCTYPE html>
+<html class="news-hkex" xmlns="http://www.w3.org/1999/xhtml"><head id="j_idt2">
+    <title>上市公司信息標題搜尋</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="format-detection" content="telephone=no" />
+    <link href="/ncms/images/favicon.ico" rel="icon" />
+    <link href="/ncms/css/main.css" rel="stylesheet" />
+    <link href="/ncms/css/titlesearch.css" rel="stylesheet" />
+	
+    <script type="text/javascript" src="/ncms/script/hkex_app.js"></script>
+    <script type="text/javascript" src="/ncms/script/hkex_settings.js"></script>
+    <script type="text/javascript" src="/ncms/script/hkex_widget.js"></script>  
+    
+    <script type="text/javascript">
+			document.documentElement.setAttribute("lang","zh-HK");
+		 	
+	</script></head><body>
+<form id="j_idt10" name="j_idt10" method="post" action="/search/titlesearch.xhtml;jsessionid=QWtbEFnvTwPevvUyHUmCcqxjtkvEMyt3qsyGyGv4.p107" enctype="application/x-www-form-urlencoded" style="display: none;">
+<input type="hidden" name="j_idt10" value="j_idt10" />
+<input id="j_idt10:loadMoreRange" type="hidden" name="j_idt10:loadMoreRange" value="100" />
+<input id="startDate" type="hidden" value="2024-07-30" />
+<input id="endDate" type="hidden" value="2025-07-01" />
+<input id="stockId" type="hidden" value="1000127397" />
+<input id="stockCode" type="hidden" value="00020 商湯－Ｗ" />
+<input id="searchType" type="hidden" value="rbAfter2006" />
+<input id="searchTypeInt" type="hidden" value="1" />
+<input id="newsTitle" type="hidden" />
+<input id="tierOneId" type="hidden" value="-2" />
+<input id="tierTwoId" type="hidden" value="-2" />
+<input id="tierTwoGpId" type="hidden" value="-2" />
+<input id="selectedDocType" type="hidden" value="-1" />
+<input id="selectedSecurities" type="hidden" value="0" />
+<input id="displayResultTable" type="hidden" /><input type="hidden" name="javax.faces.ViewState" id="j_id1:javax.faces.ViewState:0" value="-7763139472409140071:1366283718063636250" autocomplete="off" />
+</form>
+	<input type="hidden" name="titleSearchResultControl.searchByIndex" value="0" />
+	<input type="hidden" name="titleSearchByAllResult.dateFromUi" />
+	<input type="hidden" name="titleSearchByAllResult.dateToUi" />
+
+	<script type="text/javascript" src="/ncms/script/vendor.js"></script>
+		 <script type="text/javascript" src="/ncms/script/hkex_head_c.js"></script>
+    
+    
+    <div id="skip-to-content"></div>
+	
+    
+	<div id="hkex_news_topbanner">
+        <section class="banner banner__mobile_breadcrumb banner__head">
+            <div class="tab-content">
+		    	<div data-include-html="titleSearchSearchPanel_c.html" role="tabpanel" class="tab-pane active" id="tab-panel-title-search"></div>
+		    </div>
+        </section>
+    </div>
+	
+	
+	
+	<script type="text/javascript">
+	    var displayResultTable = $('input#displayResultTable').val();
+		if(displayResultTable == ''){
+			// JS variables, please set before hkex_pagebanner.js
+		   var pageDefaultTitle = "上市公司公告搜尋結果";	
+		    var pageDefaultSubTitle = ""; // TO override page subtitle
+		    var pageDefaultBanner = "/ncms/media/HKEXnews/top_banner_bg.png"; // TO override page banner for desktop
+		    var pageDefaultTabletBanner = "/ncms/media/HKEXnews/top_banner_bg_tablet.png"; // TO override page banner for tablet
+		}
+	</script>
+		    <script type="text/javascript" src="/ncms/script/hkex_pagebanner_c.js"></script>
+    
+
+    
+    <div class="container content-container title-search-container content-container-reset table-mobile-list-container" style="display:  ">
+        <input id="LISTING_CAT_LINK" type="hidden" value="https://www.hkex.com.hk/eng/rulesreg/listrules/listsptop/listoc/co_inf.htm" style="display: none;" />
+        <input id="lang" type="hidden" value="C" style="display: none;" />
+        <main class="title-search"><div id="categoryPanel"> 
+            <div class="title-search-topbar">
+                <div class="title-search-info">
+                    <div class="quick-links">
+                        <ul>
+                        
+						   <li><a href="https://di.hkex.com.hk/di/NSSrchCorpQW.aspx?src=MAIN&amp;lang=ZH&amp;in=1&amp;sc=00020" title="披露權益">披露權益</a></li>
+                                	<li>上市類別: 主要上市</li>
+                        </ul>
+                    </div><div id="recordCountPanel">
+                    <div class="title-search-info-footer clearfix">
+                        <div class="total-records">共有 39 紀錄</div>
+                    	<div class="disclaimer">
+                            <a href="https://www2.hkexnews.hk/-/media/HKEXnews/Homepage/Listed-Company-Publications/Search-Guide/SearchDisclaimer_c.pdf" class="fancy-note-label" data-toggle="popup" data-target="#cms-lci-disclaimer">免責聲明</a>
+                        </div>
+                    </div></div>
+                </div>
+            </div></div><div id="titleSearchResultPanel"> 
+            <div class="title-search-content">            
+                <div class="title-search-result search-page-container">
+                    <div class="title-search-result-toolbar result-toolbar">
+                        <div class="hideHeadline">
+                            <a tabindex="0" class="hideShow showing"><span class="hide-headline">隱藏標題</span><span class="show-headline">顯示標題</span></a>
+                        </div>
+                        <div class="mobileSort">
+                            <a tabindex="0" data-toggle="nav-popover" class="sort__dropdown">排序</a>
+                            <div class="popover result-toolbar-popover">
+                                <div class="popover__content">
+                                    <ul class="popover__content-list">
+                                        <li class="popover__list-item" onclick="javascript:sortByReleaseTimeDesc()"><a tabindex="0" data-sort-by="0" data-sort-dir="1">最新 資訊</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByReleaseTimeAsc()"><a tabindex="0" data-sort-by="0" data-sort-dir="0">最舊 資訊</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockCodeAsc()"><a tabindex="0" data-sort-by="1" data-sort-dir="0">代號 升序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockCodeDesc()"><a tabindex="0" data-sort-by="1" data-sort-dir="1">代號 降序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockNameAsc()"><a tabindex="0" data-sort-by="2" data-sort-dir="0">股份名稱 升序排列</a></li>
+                                        <li class="popover__list-item" onclick="javascript:sortByStockNameDesc()"><a tabindex="0" data-sort-by="2" data-sort-dir="1">股份名稱 降序排列</a></li> 
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="title-search-result-mobile desktop-hidden tablet-hidden">
+                    </div>
+                    
+                    <table class="table sticky-header-table table-scroll table-mobile-list" role="grid" data-sortlist="[[0,1]]">
+                        <thead>
+                            <tr>
+                                <th class="release-date" data-column-class="release-date" data-sorter="extractDDMMYYYY" data-date-format="ddmmyyyy" onclick="javascript:sortTable('DateTime')">發放時間</th>
+                                <th class="stock-code" data-column-class="stock-code" data-sorter="text" onclick="javascript:sortTable('StockCode')">股份代號</th>
+                                <th class="stock-code-name" data-column-class="stock-code-name" onclick="javascript:sortTable('StockName')">股份簡稱</th>
+                                <th class="sorter-false document-details headline-toggle" data-column-class="document-details">文件</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 22:12</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事名單和他們的地位和作用]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601935_c.pdf" rel="noopener noreferrer" target="_blank">董事名單及彼等的職責
+										</a>
+						            	  (<span class="attachment_filesize">176KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/06/2025 22:07</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股東周年大會的結果 &#x2f; 在股東批准的情況下重選或委任董事 &#x2f; 更換董事或重要行政職能或職責的變更 &#x2f; 更...<div class='fancy-note-tooltip-hover' data-tooltip-position='nextsibling'>  <a href='javascript:void(0)' class='fancy-note-label tooltip' >更多</a></div><div class='fancy-note-hover bottom mobile-hidden'>公告及通告 - [股東周年大會的結果 &#x2f; 在股東批准的情況下重選或委任董事 &#x2f; 更換董事或重要行政職能或職責的變更 &#x2f; 更改註冊地址或辦事處、香港業務的註冊地或香港接收法律程序文件代表]</div>]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0626/2025062601921_c.pdf" rel="noopener noreferrer" target="_blank">(1)於2025年6月26日舉行的股東週年大會上提呈的決議案的投票結果(2)委任執行董事；及(3)執行董事卸任、授權代表及法律程序文件代理人變動
+										</a>
+						            	  (<span class="attachment_filesize">282KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/06/2025 16:47</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">委任代表表格<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0604/2025060401148_c.pdf" rel="noopener noreferrer" target="_blank">於2025年6月26日（星期四）舉行的股東週年大會適用的代表委任表格
+										</a>
+						            	  (<span class="attachment_filesize">495KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/06/2025 16:45</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股東周年大會通告 &#x2f; 暫停辦理過戶登記手續或更改暫停辦理過戶日期 &#x2f; 在股東批准的情況下重選或委任董事]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0604/2025060401110_c.pdf" rel="noopener noreferrer" target="_blank">股東週年大會通告
+										</a>
+						            	  (<span class="attachment_filesize">309KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/06/2025 16:42</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">通函 - [在股東批准的情況下重選或委任董事 &#x2f; 一般性授權 &#x2f; 回購股份的說明函件]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0604/2025060401060_c.pdf" rel="noopener noreferrer" target="_blank">(1) 建議委任執行董事及重選退任董事 (2) 建議授出購回股份及發行股份之一般授權 (3) 建議續聘核數師及
+(4) 股東週年大會通告
+										</a>
+						            	  (<span class="attachment_filesize">741KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/06/2025 16:39</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0604/2025060401016_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年五月三十一日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/05/2025 19:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事名單和他們的地位和作用]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0530/2025053001634_c.pdf" rel="noopener noreferrer" target="_blank">董事名單及彼等的職責
+										</a>
+						            	  (<span class="attachment_filesize">175KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>30/05/2025 18:56</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更 &#x2f; 在股東批准的情況下重選或委任董事 &#x2f; 更換審核委員會成員 &#x2f; 更...<div class='fancy-note-tooltip-hover' data-tooltip-position='nextsibling'>  <a href='javascript:void(0)' class='fancy-note-label tooltip' >更多</a></div><div class='fancy-note-hover bottom mobile-hidden'>公告及通告 - [更換董事或重要行政職能或職責的變更 &#x2f; 在股東批准的情況下重選或委任董事 &#x2f; 更換審核委員會成員 &#x2f; 更換薪酬委員會成員]</div>]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0530/2025053001618_c.pdf" rel="noopener noreferrer" target="_blank">(1)委任獨立非執行董事&#x3b; (2)建議委任執行董事&#x3b; (3)執行董事卸任&#x3b; (4)董事會轄下委員會組成變動&#x3b;及 (5)重新符合上市規則
+										</a>
+						            	  (<span class="attachment_filesize">339KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/05/2025 16:48</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0507/2025050700995_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年四月三十日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>24/04/2025 17:09</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">通函 - [其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0424/2025042401384_c.pdf" rel="noopener noreferrer" target="_blank">致非登記股東之通知信函及回條 - 有關以電子方式發佈公司通訊安排的提示信函
+										</a>
+						            	  (<span class="attachment_filesize">673KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>24/04/2025 17:03</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">通函 - [其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0424/2025042401248_c.pdf" rel="noopener noreferrer" target="_blank">致登記股東之通知信函及回條 - 有關以電子方式發佈公司通訊安排的提示信函
+										</a>
+						            	  (<span class="attachment_filesize">785KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>24/04/2025 16:58</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [環境、社會及管治資料&#x2f;報告]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0424/2025042401052_c.pdf" rel="noopener noreferrer" target="_blank">2024年可持續發展報告
+										</a>
+						            	  (<span class="attachment_filesize">15MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>24/04/2025 16:51</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [年報]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0424/2025042400918_c.pdf" rel="noopener noreferrer" target="_blank">2024 年報
+										</a>
+						            	  (<span class="attachment_filesize">19MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>03/04/2025 12:00</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0403/2025040300268_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年三月三十一日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">143KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>28/03/2025 06:25</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [股份計劃]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0328/2025032800116_c.pdf" rel="noopener noreferrer" target="_blank">根據2022年受限制股份單位計劃授出股份獎勵
+										</a>
+						            	  (<span class="attachment_filesize">277KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/03/2025 17:21</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [末期業績 &#x2f; 暫停辦理過戶登記手續或更改暫停辦理過戶日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0326/2025032600616_c.pdf" rel="noopener noreferrer" target="_blank">截至2024年12月31日止年度之年度業績公告
+										</a>
+						            	  (<span class="attachment_filesize">743KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>14/03/2025 22:02</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事名單和他們的地位和作用]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0314/2025031401846_c.pdf" rel="noopener noreferrer" target="_blank">董事名單及彼等的職責
+										</a>
+						            	  (<span class="attachment_filesize">175KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>14/03/2025 21:57</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換董事或重要行政職能或職責的變更 &#x2f; 更換審核委員會成員 &#x2f; 更換薪酬委員會成員 &#x2f; 未能符合審核委員...<div class='fancy-note-tooltip-hover' data-tooltip-position='nextsibling'>  <a href='javascript:void(0)' class='fancy-note-label tooltip' >更多</a></div><div class='fancy-note-hover bottom mobile-hidden'>公告及通告 - [更換董事或重要行政職能或職責的變更 &#x2f; 更換審核委員會成員 &#x2f; 更換薪酬委員會成員 &#x2f; 未能符合審核委員會的規定 &#x2f; 未能符合薪酬委員會的規定 &#x2f; 未能符合獨立非執行董事的規定或獨立非執行董事未能符合獨立性指引]</div>]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0314/2025031401824_c.pdf" rel="noopener noreferrer" target="_blank">(1)獨立非執行董事辭任及 (2)暫未能符合上市規則
+										</a>
+						            	  (<span class="attachment_filesize">224KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>11/03/2025 16:56</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0311/2025031100496_c.pdf" rel="noopener noreferrer" target="_blank">董事會召開日期
+										</a>
+						            	  (<span class="attachment_filesize">198KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>05/03/2025 12:25</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0305/2025030500337_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年二月二十八日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">141KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>06/02/2025 16:51</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0206/2025020600962_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二五年一月三十一日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">141KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>07/01/2025 17:35</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [更換股份過戶登記處&#x2f;登記代理 &#x2f; 更改註冊地址或辦事處、香港業務的註冊地或香港接收法律程序文件代表]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0107/2025010701066_c.pdf" rel="noopener noreferrer" target="_blank">變更開曼群島主要股份過戶登記處及註冊辦事處
+										</a>
+						            	  (<span class="attachment_filesize">199KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>06/01/2025 16:37</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2025/0106/2025010600756_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年十二月三十一日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">144KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>18/12/2024 21:46</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1218/2024121801218_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表 (經修訂)
+										</a>
+						            	  (<span class="attachment_filesize">128KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>17/12/2024 17:24</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1217/2024121700596_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">128KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>17/12/2024 17:23</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [配售 &#x2f; 根據一般性授權發行股份]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1217/2024121700594_c.pdf" rel="noopener noreferrer" target="_blank">完成根據一般授權配售新B類股份
+										</a>
+						            	  (<span class="attachment_filesize">439KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>11/12/2024 06:06</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [配售 &#x2f; 根據一般性授權發行股份]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1211/2024121100004_c.pdf" rel="noopener noreferrer" target="_blank">根據一般授權配售新B類股份
+										</a>
+						            	  (<span class="attachment_filesize">552KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/12/2024 16:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1204/2024120400590_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年十一月三十日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">141KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/12/2024 08:09</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [其他-雜項]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1204/2024120400052_c.pdf" rel="noopener noreferrer" target="_blank">自願公告 - 商湯集團完成戰略組織架構重組
+										</a>
+						            	  (<span class="attachment_filesize">259KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/11/2024 16:52</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1104/2024110401324_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年十月三十一日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">141KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/10/2024 16:34</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/1004/2024100400634_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年九月三十日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">141KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>26/09/2024 16:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">財務報表&#x2f;環境、社會及管治資料 - [中期&#x2f;半年度報告]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0926/2024092600408_c.pdf" rel="noopener noreferrer" target="_blank">2024 中期報告
+										</a>
+						            	  (<span class="attachment_filesize">2MB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>09/09/2024 17:18</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0909/2024090900565_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年八月三十一日止股份發行人的證券變動月報表(修訂)
+										</a>
+						            	  (<span class="attachment_filesize">149KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>04/09/2024 16:50</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0904/2024090400976_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年八月三十一日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">142KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/08/2024 21:06</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">翌日披露報表 - [其他]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0827/2024082701449_c.pdf" rel="noopener noreferrer" target="_blank">翌日披露報表
+										</a>
+						            	  (<span class="attachment_filesize">130KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>27/08/2024 17:59</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [中期業績]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0827/2024082700703_c.pdf" rel="noopener noreferrer" target="_blank">截至2024年6月30日止六個月之中期業績公告
+										</a>
+						            	  (<span class="attachment_filesize">641KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>16/08/2024 06:07</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [其他-雜項]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0816/2024081600012_c.pdf" rel="noopener noreferrer" target="_blank">自願公告 - SENSETALENT向若干董事轉倉已歸屬及獲行使期權下的B類股份
+										</a>
+						            	  (<span class="attachment_filesize">238KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>13/08/2024 16:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">公告及通告 - [董事會召開日期]<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0813/2024081300306_c.pdf" rel="noopener noreferrer" target="_blank">董事會召開日期
+										</a>
+						            	  (<span class="attachment_filesize">214KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>
+						      <tr>
+						      	 <td class="text-right text-end release-time"> <span class="mobile-list-heading">發放時間: </span>02/08/2024 16:30</td>
+			
+						         <td class="text-right text-end stock-short-code"><span class="mobile-list-heading">股份代號: </span>00020<br/>80020</td>
+						        
+						         <td class="stock-short-name"><span class="mobile-list-heading">股份簡稱: </span>商湯－Ｗ<br/>商湯－ＷＲ</td>
+						        
+						         <td>
+						         	 <span class="mobile-list-heading">文件: </span>
+						             <div class="headline">月報表<br/>
+						             </div>
+         
+						             <div class="doc-link">
+						             	<a href="/listedco/listconews/sehk/2024/0802/2024080200790_c.pdf" rel="noopener noreferrer" target="_blank">截至二零二四年七月三十一日止股份發行人的證券變動月報表
+										</a>
+						            	  (<span class="attachment_filesize">141KB</span>)<span class="pdf"></span>
+						             </div>
+						         </td>
+						      </tr>                      
+                       </tbody>
+                   </table>
+                  
+                </div><div id="recordCountPanel2">
+                <div class="search-results__content-loadmore component-loadmore component-loadmore-no-options">
+                    <div class="component-loadmore__container">
+                        <div class="component-loadmore-leftPart__container">
+                        		顯示 39 紀錄，共有 39 紀錄
+                        </div>
+                    </div>
+                </div>
+                <div class="component-loadmore-leftPart__container-Mobile">
+                        	顯示 39 紀錄，共有 39 紀錄
+                </div></div>
+            </div></div>
+        </main>
+    </div>     
+    
+    <div class="fancy-popup-wrap fancy-note">
+        <div>
+            
+            <div class="fancy-note-popup" id="cms-lci-disclaimer">
+                <a class="fancy-note-close" href="#"></a>
+                <div class="fancy-note-detail">
+                    <div class="fancy-note-title">免責聲明</div>
+                    <div class="fancy-note-desc">
+                        <p>載有本免責聲明的超連結的網頁所顯示的文件及資料在本網站上登載，目的是向香港公眾人士提供資料；其中的內容並非投資建議，不應倚賴其作為投資建議。在香港以外地區的人士在瀏覽及使用該等文件及資料前，須自行查閱及遵守所有適用法例及規定。                            
+                        </p>
+                        <p>請注意：該網頁載有由上市發行人、新上市申請人及有關人士以電子方式 (包括以電子格式提供的資料) 向香港交易所提供的文件及資料，而香港交易所與上述人士之間並無任何代理、僱員或合夥關係。香港交易所並不負責審查、編輯或監察該等文件及當中所載資料，有關文件內的資料全部未經香港交易所核實。
+                        </p>
+                        <p>香港交易所及/或其附屬公司對通過該網頁而取得的該等文件及資料的內容概不負責，對其準確性、可靠性、完整性或擁有權亦不發表任何聲明，並明確表示概不對任何因該等資料全部或任何部分內容而產生或因倚賴該等內容而引致的損失承擔任何責任。另外，有些文件及資料可能包含有連接到外部網站或網頁的超連結，香港交易所及/或其附屬公司對可否成功連接到有關網站或網頁及其所載內容亦概不負責。(見香港交易所「<a href="http://www2.hkexnews.hk/Global/Exchange/Hyperlink-Policy?sc_lang=zh-HK" target="_blank">超連結政策</a>」)。
+                        </p>
+                        <p>本聲明的內容概不構成或被視為香港交易所及其附屬公司放棄其專有的特權及豁免權又或對上述權力構成任何限制。
+                        </p>
+                        <p>通過該網頁而取得的資料及文件均具有版權，可能屬香港交易所、作者或任何其他人士所有，視乎刊物的情況而定。未經有關當事人同意，任何人士不得轉載、發布、使用及／或連結該等內容。
+                        </p>
+                        <p>如得悉或相信該等文件所載的任何資料不準確、錯誤、不合法、淫褻、誹謗或侵犯第三者的知識產權，請聯絡【香港交易所電子呈交小組】(HKEX e-Submission)，電郵地址： <a href="mailto:ESSHotline@hkex.com.hk">ESSHotline@hkex.com.hk</a>。
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="fancy-note-shade"></div>
+        </div>
+    </div>
+    
+    
+    <div class="overlay"></div>
+    	<script type="text/javascript" src="/ncms/script/hkex_foot_c.js"></script>
+    
+    
+	<script type="text/javascript">
+    (function($) {
+		includeHTML();
+	})(window.hkexCMS);
+    
+    </script>
+    <script type="text/javascript" src="/ncms/script/main.js"></script>
+    <script type="text/javascript" src="/ncms/eds/titlesearch/config_c.js"></script>
+    <script type="text/javascript" src="/ncms/js/titlesearch.js"></script>
+    <script type="text/javascript" src="/ncms/js/titlesearch_research.js"></script>
+  	<script type="text/javascript" src="/ncms/js/search.js"></script>
+  	<script type="text/javascript"> 
+    TitlseSearchConfig();
+    </script></body>
+
+</html>

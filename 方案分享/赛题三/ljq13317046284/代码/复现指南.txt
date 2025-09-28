@@ -1,0 +1,25 @@
+复现指南
+数据集构建：
+python self-instruct.py  
+FinanceIQ :https://huggingface.co/datasets/Duxiaoman-DI/FinanceIQ
+FINBenchmark :https://github.com/TrustedGPT/FINBenchmark/tree/main/eval_data/test
+fineval : https://huggingface.co/datasets/ICE-PIXIU/fineval
+第一阶段可以参考https://github.com/GeniusHTX/TALE
+按顺序运行以下命令
+python inference.py --data_name afac --model gpt-4o-mini --reasoning
+python search_budget.py --do_search --data_name afac --model gpt-4o-mini
+python TALE-EP.py --data_name afac --model gpt-4o-mini
+第二阶段可以参考https://github.com/hemingkx/TokenSkip
+python ./compress_afac_cot.py    
+python ./get_llamafactory_input.py  
+第三阶段  python latent_cot.py 
+训练：
+我们已经提供了构建好的数据集，可以直接使用all_train_cot3.json进行微调
+按顺序执行以下代码：
+CUDA_VISIBLE_DEVICES=0 llamafactory-cli train examples/train_lora/qwen3_4b_lora_sft.yaml
+llamafactory-cli export examples/merge_lora/qwen3_4b_lora_sft.yaml
+推理：
+我们代码和hf都已经提供了微调后的模型只需修改路径即可(https://huggingface.co/llljq/MSC-SCBD-Qwen3-4B/tree/main)
+（注意，需要纯净的题目，没有提示词版本，如我们提供的input3.csv） 
+按顺序执行以下代码：API_PORT=8000 CUDA_VISIBLE_DEVICES=0 llamafactory-cli api examples/inference/qwen3_4b_lora_sft.yaml
+python infer.py  然后即可得到约3600分数的output.csv

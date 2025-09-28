@@ -1,0 +1,1 @@
+{"title": "GDP 年率初值", "url": "http://data.eastmoney.com/cjsj/foreign_4_13.html", "source": "东方财富网", "file_type": "csv", "key": "macro_uk_gdp_yearly|时间", "handler": "macro_akshare", "date": "", "summary": "时间,前值,现值,发布日期\n2024第4季度,-0.2,1.5,2025-03-28\n2023第4季度,1.5,-0.2,2024-03-28\n2022第4季度,9.7,1.5,2023-03-31\n"}

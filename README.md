@@ -15,6 +15,7 @@ ______
 
 🎬答辩视频
 
+https://www.bilibili.com/video/BV1GvW3zaEPv/?spm_id_from=333.1387.collection.video_card.click
 
 📝 方案分享
 
@@ -23,7 +24,10 @@ ______
 
 
 ### 🏆二等奖：CEDC冲冲冲
+
 📃 分享文章
+
+[勇夺第二！基金极端申赎的智能预测方案分享](https://mp.weixin.qq.com/s/BQ6T-JOswc8EZe34Gb4_Rw) 
 
 🎬答辩视频
 
@@ -108,6 +112,10 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 ### 🏆二等奖：ths
 📃 分享文章
 
+🎬答辩视频
+
+https://www.bilibili.com/video/BV1esnFzZEr3/?spm_id_from=333.1387.collection.video_card.click
+
 📝 方案分享
 
 [赛题二-ths-答辩ppt.pdf](https://github.com/user-attachments/files/22490544/-ths-.ppt.pdf)
@@ -133,6 +141,8 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 https://mp.weixin.qq.com/s/PEKT5cRj4BVk33BFnOd8tw
 
 🎬答辩视频 
+
+https://www.bilibili.com/video/BV1pppazTE2S/?spm_id_from=333.1387.collection.video_card.click
 
 💻分享代码 
 
@@ -162,12 +172,14 @@ https://mp.weixin.qq.com/s/PEKT5cRj4BVk33BFnOd8tw
 
 
 
-### 🏆一等奖：
+### 🏆一等奖：ljq13317046284
 📃 分享文章
 
 [AFAC2025冠军方案解析：金融领域中的长思维链压缩](https://mp.weixin.qq.com/s/ROKX039W0TVicoynDhmtrQ) 
 
 🎬答辩视频
+
+https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.video_card.click
 
 💻分享代码
 
@@ -180,48 +192,52 @@ https://mp.weixin.qq.com/s/PEKT5cRj4BVk33BFnOd8tw
 
 
 
-### 🏆 二等奖：
-    📃 分享文章
-    
-    💻 分享代码
+### 🏆 二等奖：双人成行
 
-## 🏆 二等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻 分享代码
-    📝方案分享
+📃 分享文章
+
+💻 分享代码
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
+📝方案分享
+
+[赛题三-双人成行- PPT.pdf](https://github.com/user-attachments/files/22580525/-.-.PPT.pdf) 
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
+### 🏆三等奖：丛雨酱
+📃 分享文章
+
+🎬答辩视频
+
+💻分享代码
+
+📝 方案分享
+
+[赛题三-丛雨酱.pdf](https://github.com/user-attachments/files/22580534/-.pdf)
+
+
+
+
+### 🏆三等奖：FNO_
+
+📝 方案分享
+[赛题三-FNO_.pdf](https://github.com/user-attachments/files/22580538/-FNO_.pdf)
+
+
+
+
+### 🏆三等奖：不高兴
+📃 分享文章
+
+🎬答辩视频
+
+💻分享代码
+
+📝 方案分享
+[金融领域中的长思维链压缩.不高兴.pdf](https://github.com/user-attachments/files/22580548/default.pdf)
+
 
 
 
@@ -229,55 +245,78 @@ https://mp.weixin.qq.com/s/PEKT5cRj4BVk33BFnOd8tw
 
 本任务致力于解决通用预训练大模型财务分析能力缺失、信息获取与整合不足以及大模型幻觉与结构化输出困难三大核心问题，通过引入Agent系统、检索增强生成（RAG）技术、工具库、模型上下文协议（MCP）以及Agent2Agent（A2A）协议等前沿技术，提升大模型在金融场景中的可用性，实现自动化生成具有决策价值的专业研报。
 
-### 🏆一等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻 分享代码
-    📝 方案分享
 
 
-### 🏆二等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    📝方案分享
+### 🏆二等奖：乘风破浪的弟弟
+📃 分享文章
+
+🎬答辩视频
+
+📝方案分享
+
+[赛题四-乘风破浪的弟弟.pdf](https://github.com/user-attachments/files/22580571/-.pdf) 
 
 
-### 🏆 二等奖：
-    🎬答辩视频
+
+### 🏆 二等奖：清水河小分队
+
+📃 分享文章
+
+🎬答辩视频
+
+https://www.bilibili.com/video/BV1uEnAz8EyN/?spm_id_from=333.1387.collection.video_card.click
+
+💻分享代码
+
+📝 方案分享
+[赛题四-清水河小分队.pdf](https://github.com/user-attachments/files/22580587/-.pdf)
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
+
+### 🏆三等奖：队伍名字不能为空
+📃 分享文章
+
+🎬答辩视频
+
+https://www.bilibili.com/video/BV1MenuzCENZ/?spm_id_from=333.1387.collection.video_card.click
+
+💻分享代码
+
+📝 方案分享
+[赛题四_队伍名字不能为空.pdf](https://github.com/user-attachments/files/22580589/_.pdf)
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
+
+### 🏆三等奖：好想成为人类
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
+📃 分享文章
+
+🎬答辩视频
+
+💻分享代码
+
+📝 方案分享
+
+[赛题四-好想成为人类队.pdf](https://github.com/user-attachments/files/22580598/-.pdf)
+
+
+
+
+
+### 🏆三等奖：天池三轮车
+📃 分享文章
+
+🎬答辩视频
+
+https://www.bilibili.com/video/BV1jSJ9z7Eqc/?spm_id_from=333.788.recommend_more_video.0
+
+💻分享代码
+
+📝 方案分享
+[赛题四-天池三轮车.pdf](https://github.com/user-attachments/files/22580607/-.pdf)
+
+
 
 
 

@@ -33,6 +33,8 @@ https://www.bilibili.com/video/BV1GvW3zaEPv/?spm_id_from=333.1387.collection.vid
 
 💻分享代码
 
+见方案分享文件夹～
+
 📝 方案分享
 
 [赛题一_CEDC冲冲冲.pdf](https://github.com/user-attachments/files/22461404/_CEDC.pdf)
@@ -45,6 +47,8 @@ https://www.bilibili.com/video/BV1GvW3zaEPv/?spm_id_from=333.1387.collection.vid
 https://mp.weixin.qq.com/s/gXwTECrrRn-98EJ0cM6u5g
 
 💻分享代码
+
+见方案分享文件夹～
 
 📝方案分享
 
@@ -72,18 +76,7 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 
 
 
-    
 
-### 🏆三等奖：
-    📃 分享文章
-    
-    🎬答辩视频
-    
-    💻分享代码
-    
-    📝 方案分享
-
-    ______
     
 
 
@@ -100,8 +93,6 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 
 🎬答辩视频
 
-💻 分享代码
-
 
 📝 方案分享
 
@@ -116,6 +107,10 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 
 https://www.bilibili.com/video/BV1esnFzZEr3/?spm_id_from=333.1387.collection.video_card.click
 
+💻分享代码 
+
+见方案分享文件夹～
+
 📝 方案分享
 
 [赛题二-ths-答辩ppt.pdf](https://github.com/user-attachments/files/22490544/-ths-.ppt.pdf)
@@ -126,6 +121,11 @@ https://www.bilibili.com/video/BV1esnFzZEr3/?spm_id_from=333.1387.collection.vid
 📃 分享文章
 
 🎬答辩视频
+
+
+💻分享代码 
+
+见方案分享文件夹～
 
 📝 方案分享
 
@@ -146,10 +146,13 @@ https://www.bilibili.com/video/BV1pppazTE2S/?spm_id_from=333.1387.collection.vid
 
 💻分享代码 
 
+见方案分享文件夹～ 
+
 
 📝 方案分享 
 
 [赛题二_蛋木.pdf](https://github.com/user-attachments/files/22418898/_.pdf)
+
 
 
 ### 🏆三等奖：番禺彭于晏
@@ -196,7 +199,10 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 📃 分享文章
 
-💻 分享代码
+
+💻分享代码 
+
+见方案分享文件夹～
 
 
 📝方案分享
@@ -209,9 +215,9 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 ### 🏆三等奖：丛雨酱
 📃 分享文章
 
-🎬答辩视频
+💻分享代码 
 
-💻分享代码
+见方案分享文件夹～
 
 📝 方案分享
 
@@ -229,11 +235,9 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 
 ### 🏆三等奖：不高兴
-📃 分享文章
 
 🎬答辩视频
 
-💻分享代码
 
 📝 方案分享
 [金融领域中的长思维链压缩.不高兴.pdf](https://github.com/user-attachments/files/22580548/default.pdf)
@@ -266,7 +270,6 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 https://www.bilibili.com/video/BV1uEnAz8EyN/?spm_id_from=333.1387.collection.video_card.click
 
-💻分享代码
 
 📝 方案分享
 [赛题四-清水河小分队.pdf](https://github.com/user-attachments/files/22580587/-.pdf)
@@ -280,7 +283,10 @@ https://www.bilibili.com/video/BV1uEnAz8EyN/?spm_id_from=333.1387.collection.vid
 
 https://www.bilibili.com/video/BV1MenuzCENZ/?spm_id_from=333.1387.collection.video_card.click
 
-💻分享代码
+💻分享代码 
+
+见方案分享文件夹～
+
 
 📝 方案分享
 [赛题四_队伍名字不能为空.pdf](https://github.com/user-attachments/files/22580589/_.pdf)
@@ -292,9 +298,11 @@ https://www.bilibili.com/video/BV1MenuzCENZ/?spm_id_from=333.1387.collection.vid
 
 📃 分享文章
 
-🎬答辩视频
 
-💻分享代码
+💻分享代码 
+
+见方案分享文件夹～
+
 
 📝 方案分享
 
@@ -311,7 +319,9 @@ https://www.bilibili.com/video/BV1MenuzCENZ/?spm_id_from=333.1387.collection.vid
 
 https://www.bilibili.com/video/BV1jSJ9z7Eqc/?spm_id_from=333.788.recommend_more_video.0
 
-💻分享代码
+💻分享代码 
+
+见方案分享文件夹～
 
 📝 方案分享
 [赛题四-天池三轮车.pdf](https://github.com/user-attachments/files/22580607/-.pdf)
@@ -329,19 +339,37 @@ https://www.bilibili.com/video/BV1jSJ9z7Eqc/?spm_id_from=333.788.recommend_more_
 
 [初创组二等奖！图计算赋能金融风控，北理教授秦宏超的「反内卷」创业样本](https://mp.weixin.qq.com/s?__biz=MzI1MTc0NTk2Mw==&mid=2247497059&idx=1&sn=71aeca2f72f636d30e0efb246dd189d1&chksm=e8ea1ebd9880763a1095c7a369b743eb051e080eaa594c8dac0ecea03f19231881a837624fd3&xtrack=1&scene=0&subscene=126&sessionid=1758708154&clicktime=1758708158&enterid=1758708158&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7923354-zh_CN-zip&fasttmpl_flag=0&realreporttime=1758708158993&devicetype=android-34&version=28003f37&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_fffe9335040d&countrycode=GL&exportkey=n_ChQIAhIQvcSte64MyER6SK5fF6RN2hLxAQIE97dBBAEAAAAAAJp1I%2FZNiDUAAAAOpnltbLcz9gKNyK89dVj0KZyr1nEtg40tpNXyrsk3FECs%2FKyioS8PBXnOWd7ZCuztPMqnmrMbxlBfajWXNQaX8GQlOKXDR4OCIUvHG52JrgUs6AWX9vtlO7F6JYvRQmR5g1j%2BLexTbCtTO9E0ol5mkSQvRPWSLnEmtbKjJJ9Sb9Im0cu3%2B3BdFDNFlDTGf5Dak1V4zpcYHX31CN4604rmCqRxM0bc0EAw5m0g7T6RABiAhdBHdgzQi2JcWt3HxfPC3ZXi20aXTr8mRauefrHCzDZ6nguhat8lqVs%3D&pass_ticket=7w4g63rWq68phkRqcbItcL%2BAa%2Bm8mu7ZGGY3apJPOHF0BnvAk4WnyQ5IHa1P4k37&wx_header=3) 
 
-    
-💻项目介绍视频
 
 
 ### 🏆三等奖：
     📃 分享文章
     
-    💻项目介绍视频
-
 
 ### 🤝内容开放
     以下是为AFAC2025金融智能创新大赛内容开放做出贡献的团队和个人：
+    💡 fundlove
+    💡 CEDC冲冲冲
+    💡 allin
+    💡 晨曦组
+    💡 feiyun
+    💡 ths
+    💡 clife
+    💡 蛋木 
+    💡 番禺彭于晏
+    💡 ljq13317046284
+    💡 双人成行
+    💡 丛雨酱
+    💡 FNO_
+    💡 不高兴
+    💡 乘风破浪的弟弟
+    💡 清水河小分队
+    💡 队伍名字不能为空
+    💡 好想成为人类
+    💡 天池三轮车
     💡 
+    💡
+    💡
+    💡
     💡 ... 更多贡献者
 
 ### 📍 免责声明

@@ -13,6 +13,8 @@ ______
 ### 🏆一等奖：fundlove
 📃 分享文章
 
+[fundlove组拿下AFAC挑战组冠军！实现基金产品长周期申购和赎回精准预测](https://mp.weixin.qq.com/s/yv5tTNhnY_QXlA04JBnLzQ) 
+
 🎬答辩视频
 
 https://www.bilibili.com/video/BV1GvW3zaEPv/?spm_id_from=333.1387.collection.video_card.click

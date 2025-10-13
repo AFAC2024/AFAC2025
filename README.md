@@ -105,6 +105,9 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 ### 🏆二等奖：ths
 📃 分享文章
 
+[ths队获得二等奖！超长上下文冲突检测系统，推理耗时短、落地简单](https://mp.weixin.qq.com/s/agxDA6r2TuuUbI-2wzi6ng) 
+
+
 🎬答辩视频
 
 https://www.bilibili.com/video/BV1esnFzZEr3/?spm_id_from=333.1387.collection.video_card.click
@@ -268,6 +271,9 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 📃 分享文章
 
+[二等奖方案ReportFlow：赋能金融合规的多源长文本智能一致性核验系统](https://mp.weixin.qq.com/s/GVrRvWF9RW2pbExikuOi7g) 
+
+
 🎬答辩视频
 
 https://www.bilibili.com/video/BV1uEnAz8EyN/?spm_id_from=333.1387.collection.video_card.click
@@ -280,6 +286,9 @@ https://www.bilibili.com/video/BV1uEnAz8EyN/?spm_id_from=333.1387.collection.vid
 
 ### 🏆三等奖：队伍名字不能为空
 📃 分享文章
+
+[三等奖方案细节版｜基于Data Menu RAG的金融多模态报告生成智能体](https://mp.weixin.qq.com/s/C2wLVVU2oea8UguCWx_Yjw) 
+
 
 🎬答辩视频
 

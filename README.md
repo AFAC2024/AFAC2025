@@ -33,6 +33,9 @@ https://www.bilibili.com/video/BV1GvW3zaEPv/?spm_id_from=333.1387.collection.vid
 
 🎬答辩视频
 
+https://www.bilibili.com/video/BV14ex6zkEQ5/?spm_id_from=333.1387.upload.video_card.click 
+
+
 💻分享代码
 
 见方案分享文件夹～
@@ -96,6 +99,7 @@ https://pan.baidu.com/s/1gDxvcmcCauAsn9bWaqCUKw?pwd=afac  提取码: afac
 🎬答辩视频
 
 
+
 📝 方案分享
 
 [赛题二-feiyun队.pdf](https://github.com/user-attachments/files/22490491/-feiyun.pdf) 
@@ -125,6 +129,7 @@ https://www.bilibili.com/video/BV1esnFzZEr3/?spm_id_from=333.1387.collection.vid
 ### 🏆二等奖：clife
 🎬答辩视频
 
+https://www.bilibili.com/video/BV1ACx6ziEMN/?spm_id_from=333.1387.upload.video_card.click
 
 💻分享代码 
 
@@ -266,6 +271,8 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 🎬答辩视频
 
+https://www.bilibili.com/video/BV1WXnizLE3K/?spm_id_from=333.1387.upload.video_card.click
+
 📝方案分享
 
 [赛题四-乘风破浪的弟弟.pdf](https://github.com/user-attachments/files/22580571/-.pdf) 
@@ -375,6 +382,11 @@ https://www.bilibili.com/video/BV1jSJ9z7Eqc/?spm_id_from=333.788.recommend_more_
 📃 分享文章
 
 [初创组三等奖！香港凤凰涅盘上阵父子兵：一场跨越代际的反洗钱3.0攻坚](https://mp.weixin.qq.com/s/3kGqyKuSwjr4CPo9odRgqA) 
+
+🎬 视频分享
+
+[从香港到上海，这对AI金融 “父子兵”想要破局数据孤岛](https://www.bilibili.com/video/BV1WMWCzgEZq/?spm_id_from=333.1387.upload.video_card.click)
+
 
 
 ### 🏆三等奖：厦门蓝天之上科技有限公司

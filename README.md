@@ -123,8 +123,6 @@ https://www.bilibili.com/video/BV1esnFzZEr3/?spm_id_from=333.1387.collection.vid
 
 
 ### 🏆二等奖：clife
-📃 分享文章
-
 🎬答辩视频
 
 
@@ -178,6 +176,11 @@ https://www.bilibili.com/video/BV1pppazTE2S/?spm_id_from=333.1387.collection.vid
 
 因此，本任务聚焦于长思维链的压缩，旨在探索如何在不降低推理准确性的前提下，优化模型推理路径，高效压缩冗余内容，从而降低资源成本、提升执行效率，并增强模型在金融行业中的实用性与智能化水平。
 
+### 🏆榜单第一：德智体美劳全面发展
+
+📃 分享文章
+
+[显性COT+隐性COT如何高效压缩长思维链](https://mp.weixin.qq.com/s/gRRFyulNumxX-MLWSwlglA) 
 
 
 ### 🏆一等奖：ljq13317046284
@@ -202,9 +205,6 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 ### 🏆 二等奖：双人成行
 
-📃 分享文章
-
-
 💻分享代码 
 
 见方案分享文件夹～
@@ -219,6 +219,9 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 ### 🏆三等奖：丛雨酱
 📃 分享文章
+
+[三等奖方案揭秘！如何用“选择题”模型，让AI实现金融复杂问题秒级决策？](https://mp.weixin.qq.com/s/tdQ6nwd8yq_xmiZLMKH_4w) 
+
 
 💻分享代码 
 
@@ -258,6 +261,8 @@ https://www.bilibili.com/video/BV1FQnuzwEqi/?spm_id_from=333.1387.collection.vid
 
 ### 🏆二等奖：乘风破浪的弟弟
 📃 分享文章
+
+[二等奖方案｜基于Muti-Agent的智能金融研报生成系统，快速生成高质量研报](https://mp.weixin.qq.com/s/giuJ_NVRW1VmLDNb8v8mdA) 
 
 🎬答辩视频
 
@@ -309,6 +314,8 @@ https://www.bilibili.com/video/BV1MenuzCENZ/?spm_id_from=333.1387.collection.vid
 
 📃 分享文章
 
+[三步升级baseline｜如何高效优化金融多模态报告生成智能体](https://mp.weixin.qq.com/s/ODGNL8avjsXgfW4zcFXONA) 
+
 
 💻分享代码 
 
@@ -324,7 +331,10 @@ https://www.bilibili.com/video/BV1MenuzCENZ/?spm_id_from=333.1387.collection.vid
 
 
 ### 🏆三等奖：天池三轮车
+
 📃 分享文章
+[深度方案解析｜如何通过智能体协同工作流实现金融多模态报告的高效生成](https://mp.weixin.qq.com/s/7Fj6hNL-wDxbZd6SElr4Hg) 
+
 
 🎬答辩视频
 
@@ -345,16 +355,72 @@ https://www.bilibili.com/video/BV1jSJ9z7Eqc/?spm_id_from=333.788.recommend_more_
 
 初创组旨在发掘、培育并赋能具有颠覆性创新理念与前沿技术实力的创业团队及种子企业，以推动社会和产业的持续革新与健康发展。参赛者可聚焦于金融科技、数字生活等众多领域拓展新方向、新技术及新产品的发展与应用，推动产业转型升级，催生出一批具有高成长性和市场竞争力的项目。
 
-### 🏆二等奖：
+### 🏆二等奖：suantutu/北京理工大学
 📃 分享文章
 
-[初创组二等奖！图计算赋能金融风控，北理教授秦宏超的「反内卷」创业样本](https://mp.weixin.qq.com/s?__biz=MzI1MTc0NTk2Mw==&mid=2247497059&idx=1&sn=71aeca2f72f636d30e0efb246dd189d1&chksm=e8ea1ebd9880763a1095c7a369b743eb051e080eaa594c8dac0ecea03f19231881a837624fd3&xtrack=1&scene=0&subscene=126&sessionid=1758708154&clicktime=1758708158&enterid=1758708158&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7923354-zh_CN-zip&fasttmpl_flag=0&realreporttime=1758708158993&devicetype=android-34&version=28003f37&nettype=cmnet&abtest_cookie=AAACAA%3D%3D&lang=zh_CN&session_us=gh_fffe9335040d&countrycode=GL&exportkey=n_ChQIAhIQvcSte64MyER6SK5fF6RN2hLxAQIE97dBBAEAAAAAAJp1I%2FZNiDUAAAAOpnltbLcz9gKNyK89dVj0KZyr1nEtg40tpNXyrsk3FECs%2FKyioS8PBXnOWd7ZCuztPMqnmrMbxlBfajWXNQaX8GQlOKXDR4OCIUvHG52JrgUs6AWX9vtlO7F6JYvRQmR5g1j%2BLexTbCtTO9E0ol5mkSQvRPWSLnEmtbKjJJ9Sb9Im0cu3%2B3BdFDNFlDTGf5Dak1V4zpcYHX31CN4604rmCqRxM0bc0EAw5m0g7T6RABiAhdBHdgzQi2JcWt3HxfPC3ZXi20aXTr8mRauefrHCzDZ6nguhat8lqVs%3D&pass_ticket=7w4g63rWq68phkRqcbItcL%2BAa%2Bm8mu7ZGGY3apJPOHF0BnvAk4WnyQ5IHa1P4k37&wx_header=3) 
+[初创组二等奖！图计算赋能金融风控，北理教授秦宏超的「反内卷」创业样本](https://mp.weixin.qq.com/s/VjSj2OlWBrsKMs8hfG6D7A)
 
 
 
-### 🏆三等奖：
-    📃 分享文章
-    
+### 🏆三等奖：金蝶征信有限公司
+
+📃 分享文章
+
+[初创组三等奖！金蝶征信用知识图谱+大模型，为风控装上产业“导航”](https://mp.weixin.qq.com/s/dlZXeqBmSXy7YkqVASIgzQ)
+
+
+
+### 🏆三等奖：香港凤凰涅盘科技股份有限公司
+
+📃 分享文章
+
+[初创组三等奖！香港凤凰涅盘上阵父子兵：一场跨越代际的反洗钱3.0攻坚](https://mp.weixin.qq.com/s/3kGqyKuSwjr4CPo9odRgqA) 
+
+
+### 🏆三等奖：厦门蓝天之上科技有限公司
+
+📃 分享文章    
+
+[00后创业青年李天一，用AI为千万听力障碍者「发声」｜初创组三等奖](https://mp.weixin.qq.com/s/1W2HZUIWgsjj6ya5Zd-YNg)
+
+
+### 🏆优秀奖：鹿克斯科技队
+
+📃 分享文章 
+
+[从人大的顶尖实验室，走向真实产业场景的INFJ技术人｜初创组优秀奖](https://mp.weixin.qq.com/s/BKYPbWOhuQfhso40K7J5Ig)
+
+
+
+### 🏆优秀奖：上海词灵科技有限公司
+
+📃 分享文章
+
+[从批改到读懂，华东师范大学博士让AI成为超级助教｜初创组优秀奖](https://mp.weixin.qq.com/s/yx4FJ-PKdxXvH0bXUcslgw) 
+
+
+### 🏆优秀奖：风控数链队
+
+📃 分享文章
+
+[三位90后财务，用一条AI风控数链，锁住20万亿应收账款 | 初创组优秀奖](https://mp.weixin.qq.com/s/jBhHwF3vihTzB9EPrrfzEg)
+
+
+### 🏆优秀奖：Agent4Web3.0
+
+📃 分享文章
+
+[北航博士团队，为Web3.0价值互联网造一艘AI安全方舟｜初创组优秀奖](https://mp.weixin.qq.com/s/CzGf3U23Q1Ov03Qp7eeZYw) 
+
+
+
+### 🏆优秀奖：镧启科技
+
+📃 分享文章
+
+[务实者的理想主义，一位02年CEO的金融基建梦｜初创组优秀奖](https://mp.weixin.qq.com/s/prB1lIz1PMs2m1cPt_ukaA)
+ 
+
 
 ### 🤝内容开放
     以下是为AFAC2025金融智能创新大赛内容开放做出贡献的团队和个人：
@@ -377,10 +443,14 @@ https://www.bilibili.com/video/BV1jSJ9z7Eqc/?spm_id_from=333.788.recommend_more_
     💡 队伍名字不能为空
     💡 好想成为人类
     💡 天池三轮车
-    💡 
-    💡
-    💡
-    💡
+    💡 suantutu/北京理工大学
+    💡 香港凤凰涅盘科技股份有限公司
+    💡 厦门蓝天之上科技有限公司
+    💡 鹿克斯科技队
+    💡 上海词灵科技有限公司
+    💡 风控数链队
+    💡 Agent4Web3.0
+    💡 镧启科技
     💡 ... 更多贡献者
 
 ### 📍 免责声明
